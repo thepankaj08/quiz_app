@@ -47,6 +47,7 @@
         }
         .options button.correct {
             background-color: #6fe18b;
+            border-style: dashed;
         }
         .options button.wrong {
             background-color: #ef8790;
@@ -70,6 +71,22 @@
         .controls button:hover {
             background-color: #0056b3;
         }
+        .question p {
+            
+            font-weight: 700; 
+            font-size: x-large;
+    }
+        h2 {
+            font-style: italic;
+    }
+        .load {
+            color: white;
+            background-color: #9494f5;
+            border-style: none;
+            font-size: 20px;
+            border-radius: 5px;
+            padding: 5px 10px 5px 10px;
+        }
     </style>
 </head>
 <body>
@@ -82,7 +99,7 @@
             <option value="quiz_22_12.json">Direct_Indirect</option>
             <option value="quiz_topic_2.json">Topic 2</option>
         </select>
-        <button onclick="loadQuiz()">Load Quiz</button>
+        <button class="load" onclick="loadQuiz()">Load Quiz</button>
     </div>
 
     <div id="quizContainer">
