@@ -74,10 +74,10 @@
 <div class="quiz-container">
     <h1>Quiz App</h1>
     <div>
-        <label for="csvSelector">Select Quiz Topic:</label>
-        <select id="csvSelector">
-            <option value="questions_with_answers.csv">Default Quiz</option>
-            <!-- Add more options for other CSV files hosted on GitHub -->
+        <label for="jsonSelector">Select Quiz Topic:</label>
+        <select id="jsonSelector">
+            <option value="quiz_22_12.json">Topic 1</option>
+            <option value="quiz_topic_2.json">Topic 2</option>
         </select>
         <button onclick="loadQuiz()">Load Quiz</button>
     </div>
@@ -104,33 +104,21 @@
     let currentQuestionIndex = 0;
 
     function loadQuiz() {
-        const selectedCSV = document.getElementById('csvSelector').value;
+        const selectedJSON = document.getElementById('jsonSelector').value;
 
-        fetch(selectedCSV)
+        fetch(selectedJSON)
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
                 }
-                return response.text();
+                return response.json();
             })
-            .then(csvText => {
-                questions = parseCSV(csvText);
+            .then(jsonData => {
+                questions = jsonData;
                 currentQuestionIndex = 0;
                 displayQuestion();
             })
             .catch(error => alert('Failed to load quiz: ' + error.message));
-    }
-
-    function parseCSV(csvText) {
-        const rows = csvText.split('\n');
-        const headers = rows[0].split(',');
-        return rows.slice(1).map(row => {
-            const values = row.split(',');
-            return headers.reduce((acc, header, index) => {
-                acc[header.trim()] = values[index]?.trim();
-                return acc;
-            }, {});
-        });
     }
 
     function displayQuestion() {
@@ -138,26 +126,23 @@
 
         const question = questions[currentQuestionIndex];
 
-        document.getElementById('questionNumber').textContent = `Question ${question['Question Number']}`;
-        document.getElementById('questionText').textContent = question['Question'];
+        document.getElementById('questionNumber').textContent = `Question ${question.question_id}`;
+        document.getElementById('questionText').textContent = question.question;
 
         const optionsContainer = document.getElementById('optionsContainer');
         optionsContainer.innerHTML = '';
 
-        for (let i = 1; i <= 4; i++) {
-            const optionText = question[`Option ${i}`];
-            if (optionText) {
-                const button = document.createElement('button');
-                button.textContent = optionText;
-                button.onclick = () => checkAnswer(i);
-                optionsContainer.appendChild(button);
-            }
-        }
+        question.options.forEach((option, index) => {
+            const button = document.createElement('button');
+            button.textContent = option;
+            button.onclick = () => checkAnswer(index + 1);
+            optionsContainer.appendChild(button);
+        });
     }
 
     function checkAnswer(selectedOption) {
         const question = questions[currentQuestionIndex];
-        const correctOption = parseInt(question['Correct Answer'], 10);
+        const correctOption = parseInt(question.correct_option, 10);
 
         const optionsContainer = document.getElementById('optionsContainer');
         Array.from(optionsContainer.children).forEach((button, index) => {
