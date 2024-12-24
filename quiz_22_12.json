@@ -1831,8 +1831,8 @@
         "options": [
             "(1) The father warned his son, “Beware of him!”",
             "(2) The father warned his son, “Watch that chap!”",
-            "(3) The father warned his son, “Be careful about him.”  (4} The father warned his son, “Don't fall into the trap.”",
-            ""
+            "(3) The father warned his son, “Be careful about him.”",
+            "(4) The father warned his son, “Don't fall into the trap.”"
         ],
         "correct_option": "1"
     },
