@@ -1711,13 +1711,13 @@
             "He  has  read  four  plays  ",
             "written  by Shakespeare",
             "by the end of his vacation.",
-            ""
+            "No Error (d)"
         ],
         "correct_option": "1"
     },
     {
         "question_id": "157",
-        "question": "157.No Error (d) The officer (a)/ is angry on the clerk (b)/ for not attending to the work. (c)/ No Error (d)",
+        "question": "157. The officer (a)/ is angry on the clerk (b)/ for not attending to the work. (c)/ No Error (d)",
         "options": [
             "No Error (d) The officer ",
             "is angry on the clerk",
