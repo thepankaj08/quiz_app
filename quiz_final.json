@@ -787,7 +787,7 @@
             "(1) His father once told him that if he couldn't trust his people then he didn't want to be doing that.",
             "(2) My father once told me that if he couldn't trust his people then he didn't want to be doing that.",
             "(3) My father once told me that if he couldn't trust my people then he didn't want to be doing that.",
-            "(4) My father once told.me that if he couldn't trust his people then he didn't want to be doing this."
+            "(4) My father once told me that if he couldn't trust his people then he didn't want to be doing this."
         ],
         "correct_option": "2"
     },
@@ -841,7 +841,7 @@
         "options": [
             "(1) She requested Rita to help her in her homework.",
             "(2) Rita requested her to help her with her homework.",
-            "(3) any She requested Rita to help her with her homework.",
+            "(3) She requested Rita to help her with her homework.",
             "(4) She requested Rita to help her homework."
         ],
         "correct_option": "3"
