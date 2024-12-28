@@ -152,6 +152,16 @@
 </div>
 
 <script>
+    let totalScore = 0;
+    let rightScore = 0;
+    let wrongScore = 0;
+    
+    function updateScoreboard() {
+        document.getElementById('totalScore').textContent = totalScore;
+        document.getElementById('rightScore').textContent = rightScore;
+        document.getElementById('wrongScore').textContent = wrongScore;
+    }
+
     let questions = [];
     let currentQuestionIndex = 0;
 
