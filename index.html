@@ -175,7 +175,8 @@
 
     function displayQuestion() {
         if (currentQuestionIndex < 0 || currentQuestionIndex >= questions.length) return;
-
+        // Reset the answered flag for the new question
+        hasAnswered = false;
         const question = questions[currentQuestionIndex];
 
         document.getElementById('questionNumber').textContent = `Question ${question.question_id}`;
@@ -192,7 +193,9 @@
         });
     }
 
+    let hasAnswered = false;  // Flag to track if the question has been answered
     function checkAnswer(selectedOption) {
+        if (hasAnswered) return; // Prevent further answers if the question has already been answered
         const question = questions[currentQuestionIndex];
         const correctOption = parseInt(question.correct_option, 10);
 
@@ -205,6 +208,18 @@
                 button.classList.add('wrong');
             }
         });
+        // Update scores
+        totalScore++;
+        if (selectedOption === correctOption) {
+            rightScore++;
+        } else {
+            wrongScore++;
+        }
+    
+        // Update scoreboard display
+        updateScoreboard();
+        // Set flag to prevent further answers for the same question
+        hasAnswered = true;
     }
 
     function prevQuestion() {
