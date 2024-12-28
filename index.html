@@ -189,6 +189,11 @@
                 questions = jsonData;
                 currentQuestionIndex = 0;
                 displayQuestion();
+                totalScore = 0;
+                rightScore = 0;
+                wrongScore = 0;
+                updateScoreboard();
+                
             })
             .catch(error => alert('Failed to load quiz: ' + error.message));
     }
