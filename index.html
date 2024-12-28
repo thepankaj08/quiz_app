@@ -89,9 +89,39 @@
             border-radius: 5px;
             padding: 5px 10px 5px 10px;
         }
+        .scoreboard {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 150px;
+            padding: 15px;
+            background-color: #f4f4f4;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            font-family: 'Poppins', Arial, sans-serif;
+        }
+
+        .scoreboard h3 {
+            margin: 0;
+            font-size: 20px;
+            color: #333;
+        }
+
+        .scoreboard p {
+            margin: 5px 0;
+            font-size: 16px;
+            color: #555;
+        }
     </style>
 </head>
 <body>
+    <div class="scoreboard">
+        <h3>SCORE</h3>
+        <p>Total: <span id="totalScore">0</span></p>
+        <p>Right: <span id="rightScore">0</span></p>
+        <p>Wrong: <span id="wrongScore">0</span></p>
+    </div>
 
 <div class="quiz-container">
     <h1>Quiz App</h1>
