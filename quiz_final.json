@@ -1563,7 +1563,7 @@
     },
     {
         "question_id": "143",
-        "question": "143. He said, \"The teacher usually does not ask any question.\" He said that",
+        "question": "143. He said, \"The teacher usually does not ask any question.\" \nHe said that,",
         "options": [
             "(1) the teacher usually does not ask any question.",
             "(2) the teacher usually did not ask any question.",
