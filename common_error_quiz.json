@@ -2806,12 +2806,12 @@
     },
     {
         "question_id": "256",
-        "question": "256.course of action. (c)/ No error (d) Many a student (a)/ have passed (b)/ the I.I.T. examination. (c)/ No error (d)",
+        "question": "256.Many a student (a)/ have passed (b)/ the I.I.T. examination. (c)/ No error (d)",
         "options": [
-            "course of action. (c)/ No error (d) Many a student ",
+            "Many a student ",
             "have passed",
-            "",
-            "No error (d) Many a student (a)/ have passed (b)/ the I.I.T. examination. (c)/ No error (d)"
+            "the I.I.T. examination. ",
+            "No error (d)"
         ],
         "correct_option": "2"
     },
