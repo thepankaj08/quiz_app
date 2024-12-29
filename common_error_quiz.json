@@ -3158,23 +3158,23 @@
     },
     {
         "question_id": "288",
-        "question": "288.Engines used in space shuttles (a)/ are much larger (b)/ and more strong than the ones used",
+        "question": "288.Engines used in space shuttles (a)/ are much larger (b)/ and more strong than the ones used in jet planes. (c)/ No error (d) ",
         "options": [
             "Engines used in space shuttles ",
             "are much larger",
-            "and more strong than the ones used",
-            ".Engines used in space shuttles (a)/ are much larger (b)/ and more strong than the ones used"
+            "and more strong than the ones used in jet planes.",
+            "No error (d)"
         ],
         "correct_option": "3"
     },
     {
         "question_id": "289",
-        "question": "289.in jet planes. (c)/ No error (d) Walking along (a)/ the bank of the river (b)/ the road begins to rise. (c)/ No error (d)",
+        "question": "289.Walking along (a)/ the bank of the river (b)/ the road begins to rise. (c)/ No error (d)",
         "options": [
-            "in jet planes. (c)/ No error (d) Walking along ",
+            "Walking along ",
             "the bank of the river",
-            "",
-            "No error (d) Walking along (a)/ the bank of the river (b)/ the road begins to rise. (c)/ No error (d)"
+            "the road begins to rise.",
+            "No error (d)"
         ],
         "correct_option": "4"
     },
