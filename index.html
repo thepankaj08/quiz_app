@@ -124,11 +124,15 @@
             font-size: 16px;
             font-weight: bold;
         }
+        .reset{
+            width: 30px;
+            
+        }
     </style>
 </head>
 <body>
     <div class="scoreboard">
-        <h3>SCORE</h3><img src="undo.png" alt="Reset" onclick="resetSession()"></img>
+        <h3>SCORE</h3><a href"" onclick="resetSession()"><img class="reset" src="undo.png" alt="Reset" onclick="resetSession()"></img></a>
         <p>Total: <span id="totalScore">0</span></p>
         <p>Right: <span id="rightScore">0</span></p>
         <p>Wrong: <span id="wrongScore">0</span></p>
