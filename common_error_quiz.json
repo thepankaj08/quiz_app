@@ -3521,23 +3521,23 @@
     },
     {
         "question_id": "321",
-        "question": "321.If I would have realised (a)/ what a bad person my friend is (b)/ I would have discarded his",
+        "question": "321.If I would have realised (a)/ what a bad person my friend is (b)/ I would have discarded his friendship. (c)/ No error (d) ",
         "options": [
             "If I would have realised ",
             "what a bad person my friend is",
-            "I would have discarded his",
-            ".If I would have realised (a)/ what a bad person my friend is (b)/ I would have discarded his"
+            "I would have discarded his friendship.",
+            "No error (d)"
         ],
         "correct_option": "1"
     },
     {
         "question_id": "322",
-        "question": "322.friendship. (c)/ No error (d) Our Vedas and Upanishads (a)/ asked us to tread (b)/ the path of honesty. (c)/ No error (d)",
+        "question": "322.Our Vedas and Upanishads (a)/ asked us to tread (b)/ the path of honesty. (c)/ No error (d)",
         "options": [
             "friendship. (c)/ No error (d) Our Vedas and Upanishads ",
             "asked us to tread",
-            "",
-            "No error (d) Our Vedas and Upanishads (a)/ asked us to tread (b)/ the path of honesty. (c)/ No error (d)"
+            "the path of honesty.",
+            "No error (d)"
         ],
         "correct_option": "2"
     },
