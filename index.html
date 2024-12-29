@@ -301,6 +301,15 @@
         }
     }
 
+    function resetSession() {
+        attemptedQuestions.clear();
+        totalScore = 0;
+        rightScore = 0;
+        wrongScore = 0;
+        updateScoreboard();
+        console.log("Session reset. All questions can be attempted again.");
+    }
+
     // Load the default quiz on page load
     loadQuiz();
 </script>
