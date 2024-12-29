@@ -233,11 +233,11 @@
         attemptedQuestions.add(question.question_id);
     
         // Update score
-        scoreData.totalAttempted++;
+        totalScore++;
         if (selectedOption === correctOption) {
-            scoreData.correctAnswers++;
+            rightScore++;
         } else {
-            scoreData.wrongAnswers++;
+            wrongScore++;
         }
     
         // Update scoreboard and save progress
