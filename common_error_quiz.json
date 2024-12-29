@@ -2905,23 +2905,23 @@
     },
     {
         "question_id": "265",
-        "question": "265.You’d better (a)/ gone now, (b)/ or you’ll be",
+        "question": "265.You’d better (a)/ gone now, (b)/ or you’ll be late (c)/ No error (d) ",
         "options": [
             "You’d better ",
             "gone now,",
             "or you’ll be",
-            ".You’d better (a)/ gone now, (b)/ or you’ll be"
+            "No error (d) "
         ],
         "correct_option": "2"
     },
     {
         "question_id": "266",
-        "question": "266.late. (c)/ No error (d) The families (a)/ are living in Gulmohar Park (b)/ for the last two decades. (c)/ No error (d)",
+        "question": "266.The families (a)/ are living in Gulmohar Park (b)/ for the last two decades. (c)/ No error (d)",
         "options": [
-            "late. (c)/ No error (d) The families ",
+            "The families ",
             "are living in Gulmohar Park",
-            "",
-            "No error (d) The families (a)/ are living in Gulmohar Park (b)/ for the last two decades. (c)/ No error (d)"
+            "for the last two decades.",
+            "No error (d)"
         ],
         "correct_option": "2"
     },
