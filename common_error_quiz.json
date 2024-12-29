@@ -2795,12 +2795,12 @@
     },
     {
         "question_id": "255",
-        "question": "255.It is time you (a)/ decide on your text (b)/",
+        "question": "255.It is time you (a)/ decide on your next (b)/course of action. (c)/ No error (d)",
         "options": [
             "It is time you ",
-            "decide on your text",
-            "",
-            ".It is time you (a)/ decide on your text (b)/"
+            "decide on your next ",
+            "course of action",
+            "No error "
         ],
         "correct_option": "2"
     },
