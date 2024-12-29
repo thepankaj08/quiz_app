@@ -2203,10 +2203,10 @@
         "question_id": "201",
         "question": "201.(a) They agreed (b) to repair the damage (c)freely of charge (d)No error",
         "options": [
-            "(a) They agreed (b) to repair the damage (c)freely of charge (d)No error",
-            ".(a) They agreed (b) to repair the damage (c)freely of charge (d)No error",
-            ".(a) They agreed (b) to repair the damage (c)freely of charge (d)No error",
-            ".(a) They agreed (b) to repair the damage (c)freely of charge (d)No error"
+            "(a) They agreed",
+            "(b) to repair the damage",
+            "(c)freely of charge",
+            "(d)No error"
         ],
         "correct_option": "3"
     },
@@ -2214,10 +2214,10 @@
         "question_id": "202",
         "question": "202.(a) When Darun heard the news that his father had been hospitalized (b)he cancelled his trip (c)and returned back to his village (d)No error",
         "options": [
-            "(a) When Darun heard the news that his father had been hospitalized (b)he cancelled his trip (c)and returned back to his village (d)No error",
-            ".(a) When Darun heard the news that his father had been hospitalized (b)he cancelled his trip (c)and returned back to his village (d)No error",
-            ".(a) When Darun heard the news that his father had been hospitalized (b)he cancelled his trip (c)and returned back to his village (d)No error",
-            ".(a) When Darun heard the news that his father had been hospitalized (b)he cancelled his trip (c)and returned back to his village (d)No error"
+            "(a) When Darun heard the news that his father had been hospitalized",
+            "(b)he cancelled his trip ",
+            "(c)and returned back to his village ",
+            "(d)No error"
         ],
         "correct_option": "3"
     },
@@ -2225,10 +2225,10 @@
         "question_id": "203",
         "question": "203.(a) The Governing Board (b)comprises of (c)several distinguished personalities (d)No error",
         "options": [
-            "(a) The Governing Board (b)comprises of (c)several distinguished personalities (d)No error",
-            ".(a) The Governing Board (b)comprises of (c)several distinguished personalities (d)No error",
-            ".(a) The Governing Board (b)comprises of (c)several distinguished personalities (d)No error",
-            ".(a) The Governing Board (b)comprises of (c)several distinguished personalities (d)No error"
+            "(a) The Governing Board",
+            "(b)comprises of ",
+            "(c)several distinguished personalities",
+            "(d)No error"
         ],
         "correct_option": "2"
     },
@@ -2236,10 +2236,10 @@
         "question_id": "204",
         "question": "204.(a) My uncle does not spend (b)so much money on that house (c)unless he thinks of moving in soon (d)No error",
         "options": [
-            "(a) My uncle does not spend (b)so much money on that house (c)unless he thinks of moving in soon (d)No error",
-            ".(a) My uncle does not spend (b)so much money on that house (c)unless he thinks of moving in soon (d)No error",
-            ".(a) My uncle does not spend (b)so much money on that house (c)unless he thinks of moving in soon (d)No error",
-            ".(a) My uncle does not spend (b)so much money on that house (c)unless he thinks of moving in soon (d)No error"
+            "(a) My uncle does not spend",
+            "(b)so much money on that house",
+            "(c)unless he thinks of moving in soon",
+            "(d)No error"
         ],
         "correct_option": "1"
     },
@@ -2247,10 +2247,10 @@
         "question_id": "205",
         "question": "205.(a) Neither my sister nor my brother (b)are interested (c)in moving to another house (d)No error",
         "options": [
-            "(a) Neither my sister nor my brother (b)are interested (c)in moving to another house (d)No error",
-            ".(a) Neither my sister nor my brother (b)are interested (c)in moving to another house (d)No error",
-            ".(a) Neither my sister nor my brother (b)are interested (c)in moving to another house (d)No error",
-            ".(a) Neither my sister nor my brother (b)are interested (c)in moving to another house (d)No error"
+            "(a) Neither my sister nor my brother",
+            "(b)are interested",
+            "(c)in moving to another house ",
+            "(d)No error"
         ],
         "correct_option": "2"
     },
@@ -2280,8 +2280,8 @@
         "question_id": "208",
         "question": "208.The teacher told that (a) the students should have gone to the library (b)/ instead having wasted their time. (c)/ No error. (d)",
         "options": [
-            "The teacher told that (a) the students should have gone to the library (b)/ instead having wasted their time. (c)/ No error. (d)",
-            ".The teacher told that (a) the students should have gone to the library",
+            "The teacher told that (a) ",
+            "the students should have gone to the library",
             "instead having wasted their time.",
             "No error. (d)"
         ],
