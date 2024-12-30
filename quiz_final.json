@@ -2040,7 +2040,7 @@
         "options": [
             "(1) Mother asked Raju if he would be ready.",
             "(2) Mother told Raju if he was ready.",
-            "(3) Mother asked Raju if he was tou his ready.",
+            "(3) Mother asked Raju if he was ready.",
             "(4) Mother wanted to know from Raju if he was ready."
         ],
         "correct_option": "3"
