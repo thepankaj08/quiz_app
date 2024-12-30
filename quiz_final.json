@@ -1666,7 +1666,7 @@
         "options": [
             "(1) She asked the girl that she did that.",
             "(2) She asked the girl if she did that.",
-            "(3) She asked the girl if she had We done that.",
+            "(3) She asked the girl if she had done that.",
             "(4) She told the girl that she had done that."
         ],
         "correct_option": "3"
