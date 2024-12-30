@@ -4274,15 +4274,15 @@
             "The prime minister along with his Cabinet colleagues ",
             "have been welcomed by the Chief Minister",
             "at a formal ceremony.",
-            ""
+            "No error (d) "
         ],
         "correct_option": "2"
     },
     {
         "question_id": "390",
-        "question": "390.No error (d) The political candidate talked (a)/ as if she has already been elected (b)/ to the presidency. (c)/ No error (d)",
+        "question": "390.The political candidate talked (a)/ as if she has already been elected (b)/ to the presidency. (c)/ No error (d)",
         "options": [
-            "No error (d) The political candidate talked ",
+            "The political candidate talked ",
             "as if she has already been elected",
             "to the presidency.",
             "No error (d)"
