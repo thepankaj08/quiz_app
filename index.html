@@ -143,6 +143,15 @@
             transition: transform 0.5s ease;
             transform: rotate(-360deg);
         }
+        .selector{
+            display: flex;
+            flex-direction: column;
+            width: min-content;
+            position: fixed;
+        }
+        .selector > div{
+            padding: 5px 5px;
+        }
     </style>
 </head>
 <body>
@@ -155,16 +164,16 @@
     </div>
 
 <div class="quiz-container">
-    <h1>Quiz App</h1>
-    <div>
-        <label for="jsonSelector">Select Quiz Topic:</label>
-        <select id="jsonSelector">
+    <div class="selector">
+        <div><label for="jsonSelector">Select Quiz Topic:</label></div>
+        <div><select id="jsonSelector">
             <option value="quiz_final.json">Direct_Indirect</option>
             <option value="common_error_quiz.json">Common Error</option>
-        </select>
-        <button class="load" onclick="loadQuiz()">Load Quiz</button>
+        </select></div>
+        <div><button class="load" onclick="loadQuiz()">Load Quiz</button></div>
     </div>
-
+    <h1>Quiz App</h1>
+    
     <div id="quizContainer">
         <div class="question">
             <h2 id="questionNumber"></h2>
