@@ -99,13 +99,21 @@
             background-color: #f4f4f4;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
-            text-align: center;
+            /* text-align: center; */
             font-family: 'Poppins', Arial, sans-serif;
+            display: grid;
+            grid-template-columns: max-content max-content;
+            grid-gap: 10px;
+            padding: 10px;
+            justify-content: center;
+        }
+        .grid-container > div{
+            padding: 10px 10px;
         }
 
         .scoreboard h3 {
             margin: 0;
-            font-size: 20px;
+            font-size: 25px;
             color: #B17457;
         }
 
@@ -125,7 +133,9 @@
             font-weight: bold;
         }
         .reset{
-            width: 30px;
+            width: 25px;
+            cursor: pointer;
+            margin-top: 9px;
             
         }
         .reset:hover{
@@ -136,10 +146,11 @@
 </head>
 <body>
     <div class="scoreboard">
-        <h3>SCORE</h3><a href"" onclick="resetSession()"><img class="reset" src="undo.png" alt="Reset" onclick="resetSession()"></img></a>
-        <p>Total: <span id="totalScore">0</span></p>
-        <p>Right: <span id="rightScore">0</span></p>
-        <p>Wrong: <span id="wrongScore">0</span></p>
+        <div><h3>SCORE</h3></div>
+        <div><img class="reset" src="undo.png" alt="Reset" onclick="resetSession()"></img></div>
+        <div><p style="text-align: right;">Total: </p></div><div><p><span id="totalScore">0</span></p></div>
+        <div><p style="text-align: right;">Right: </p></div><div><p><span id="rightScore">0</span></p></div>
+        <div><p style="text-align: right;">Wrong: </p></div><div><p><span id="wrongScore">0</span></p></div>
     </div>
 
 <div class="quiz-container">
