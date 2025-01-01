@@ -5217,10 +5217,10 @@
         "question_id": "475",
         "question": "475. I am going (a) / to have this certificate (b) / attest by the doctor (c) / No error (d)",
         "options": [
-            " I am going (a) / to have this certificate (b) / attest by the doctor (c) / No error (d)",
-            ". I am going (a) / to have this certificate (b) / attest by the doctor (c) / No error (d)",
-            ". I am going (a) / to have this certificate (b) / attest by the doctor (c) / No error (d)",
-            ". I am going (a) / to have this certificate (b) / attest by the doctor (c) / No error (d)"
+            " I am going (a)",
+            "to have this certificate (b)",
+            "attest by the doctor (c)",
+            "No error (d)"
         ],
         "correct_option": "3"
     },
