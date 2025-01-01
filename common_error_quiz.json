@@ -1,4 +1,4 @@
-[
+    [
     {
         "question_id": "1",
         "question": "1.You must either (a)/ be regular with your studies (b)/ and study for longer period before the examination. (c)/ No Error (d)",
@@ -4742,7 +4742,7 @@
     },
     {
         "question_id": "432",
-        "question": "432.A girl must be gracious (a)/ is she wishes (b)/ to be a ballerina. (c)/ No error (d)",
+        "question": "432.A girl must be gracious (a)/ if she wishes (b)/ to be a ballerina. (c)/ No error (d)",
         "options": [
             "A girl must be gracious ",
             "is she wishes",
