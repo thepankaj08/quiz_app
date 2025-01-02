@@ -5534,18 +5534,18 @@
     },
     {
         "question_id": "504",
-        "question": "504.Many a student (a)/ have passed (b)/ this",
+        "question": "504.Many a student (a)/ have passed (b)/ this examination. (c)/ No error (d) ",
         "options": [
             "Many a student ",
             "have passed",
-            "this",
-            ".Many a student (a)/ have passed (b)/ this"
+            "this examination",
+            "No error (d)"
         ],
         "correct_option": "2"
     },
     {
         "question_id": "505",
-        "question": "505.examination. (c)/ No error (d) I wasn’t present (a)/ at the last meeting and (b)/ neither was you. (c)/ No error (d)",
+        "question": "505.I wasn’t present (a)/ at the last meeting and (b)/ neither was you. (c)/ No error (d)",
         "options": [
             "examination. (c)/ No error (d) I wasn’t present ",
             "at the last meeting and",
