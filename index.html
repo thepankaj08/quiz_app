@@ -216,10 +216,10 @@
 
     let questions = [];
     let currentQuestionIndex = 0;
-
+    let topic = "";
     function loadQuiz() {
         const selectedJSON = document.getElementById('jsonSelector').value;
-
+        topic = selectedJSON;
         fetch(selectedJSON)
             .then(response => {
                 if (!response.ok) {
