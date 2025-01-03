@@ -318,11 +318,18 @@
         }
         else{
             console.log("No Where to go.")
+            currentQuestionIndex--;
+            displayQuestion();
         }
     }
 
     function nextQuestion() {
         if (currentQuestionIndex < questions.length - 1) {
+            currentQuestionIndex++;
+            displayQuestion();
+        }
+        else{
+            console.log("No Where to go.")
             currentQuestionIndex++;
             displayQuestion();
         }
