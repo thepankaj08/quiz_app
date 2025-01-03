@@ -162,6 +162,12 @@
         .selector > div{
             padding: 5px 5px;
         }
+        .title{
+            background-image: linear-gradient(to left, #00ffdc, #7415d1);
+            color: transparent;
+            -webkit-background-clip: text;
+        }
+            
     </style>
 </head>
 <body>
@@ -183,7 +189,7 @@
         </select></div>
         <div><button class="load" onclick="loadQuiz()">Load Quiz</button></div>
     </div>
-    <h1 id="quiz_topic">Quiz App</h1>
+    <h1 id="quiz_topic" class="title">Quiz App</h1>
     
     <div id="quizContainer">
         <div class="question">
