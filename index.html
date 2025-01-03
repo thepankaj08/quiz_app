@@ -183,7 +183,7 @@
         </select></div>
         <div><button class="load" onclick="loadQuiz()">Load Quiz</button></div>
     </div>
-    <h1>Quiz App</h1>
+    <h1 id="quiz_topic">Quiz App</h1>
     
     <div id="quizContainer">
         <div class="question">
@@ -235,6 +235,7 @@
                 rightScore = 0;
                 wrongScore = 0;
                 updateScoreboard();
+                title();
                 
             })
             .catch(error => alert('Failed to load quiz: ' + error.message));
@@ -355,6 +356,20 @@
         wrongScore = 0;
         updateScoreboard();
         console.log("Session reset. All questions can be attempted again.");
+    }
+    function title(){
+      if (topic === "direct_indirect.json") {
+        document.getElementById('quiz_topic').textContent = "Direct Indirect";
+      }
+      else if(topic === "common_error_quiz.json"){
+        document.getElementById('quiz_topic').textContent = "Spot the Error";
+      }
+      else if (topic === "synonyms.json"){
+        document.getElementById('quiz_topic').textContent = "Synonyms";
+      }
+      else{
+        document.getElementById('quiz_topic').textContent = "No_Title";
+      }
     }
 
     // Load the default quiz on page load
