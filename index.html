@@ -91,16 +91,16 @@
     }
         .load {
             border-style: none;
-            font-size: 20px;
+            font-size: 18px;
             border-radius: 5px;
             padding: 5px 10px 5px 10px;
             font-weight: bold;
-            width: 100%;
+            width: fit-content;
             background-color: #659af7;
             color: white;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
             font-style: italic;
-            ransition: 0.3s;
+            transition: 0.3s;
         }
         .controls button:hover {
             background-color: #0056b3;
@@ -146,10 +146,11 @@
             color: #333;
             border: 1px solid #ccc;
             border-radius: 4px;
-            padding: 7px;
+            padding: 4px;
             font-family: 'Poppins', Arial, sans-serif;
-            font-size: 13px;
+            font-size: 10px;
             font-weight: bold;
+            width: fit-content;
         }
         .reset{
             width: 25px;
@@ -191,7 +192,7 @@
 
 <div class="quiz-container">
     <div class="selector">
-        <div><label for="jsonSelector">Select Quiz Topic:</label></div>
+       
         <div><select id="jsonSelector">
             <option value="direct_indirect.json">Direct_Indirect</option>
             <option value="common_error_quiz.json">Common Error</option>synonyms.json
@@ -252,6 +253,7 @@
                 wrongScore = 0;
                 updateScoreboard();
                 title();
+                resetSession()
                 
             })
             .catch(error => alert('Failed to load quiz: ' + error.message));
