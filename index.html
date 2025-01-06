@@ -208,6 +208,7 @@
             <option value="direct_indirect.json">Direct_Indirect</option>
             <option value="common_error_quiz.json">Common Error</option>synonyms.json
             <option value="synonyms.json">Synonyms</option>
+            <option value="antonym.json">Synonyms</option>
         </select></div>
         <div><button class="load" onclick="loadQuiz()">Load Quiz</button></div>
     </div>
@@ -400,6 +401,9 @@
       }
       else if (topic === "synonyms.json"){
         document.getElementById('quiz_topic').textContent = "Synonyms";
+      }
+      else if (topic === "antonym.json"){
+        document.getElementById('quiz_topic').textContent = "Antonyms";
       }
       else{
         document.getElementById('quiz_topic').textContent = "No_Title";
