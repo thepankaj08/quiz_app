@@ -205,10 +205,12 @@
     <div class="selector">
        
         <div><select id="jsonSelector">
-            <option value="direct_indirect.json">Direct_Indirect</option>
-            <option value="common_error_quiz.json">Common Error</option>synonyms.json
-            <option value="synonyms.json">Synonyms</option>
-            <option value="antonym.json">Antonyms</option>
+            <option value="data/direct_indirect.json">Direct_Indirect</option>
+            <option value="data/common_error_quiz.json">Common Error</option>synonyms.json
+            <option value="data/synonyms.json">Synonyms</option>
+            <option value="data/antonym.json">Antonyms</option>
+            <option value="data/Synonyms_CPO.json">Synonyms_CPO</option>
+            <option value="data/Antonyms_CPO.json">Antonyms_CPO</option>
         </select></div>
         <div><button class="load" onclick="loadQuiz()">Load Quiz</button></div>
     </div>
@@ -404,6 +406,12 @@
       }
       else if (topic === "antonym.json"){
         document.getElementById('quiz_topic').textContent = "Antonyms";
+      }
+          else if (topic === "Synonyms_CPO.json"){
+        document.getElementById('quiz_topic').textContent = "Synonyms_CPO";
+      }
+      else if (topic === "Antonyms_CPO.json"){
+        document.getElementById('quiz_topic').textContent = "Antonyms_CPO";
       }
       else{
         document.getElementById('quiz_topic').textContent = "No_Title";
