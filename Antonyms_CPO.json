@@ -1,0 +1,2004 @@
+[
+    {
+        "question_id": 1,
+        "question": "1. Select the most appropriate antonym of the word (‘moving’) in the given sentence and choose the correct option. The old grandfather clock chimed loudly, marking the passage of time with its steady tick-tock. (3 October, 2023)",
+        "options": [
+            "1. Steady",
+            "2. Marking",
+            "3. Chimed",
+            "4. Passage"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 2,
+        "question": "2. Catastrophic (3 October, 2023)",
+        "options": [
+            "1. Calamity",
+            "2. Fortuitous",
+            "3. Fiasco",
+            "4. Sabotage"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 3,
+        "question": "3. Negligent (3 October, 2023)",
+        "options": [
+            "1. Attentive",
+            "2. Reluctant",
+            "3. Amplify",
+            "4. Bored"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 4,
+        "question": "4. Damp (3 October, 2023)",
+        "options": [
+            "1. Misty",
+            "2. Arid",
+            "3. Tropical",
+            "4. Soaked"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "5",
+        "question": "5. Apathy (3 October, 2023)",
+        "options": [
+            "1. Interruption ",
+            "2. Ignorance",
+            "3. Interest ",
+            "4. Sincerity"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "6",
+        "question": "6. Rejoinder (3 October, 2023)",
+        "options": [
+            "1. Expedite ",
+            "2. Reply",
+            "3. Ordinary ",
+            "4. Request"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "7",
+        "question": "7. Asset (3 October, 2023)",
+        "options": [
+            "1. Mole ",
+            "2. Liability",
+            "3. Wealth ",
+            "4. Refuge"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "8",
+        "question": "8. Placid (3 October, 2023)",
+        "options": [
+            "1. Turbulent ",
+            "2. Pensive",
+            "3. Pristine ",
+            "4. Destined"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "9",
+        "question": "9. Select the most appropriate antonym of the\nword (\u2018discordant\u2019) in the given sentence\nand choose the correct option",
+        "options": [
+            "1. Filled ",
+            "2. Melodious",
+            "3. Transporting ",
+            "4. Emotion"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "10",
+        "question": "10. Denounce (3 October, 2023)",
+        "options": [
+            "1. Praise ",
+            "2. Relieve",
+            "3. Criticise ",
+            "4. Dainty"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "11",
+        "question": "11. Leniency (3 October, 2023)",
+        "options": [
+            "1. Penalty ",
+            "2. Favour",
+            "3. Sternness ",
+            "4. Discard"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "12",
+        "question": "12. Defunct (4 October, 2023)",
+        "options": [
+            "1. Stoicism ",
+            "2. Extant",
+            "3. Convoluted ",
+            "4. Redundant"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "13",
+        "question": "13. Vague (4 October, 2023)",
+        "options": [
+            "1. Elegant ",
+            "2. Regal\n\t ",
+            "3. Definite ",
+            "4. Dwarf"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "14",
+        "question": "14. Brave (4 October, 2023)",
+        "options": [
+            "1. Elegant ",
+            "2. Cordial\n\t ",
+            "3. Cowardly ",
+            "4. Courageous"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "15",
+        "question": "15. Credit (4 October, 2023)",
+        "options": [
+            "1. Litigate ",
+            "2. Install",
+            "3. Debit ",
+            "4. Impute"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "16",
+        "question": "16. Select the most appropriate antonyms of the\nword (\u2018hinderance\u2019) in the given sentence",
+        "options": [
+            "1. Bringing\t ",
+            "2. Blew",
+            "3. Refreshing ",
+            "4. Relief"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "17",
+        "question": "17. Demolish (4 October, 2023)",
+        "options": [
+            "1. Inferior ",
+            "2. Annihilate",
+            "3. Unmethodical ",
+            "4. Fabricate"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "18",
+        "question": "18. Abhor (4 October, 2023)",
+        "options": [
+            "1. Occupy ",
+            "2. Despise",
+            "3. Danger ",
+            "4. Love"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "19",
+        "question": "19. Apex (4 October, 2023)",
+        "options": [
+            "1. Pinnacle ",
+            "2. Bottom",
+            "3. Farthest ",
+            "4. Watchful"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "20",
+        "question": "20. Inquisitive (4 October, 2023)",
+        "options": [
+            "1. Careful ",
+            "2. Dull",
+            "3. Uninterested ",
+            "4. Indolent"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "21",
+        "question": "21. Bombastic (4 October, 2023)",
+        "options": [
+            "1. Essential ",
+            "2. Sarcastic",
+            "3. Plain ",
+            "4. Rhythmic"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "22",
+        "question": "22. Transparent (4 October, 2023)",
+        "options": [
+            "1. Crossover ",
+            "2. Linger",
+            "3. Opaque ",
+            "4. Oppress"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "23",
+        "question": "23. Malice (4 October, 2023)",
+        "options": [
+            "1. Torsion ",
+            "2. Haughtiness",
+            "3. Kindness ",
+            "4. Tremor"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "24",
+        "question": "24. Perfect (4 October, 2023)",
+        "options": [
+            "1. Troublesome ",
+            "2. Limited",
+            "3. Unsatisfactory ",
+            "4. Laughable"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "25",
+        "question": "25. Select the most appropriate antonyms of the\nword (\u2018Languid) in the given sentence",
+        "options": [
+            "1. Infantry ",
+            "2. Rehearsal\n\t ",
+            "3. Forward ",
+            "4. Animated"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "26",
+        "question": "26. The (Malice) He developed for all caused a lot\nof damage",
+        "options": [
+            "1. Avarice ",
+            "2. Grace",
+            "3. Oppression ",
+            "4. Sympathy"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "27",
+        "question": "27. Stingy (5 October, 2023)",
+        "options": [
+            "1. Wicked ",
+            "2. Extravagant",
+            "3. Obnoxious ",
+            "4. Indecent"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "28",
+        "question": "28. After losing his job and his home, he found\nhimself (Destitute) And living on the streets",
+        "options": [
+            "1. Glorious ",
+            "2. Disturbed\n\t ",
+            "3. Affluent ",
+            "4. Ridiculous"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "29",
+        "question": "29. Pervasive (5 October, 2023)",
+        "options": [
+            "1. Clear ",
+            "2. Emotional",
+            "3. Limited ",
+            "4. Offensive"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "30",
+        "question": "30. Ethical (5 October, 2023)",
+        "options": [
+            "1. Discord ",
+            "2. Joyous",
+            "3. Mourning ",
+            "4. Immoral"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "31",
+        "question": "31. The court (absolved) the defendant of all charges\ndue to lack of evidence",
+        "options": [
+            "1. Accused ",
+            "2. Condemned",
+            "3. Attacked ",
+            "4. Criticised"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "32",
+        "question": "32. Sluggish (5 October, 2023)",
+        "options": [
+            "1. Abnormal ",
+            "2. Utterly\n\t ",
+            "3. Swift ",
+            "4. Slow"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "33",
+        "question": "33. Profane (5 October, 2023)",
+        "options": [
+            "1. Perverse ",
+            "2. Immaterial",
+            "3. Divine ",
+            "4. Barnyard"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "34",
+        "question": "34. Hideous (5 October, 2023)",
+        "options": [
+            "1. Attractive ",
+            "2. Restorative",
+            "3. Lament ",
+            "4. Healthful"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "35",
+        "question": "35. All members of the association (adhere) to a\nstrict code of practice",
+        "options": [
+            "1. Observe ",
+            "2. Cling",
+            "3. Flout ",
+            "4. Comply"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "36",
+        "question": "36. She has a (penchant) for art and craft",
+        "options": [
+            "1. Anxiety ",
+            "2. Hatred",
+            "3. Fear ",
+            "4. Joy"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "37",
+        "question": "37. Superb (5 October, 2023)",
+        "options": [
+            "1. Infallible ",
+            "2. Incorrigible",
+            "3. Inferior ",
+            "4. Splendid"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "38",
+        "question": "38. Decline (5 October, 2023)",
+        "options": [
+            "1. Escape ",
+            "2. Ascend",
+            "3. Demonstrate ",
+            "4. Traverse"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "39",
+        "question": "39. Redemption (5 October, 2023)",
+        "options": [
+            "1. Salvation ",
+            "2. Blasphemy",
+            "3. Corrugation ",
+            "4. Conjunction"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "40",
+        "question": "40. Resolute (5 October, 2023)",
+        "options": [
+            "1. Serious ",
+            "2. Wavering",
+            "3. Steadfast ",
+            "4. Brave"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "41",
+        "question": "41. Together (5 October, 2023)",
+        "options": [
+            "1. Apart ",
+            "2. United",
+            "3. Freight ",
+            "4. Engulf"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "42",
+        "question": "42. Magnificent (5 October, 2023)",
+        "options": [
+            "1. Impressive ",
+            "2. Peaceful",
+            "3. Quiet ",
+            "4. Modest"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "43",
+        "question": "43. Dull (9 November, 2022)",
+        "options": [
+            "1. Clever ",
+            "2. Youthful",
+            "3. Coloured ",
+            "4. Bright"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "44",
+        "question": "44. Select the most appropriate antonyms of\nthe word (\u201cDeplete\u201d) in the given sentence",
+        "options": [
+            "1. Restore ",
+            "2. High",
+            "3. Old ",
+            "4. Fancy"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "45",
+        "question": "45. (Spurious) medicine can be fatal to the patient",
+        "options": [
+            "1. Genuine ",
+            "2. Virtuous",
+            "3. Contemptuous ",
+            "4. Inferior"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "46",
+        "question": "46. The entire environment was very (hostile)\ntowards us",
+        "options": [
+            "1. Accurate ",
+            "2. Favourable",
+            "3. Handy ",
+            "4. Antagonistic"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "47",
+        "question": "47. Asperity (9 November, 2022)",
+        "options": [
+            "1. Virility ",
+            "2. Curiosity",
+            "3. Acridity ",
+            "4. Civility"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "48",
+        "question": "48. China expects to welcome back Indian students\nto (resume) their studies in the country",
+        "options": [
+            "1. Cease ",
+            "2. Announce",
+            "3. Usher ",
+            "4. Presume"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "49",
+        "question": "49. Scanty (9 November, 2022)",
+        "options": [
+            "1. Abundant ",
+            "2. Expedient",
+            "3. Nasty ",
+            "4. Paltry"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "50",
+        "question": "50. His explanation is always (concise)",
+        "options": [
+            "1. Precise ",
+            "2. Frank",
+            "3. Lengthy ",
+            "4. Intelligent"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "51",
+        "question": "51. Emulate (9 November, 2022)",
+        "options": [
+            "1. Spoilt ",
+            "2. Neglect",
+            "3. Bash ",
+            "4. Respect"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "52",
+        "question": "52. Annoy (9 November, 2022)",
+        "options": [
+            "1. Mystify ",
+            "2. Satisfy",
+            "3. Graze ",
+            "4. Employ"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "53",
+        "question": "53. Consummate (9 November, 2022)",
+        "options": [
+            "1. Ideal ",
+            "2. Inept",
+            "3. Soothing ",
+            "4. Worrisome"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "54",
+        "question": "54. The fanatics are trying to (obstruct) the peace\nprocess",
+        "options": [
+            "1. Repress ",
+            "2. Spoil",
+            "3. Assist ",
+            "4. Disrupt"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "55",
+        "question": "55. Assiduous (9 November, 2022)",
+        "options": [
+            "1. Belligerent ",
+            "2. Idyllic",
+            "3. Idle ",
+            "4. Meticulous"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "56",
+        "question": "56. Stupendous (9 November, 2022)",
+        "options": [
+            "1. Smart ",
+            "2. Jealous",
+            "3. Terrible ",
+            "4. Perfect"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "57",
+        "question": "57. Awkward (9 November, 2022)",
+        "options": [
+            "1. Catchy ",
+            "2. Tender",
+            "3. Cordial ",
+            "4. Adroit"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "58",
+        "question": "58. Wily (9 November, 2022)",
+        "options": [
+            "1. Honest ",
+            "2. Raunchy",
+            "3. Triumphant ",
+            "4. Horrid"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "59",
+        "question": "59. Colloquial (9 November, 2022)",
+        "options": [
+            "1. Formal ",
+            "2. Informal",
+            "3. Slack ",
+            "4. Slang"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "60",
+        "question": "60. Select the most appropriate antonyms of the\nword (\u201cStraighten\u201d) in the given sentence",
+        "options": [
+            "1. Fence ",
+            "2. Enemies",
+            "3. Crouching ",
+            "4. Surprise"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "61",
+        "question": "61. This is really an attractive painting made by\nthe (novice) artist",
+        "options": [
+            "1. Expert ",
+            "2. Stylish",
+            "3. Mature ",
+            "4. Apprentice"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "62",
+        "question": "62. Opulent (9 November, 2022)",
+        "options": [
+            "1. Insolvent ",
+            "2. Destitute",
+            "3. Flourishing ",
+            "4. Depressed"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "63",
+        "question": "63. Rife (10 November, 2022)",
+        "options": [
+            "1. Scarce ",
+            "2. Ripe",
+            "3. Popular ",
+            "4. Serene"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "64",
+        "question": "64. Jason was sent to school in England, where\nhe (excelled) academically and developed an\ninterest in theatre and writing",
+        "options": [
+            "1. Failed ",
+            "2. Continued",
+            "3. Accomplished ",
+            "4. Pursued"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "65",
+        "question": "65. Fascinating (10 November, 2022)",
+        "options": [
+            "1. Tempting ",
+            "2. Repulsive",
+            "3. Unforgettable ",
+            "4. Seductive"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "66",
+        "question": "66. My teacher asked me to (compress) the file",
+        "options": [
+            "1. Turn ",
+            "2. Enlarge",
+            "3. Trace ",
+            "4. Search"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "67",
+        "question": "67. Novel (10 November, 2022)",
+        "options": [
+            "1. Customary ",
+            "2. Ancient",
+            "3. Traditional ",
+            "4. Formal"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "68",
+        "question": "68. Vigorous (10 November, 2022)",
+        "options": [
+            "1. Robust ",
+            "2. Buoyant",
+            "3. Sturdy ",
+            "4. Frail"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "69",
+        "question": "69. Separable (10 November, 2022)",
+        "options": [
+            "1. Branched ",
+            "2. Indivisible",
+            "3. Liable ",
+            "4. Judicious"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "70",
+        "question": "70. Contrary (10 November, 2022)",
+        "options": [
+            "1. Straight ",
+            "2. Crooked",
+            "3. Wobbly ",
+            "4. similar"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "71",
+        "question": "71. Pensive (10 November, 2022)",
+        "options": [
+            "1. Frivolous\t ",
+            "2. Hollow\n\t ",
+            "3. Unreflective ",
+            "4. Goofy"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "72",
+        "question": "72. Select the most appropriate antonyms of\nthe word (\u201cSane\u201d) in the given sentence",
+        "options": [
+            "1. Beautiful ",
+            "2. End",
+            "3. Crazy ",
+            "4. Delicious"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "73",
+        "question": "73. Intense (10 November, 2022)",
+        "options": [
+            "1. Faint ",
+            "2. Regular",
+            "3. Rough ",
+            "4. Stationary"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "74",
+        "question": "74. He leaves behind an (indelible) contribution to\nthe financial world",
+        "options": [
+            "1. Temporary ",
+            "2. Futile",
+            "3. Durable ",
+            "4. Solitary"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "75",
+        "question": "75. Select the most appropriate antonyms of\nthe word (\u201cDilemma\u201d) in the given sentence",
+        "options": [
+            "1. Solution ",
+            "2. Poorly",
+            "3. Disliked ",
+            "4. Frequently"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "76",
+        "question": "76. A boy died after he was (assaulted) by a teacher\nin his school",
+        "options": [
+            "1. Scolded ",
+            "2. Warned",
+            "3. Guarded ",
+            "4. Criticised"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "77",
+        "question": "77. Vociferous (10 November, 2022)",
+        "options": [
+            "1. Sullen ",
+            "2. Silent",
+            "3. Pugnacious ",
+            "4. Gallant"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "78",
+        "question": "78. He applied for the (vacant) post",
+        "options": [
+            "1. Indistinct ",
+            "2. Empty",
+            "3. Occupied ",
+            "4. Lucid"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "79",
+        "question": "79. Reprieve (10 November, 2022)",
+        "options": [
+            "1. Cease ",
+            "2. Torrential",
+            "3. Turn out ",
+            "4. Continuation"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "80",
+        "question": "80. Sukhen always seeks to (capitalise) on\nopportunities",
+        "options": [
+            "1. Dismantle ",
+            "2. Seize",
+            "3. Forfeit ",
+            "4. Destroy"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "81",
+        "question": "81. Sordid (10 November, 2022)",
+        "options": [
+            "1. Excellent ",
+            "2. Shameful",
+            "3. Honourable ",
+            "4. Censurable"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "82",
+        "question": "82. The owner (underestimated) the damage caused\nto the walls of the apartment",
+        "options": [
+            "1. Misled ",
+            "2. Exaggerated",
+            "3. Charged ",
+            "4. Calculated"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "83",
+        "question": "83. The favouritism of the boss led to many\n(disgruntled) employees",
+        "options": [
+            "1. Disturbed ",
+            "2. Pleased",
+            "3. Miserable ",
+            "4. Determined"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "84",
+        "question": "84. Sting operations use (subterfuge) to obtain\nmaterial for stories",
+        "options": [
+            "1. Society ",
+            "2. Suspicion",
+            "3. Honesty ",
+            "4. Policy"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "85",
+        "question": "85. Uncanny (11 November, 2022)",
+        "options": [
+            "1. Saintly ",
+            "2. Ordinary",
+            "3. Queer ",
+            "4. Unduly"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "86",
+        "question": "86. Utilitarian (11 November, 2022)",
+        "options": [
+            "1. Unnecessary ",
+            "2. Spacious",
+            "3. Necessary ",
+            "4. Evident"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "87",
+        "question": "87. The lunch menu includes some (tempting)\nvegetarian offerings",
+        "options": [
+            "1. Repelling ",
+            "2. Enticing",
+            "3. Tantalising ",
+            "4. Seductive"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "88",
+        "question": "88. Vigorous (11 November, 2022)",
+        "options": [
+            "1. Energetic ",
+            "2. Delicate",
+            "3. Hard ",
+            "4. Extreme"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "89",
+        "question": "89. Approximately (11 November, 2022)",
+        "options": [
+            "1. Vaguely ",
+            "2. Hourly",
+            "3. Exactly ",
+            "4. Truly"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "90",
+        "question": "90. The subordinates will (vituperate) us when\nthey are irritated",
+        "options": [
+            "1. Praise ",
+            "2. Demean",
+            "3. Abuse ",
+            "4. Blame"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "91",
+        "question": "91. Amateur (11 November, 2022)",
+        "options": [
+            "1. Hospitable ",
+            "2. Scholar",
+            "3. Professional ",
+            "4. Pupil"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "92",
+        "question": "92. The (penitent) husband spends days at his\nwife\u2019s grave",
+        "options": [
+            "1. Penniless ",
+            "2. Unrepentant",
+            "3. Sorry ",
+            "4. Pertinent"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "93",
+        "question": "93. Barbaric (11 November, 2022)",
+        "options": [
+            "1. Indifferent ",
+            "2. Brutal",
+            "3. Inquisitive ",
+            "4. Civilised"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "94",
+        "question": "94. Affluent people tend to look upon illiteracy\nwith comfortable (detachment)",
+        "options": [
+            "1. Justice ",
+            "2. Humour",
+            "3. Neutrality ",
+            "4. Subjectivity"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "95",
+        "question": "95. Integrate (11 November, 2022)",
+        "options": [
+            "1. Influence\t ",
+            "2. Accept",
+            "3. Excite ",
+            "4. Separate"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "96",
+        "question": "96. Better (11 November, 2022)",
+        "options": [
+            "1. Brave ",
+            "2. Inferior",
+            "3. Homely ",
+            "4. Fitter"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "97",
+        "question": "97. Alive (23 November, 2020)",
+        "options": [
+            "1. Active ",
+            "2. Dead",
+            "3. Life ",
+            "4. Living"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "98",
+        "question": "98. Fertile (23 November, 2020)",
+        "options": [
+            "1. Productive ",
+            "2. Strong",
+            "3. Fruitful ",
+            "4. Barren"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "99",
+        "question": "99. Warm (23 November, 2020)",
+        "options": [
+            "1. Spongy ",
+            "2. Springy",
+            "3. Hot ",
+            "4. Cool"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "100",
+        "question": "100. Feeble (23 November, 2020)",
+        "options": [
+            "1. Weak ",
+            "2. Foible",
+            "3. Fault ",
+            "4. Strong"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "101",
+        "question": "101. Flaw (23 November, 2020)",
+        "options": [
+            "1. Feature ",
+            "2. Perfection",
+            "3. Defect ",
+            "4. Weakness"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "102",
+        "question": "102. Spiritual (23 November, 2020)",
+        "options": [
+            "1. Sacred ",
+            "2. Material",
+            "3. Divine ",
+            "4. Ethereal"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "103",
+        "question": "103. Impudent (23 November, 2020)",
+        "options": [
+            "1. Brazen ",
+            "2. Modest",
+            "3. Arrant ",
+            "4. Blatant"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "104",
+        "question": "104. Prestige (23 November, 2020)",
+        "options": [
+            "1. Dignity ",
+            "2. Repute\n\t ",
+            "3. Renown ",
+            "4. Disregard"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "105",
+        "question": "105. Dishearten (23 November, 2020)",
+        "options": [
+            "1. Indispose ",
+            "2. Dampen",
+            "3. Encourage ",
+            "4. Humble"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "106",
+        "question": "106. Exasperation (23 November, 2020)",
+        "options": [
+            "1. Resentment ",
+            "2. Enjoyment",
+            "3. Pique ",
+            "4. Wrath"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "107",
+        "question": "107. Muster (24 November, 2020)",
+        "options": [
+            "1. Disperse ",
+            "2. Convene",
+            "3. Mobilize ",
+            "4. Assemble"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "108",
+        "question": "108. Revive (24 November, 2020)",
+        "options": [
+            "1. Ruin\t ",
+            "2. Renew",
+            "3. Console ",
+            "4. Arouse"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "109",
+        "question": "109. Menace (24 November, 2020)",
+        "options": [
+            "1. Peril ",
+            "2. Balance",
+            "3. Threat ",
+            "4. Comfort"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "110",
+        "question": "110. Depredation (24 November, 2020)",
+        "options": [
+            "1. Plunder ",
+            "2. Pillage",
+            "3. Construction ",
+            "4. Devastation"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "111",
+        "question": "111. Distract (24 November, 2020)",
+        "options": [
+            "1. Perplex ",
+            "2. Clarify",
+            "3. Beguile ",
+            "4. Divert"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "112",
+        "question": "112. Suave (24 November, 2020)",
+        "options": [
+            "1. Polite ",
+            "2. Charming",
+            "3. Rude ",
+            "4. Brisk"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "113",
+        "question": "113. Defile (24 November, 2020)",
+        "options": [
+            "1. Elevate ",
+            "2. Degrade",
+            "3. Debase ",
+            "4. Evade"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "114",
+        "question": "114. Expel (24 November, 2020)",
+        "options": [
+            "1. Remove ",
+            "2. Erupt",
+            "3. Absorb ",
+            "4. Leave"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "115",
+        "question": "115. Deficiency (24 November, 2020)",
+        "options": [
+            "1. Glitch ",
+            "2. Dearth",
+            "3. Excess ",
+            "4. Snag"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "116",
+        "question": "116. Diverge (24 November, 2020)",
+        "options": [
+            "1. Stray ",
+            "2. Collect",
+            "3. Divide ",
+            "4. Branch"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "117",
+        "question": "117. Ignite (25 November, 2020)",
+        "options": [
+            "1. Light ",
+            "2. Burn",
+            "3. Kindle ",
+            "4. Extinguish"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "118",
+        "question": "118. Irrelevant (25 November, 2020)",
+        "options": [
+            "1. Pointless ",
+            "2. Trivial",
+            "3. Consequential ",
+            "4. Immaterial"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "119",
+        "question": "119. Exonerate (25 November, 2020)",
+        "options": [
+            "1. Absolve ",
+            "2. Vindicate",
+            "3. Acquit ",
+            "4. Sentence"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "120",
+        "question": "120. Usurp (25 November, 2020)",
+        "options": [
+            "1. Wrest ",
+            "2. Annex",
+            "3. Assume ",
+            "4. Release"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "121",
+        "question": "121. Admonish (25 November, 2020)",
+        "options": [
+            "1. Applaud ",
+            "2. Scold",
+            "3. Warn ",
+            "4. Chide"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "122",
+        "question": "122. Ignoble (25 November, 2020)",
+        "options": [
+            "1. Dignified\t ",
+            "2. Craven",
+            "3. Corrupt ",
+            "4. Abject"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "123",
+        "question": "123. Ferocious (25 November, 2020)",
+        "options": [
+            "1. Ruthless ",
+            "2. Fearless",
+            "3. Gentle ",
+            "4. Brutal"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "124",
+        "question": "124. Flexible (25 November, 2020)",
+        "options": [
+            "1. Pliable ",
+            "2. Rigid",
+            "3. Elastic ",
+            "4. Ductile"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "125",
+        "question": "125. Industrious (25 November, 2020)",
+        "options": [
+            "1. Productive ",
+            "2. Diligent",
+            "3. Indolent ",
+            "4. Assiduous"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "126",
+        "question": "126. Humility (25 November, 2020)",
+        "options": [
+            "1. Modesty ",
+            "2. Vanity",
+            "3. Servility ",
+            "4. Timidity"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "127",
+        "question": "127. Intentional (9 December, 2019)",
+        "options": [
+            "1. Voluntary ",
+            "2. Calculated",
+            "3. Designed ",
+            "4. Accidental"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "128",
+        "question": "128. Enraged (9 December, 2019)",
+        "options": [
+            "1. Pleased ",
+            "2. Infuriated",
+            "3. Aggravated ",
+            "4. Livid"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "129",
+        "question": "129. Lament (9 December, 2019)",
+        "options": [
+            "1. Appeal ",
+            "2. Bleed",
+            "3. Celebrate ",
+            "4. Bemoan"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "130",
+        "question": "130. Applaud (9 December, 2019)",
+        "options": [
+            "1. Magnify ",
+            "2. Commend",
+            "3. Approve ",
+            "4. Denounce"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "131",
+        "question": "131. Infinite (9 December, 2019)",
+        "options": [
+            "1. Boundless ",
+            "2. Limited",
+            "3. Eternal ",
+            "4. Vast"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "132",
+        "question": "132. Consume (9 December, 2019)",
+        "options": [
+            "1. Save ",
+            "2. Exhaust",
+            "3. Devour ",
+            "4. Absorb"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "133",
+        "question": "133. Stable (9 December, 2019)",
+        "options": [
+            "1. Even ",
+            "2. Shaky",
+            "3. Reliable ",
+            "4. Tough"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "134",
+        "question": "134. Subside (9 December, 2019)",
+        "options": [
+            "1. Diminish ",
+            "2. Abate",
+            "3. Enlarge ",
+            "4. Ease"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "135",
+        "question": "135. Initiate (9 December, 2019)",
+        "options": [
+            "1. Begin ",
+            "2. Commence",
+            "3. Trigger ",
+            "4. Finish"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "136",
+        "question": "136. Contiguous (9 December, 2019)",
+        "options": [
+            "1. Contractual ",
+            "2. Neighbouring",
+            "3. Adjoining ",
+            "4. Separated"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "137",
+        "question": "137. Wane (11 December, 2019)",
+        "options": [
+            "1. Dwindle\t ",
+            "2. Abate",
+            "3. Fall ",
+            "4. Increase"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "138",
+        "question": "138. Offbeat (11 December, 2019)",
+        "options": [
+            "1. Conventional ",
+            "2. Freaky",
+            "3. Unique ",
+            "4. Weird"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "139",
+        "question": "139. Erudite (11 December, 2019)",
+        "options": [
+            "1. Scholarly\t ",
+            "2. High-brow",
+            "3. Ignorant ",
+            "4. Savvy"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "140",
+        "question": "140. Futile (11 December, 2019)",
+        "options": [
+            "1. Hollow\t ",
+            "2. Productive",
+            "3. Barren ",
+            "4. Worthless"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "141",
+        "question": "141. Tense (11 December, 2019)",
+        "options": [
+            "1. Close ",
+            "2. Relaxed",
+            "3. Strained ",
+            "4. Stiff"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "142",
+        "question": "142. Demean (11 December, 2019)",
+        "options": [
+            "1. Belittle ",
+            "2. Admire",
+            "3. Debase ",
+            "4. Ignore"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "143",
+        "question": "143. Dubious (11 December, 2019)",
+        "options": [
+            "1. Likely ",
+            "2. Fishy",
+            "3. Shady ",
+            "4. Dusky"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "144",
+        "question": "144. Repugnant (11 December, 2019)",
+        "options": [
+            "1. Pleasant ",
+            "2. Sombre",
+            "3. Austere ",
+            "4. Odious"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "145",
+        "question": "145. Perturb (11 December, 2019)",
+        "options": [
+            "1. Commend ",
+            "2. Fluster",
+            "3. Soothe ",
+            "4. Confound"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "146",
+        "question": "146. Impede (11 December, 2019)",
+        "options": [
+            "1. Hamper ",
+            "2. Expedite\n\t ",
+            "3. Retard ",
+            "4. Thwart"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "147",
+        "question": "147. Mortality (12 December, 2019)",
+        "options": [
+            "1. Birth ",
+            "2. Fatality",
+            "3. Death ",
+            "4. Lethality"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "148",
+        "question": "148. Insidious (12 December, 2019)",
+        "options": [
+            "1. Stealthy ",
+            "2. Treacherous",
+            "3. Astute ",
+            "4. Sincere"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "149",
+        "question": "149. Endurance (12 December, 2019)",
+        "options": [
+            "1. Indolence ",
+            "2. Persistence",
+            "3. Patience ",
+            "4. Tolerance"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "150",
+        "question": "150. Adept (12 December, 2019)",
+        "options": [
+            "1. Proficient\t ",
+            "2. Expert",
+            "3. Inept ",
+            "4. Deft"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "151",
+        "question": "151. Reckless (12 December, 2019)",
+        "options": [
+            "1. Daring ",
+            "2. Cautious",
+            "3. Heedless ",
+            "4. Brash"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "152",
+        "question": "152. Innate (12 December, 2019)",
+        "options": [
+            "1. Unassuming ",
+            "2. Acquired",
+            "3. Basic ",
+            "4. Simple"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "153",
+        "question": "153. Blunt (12 December, 2019)",
+        "options": [
+            "1. Large ",
+            "2. Sharp",
+            "3. Charred ",
+            "4. Lengthy"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "154",
+        "question": "154. Turbid (12 December, 2019)",
+        "options": [
+            "1. Confused ",
+            "2. Varied",
+            "3. Clear ",
+            "4. Mixed"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "155",
+        "question": "155. Aware (12 December, 2019)",
+        "options": [
+            "1. Ignorant ",
+            "2. Resilient",
+            "3. Robust ",
+            "4. Impervious"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "156",
+        "question": "156. Discard (12 December, 2019)",
+        "options": [
+            "1. Adopt ",
+            "2. Share",
+            "3. Waste ",
+            "4. Distribute"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "157",
+        "question": "157. Beseech (13 December, 2019)",
+        "options": [
+            "1. Exhort ",
+            "2. Invoke",
+            "3. Implore ",
+            "4. Command"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "158",
+        "question": "158. Reprimand (13 December, 2019)",
+        "options": [
+            "1. Reproof ",
+            "2. Redeem\n\t ",
+            "3. Reward ",
+            "4. Rebuke"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "159",
+        "question": "159. Sagacious (13 December, 2019)",
+        "options": [
+            "1. Ingenious ",
+            "2. Astute",
+            "3. Ignorant ",
+            "4. Prudent"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "160",
+        "question": "160. Adorn (13 December, 2019)",
+        "options": [
+            "1. Disfigure\t ",
+            "2. Grace",
+            "3. Subdue ",
+            "4. Enrich"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "161",
+        "question": "161. Comply (13 December, 2019)",
+        "options": [
+            "1. Defer ",
+            "2. Oppose",
+            "3. Consent ",
+            "4. Adhere"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "162",
+        "question": "162. Culpable (13 December, 2019)",
+        "options": [
+            "1. Disagreeable ",
+            "2. Innocent",
+            "3. Reserved ",
+            "4. Offensive"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "163",
+        "question": "163. Chivalrous (13 December, 2019)",
+        "options": [
+            "1. Cowardly\t ",
+            "2. Annoyed",
+            "3. Valiant ",
+            "4. Indignant"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "164",
+        "question": "164. Exultant (13 December, 2019)",
+        "options": [
+            "1. Wounded ",
+            "2. Delighted",
+            "3. Depressed ",
+            "4. Energetic"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "165",
+        "question": "165. Soggy (13 December, 2019)",
+        "options": [
+            "1. Gloomy ",
+            "2. Dry\n\t ",
+            "3. Unfit ",
+            "4. Broken"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "166",
+        "question": "166. Frail (13 December, 2019)",
+        "options": [
+            "1. Weak ",
+            "2. Fancy",
+            "3. Robust ",
+            "4. Elaborate"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "167",
+        "question": "167. Affluence (30 December, 2019)",
+        "options": [
+            "1. Ampleness ",
+            "2. Abundance",
+            "3. Plenty ",
+            "4. Penury"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "168",
+        "question": "168. Docile (30 December, 2019)",
+        "options": [
+            "1. Pliant ",
+            "2. Phony",
+            "3. Modest ",
+            "4. Stubborn"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "169",
+        "question": "169. Cordial (30 December, 2019)",
+        "options": [
+            "1. Blunt ",
+            "2. Cold",
+            "3. Familiar ",
+            "4. Pleasant"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "170",
+        "question": "170. Imbecile (30 December, 2019)",
+        "options": [
+            "1. Infallible ",
+            "2. Genius",
+            "3. Ingenuous ",
+            "4. Impeccable"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "171",
+        "question": "171. Flippant (30 December, 2019)",
+        "options": [
+            "1. Sordid ",
+            "2. Solemn",
+            "3. Flashy ",
+            "4. Flimsy"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "172",
+        "question": "172. Emaciated (27 September, 2019 Tier\u20132)",
+        "options": [
+            "1. Lean ",
+            "2. Fat",
+            "3. Thin ",
+            "4. Shrunken"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "173",
+        "question": "173. Sparse (27 September, 2019 Tier\u20132)",
+        "options": [
+            "1. Thin ",
+            "2. Scant",
+            "3. Abundant ",
+            "4. Meagre"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "174",
+        "question": "174. Bold (27 September, 2019 Tier\u20132)",
+        "options": [
+            "1. Confident\t ",
+            "2. Cheeky",
+            "3. Brave ",
+            "4. Timid"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "175",
+        "question": "175. Condense (27 September, 2019 Tier\u20132)",
+        "options": [
+            "1. Repel ",
+            "2. Reduce",
+            "3. Expand ",
+            "4. Constrict"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "176",
+        "question": "176. Languid (27 September, 2019 Tier\u20132)",
+        "options": [
+            "1. Energetic ",
+            "2. Lethargic",
+            "3. Indolent ",
+            "4. Sluggish"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "177",
+        "question": "177. Amateur (27 September, 2019 Tier\u20132)",
+        "options": [
+            "1. Novice ",
+            "2. Apprentice",
+            "3. Professional ",
+            "4. Learner"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "178",
+        "question": "178. Taciturn (8 January, 2024 Tier\u20132)",
+        "options": [
+            "1. Loquacious\t ",
+            "2. Withdrawn",
+            "3. Laconic ",
+            "4. Reticent"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "179",
+        "question": "179. Perseverance (8 January, 2024 Tier\u20132)",
+        "options": [
+            "1. Tenacity ",
+            "2. Indifference",
+            "3. Dedication ",
+            "4. Determination"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "180",
+        "question": "180. Relevant (8 January, 2024 Tier\u20132)",
+        "options": [
+            "1. Ineligible ",
+            "2. Inapplicable",
+            "3. Inevitable ",
+            "4. Inhabitable"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "181",
+        "question": "181. FASTIDIOUS (8 January, 2024 Tier\u20132)",
+        "options": [
+            "1. Fussy\t ",
+            "2. Difficult",
+            "3. Indifferent ",
+            "4. Critical"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "182",
+        "question": "182. Deplore (8 January, 2024 Tier\u20132)",
+        "options": [
+            "1. Dislike ",
+            "2. Praise",
+            "3. Hate ",
+            "4. Mour"
+        ],
+        "correct_option": "2"
+    }
+]
