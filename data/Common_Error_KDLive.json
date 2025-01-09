@@ -1,0 +1,3929 @@
+[
+    {
+        "question_id": 1,
+        "question": "1. The loud and incessant chatter worries your father who is trying to concentrate",
+        "options": [
+            "(1) aggravates",
+            "(2) annoys",
+            "(3) disturbs",
+            "(4) No improvement (SSC Section Officer (Audit) Exam. 1997)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 2,
+        "question": "2. When the owner offered tea, the peon denied it",
+        "options": [
+            "(1) disliked",
+            "(2) declined",
+            "(3) disobeyed",
+            "(4) No improvement (SSC Section Officer (Commercial Audit) Exam. 29.07.2001)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 3,
+        "question": "3. The bullet struck a wall and was diverted from its course",
+        "options": [
+            "(1) twisted",
+            "(2) reflected",
+            "(3) deflected",
+            "(4) No improvement (SSC Section Officer (Commercial Audit) Exam. 16.11.2003)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 4,
+        "question": "4. When the Inspector of Police said this, we knew whom he was eluding",
+        "options": [
+            "(1) intending",
+            "(2) referring to",
+            "(3) hinting",
+            "(4) No improvement (SSC Section Officer (Commercial Audit) Exam. 16.11.2003)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 5,
+        "question": "5. The driver was dazzled by the bright light of approaching car",
+        "options": [
+            "(1) twinkled",
+            "(2) flashed",
+            "(3) glowed",
+            "(4) No improvement (SSC Section Officer (Audit) Exam. 05.06.2005)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 6,
+        "question": "6. The T",
+        "options": [
+            "(1) wetted",
+            "(2) vetted",
+            "(3) written",
+            "(4) No improvement (SSC Section Officer (Commercial Audit) Exam. 25.09.2005)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 7,
+        "question": "7. The traveller commanded of the peasant he would tell him the way to the nearest village",
+        "options": [
+            "(1) exclaimed of the peasant if he would",
+            "(2) enquired of the peasant if he could",
+            "(3) replied of the peasant whether he will",
+            "(4) No improvement (SSC Tax Assistant (Income Tax & Central Excise) Exam. 11.12.2005)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 8,
+        "question": "8. He is fond of saving money",
+        "options": [
+            "(1) hoarding",
+            "(2) not spending",
+            "(3) spending carefully",
+            "(4) No improvement (SSC Tax Assistant (Income Tax & Central Excise) Exam. 11.12.2005)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 9,
+        "question": "9. He is in want of a reliable servant",
+        "options": [
+            "(1) refused",
+            "(2) needs",
+            "(3) declined",
+            "(4) No improvement (SSC Tax Assistant (IncomeTax & Central Excise) Exam. 12.11.2006) Verb (Basic)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 10,
+        "question": "10. The Victorian Era noted the end of human dependence on religion",
+        "options": [
+            "(1) marked",
+            "(2) showed",
+            "(3) indicated",
+            "(4) No improvement. (SSC Section Officer (Commercial Audit) Exam. 26.11.2006)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 11,
+        "question": "11. I had my ears bored, so I could wear my diamond ear-rings",
+        "options": [
+            "(1) holed",
+            "(2) pricked",
+            "(3) pierced",
+            "(4) No improvement (SSC Section Officer (Commercial Audit) Exam. 30.09.2007"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 12,
+        "question": "12. It is interesting to correspond the history of the 19th century with its literature",
+        "options": [
+            "(1) corroborate",
+            "(2) correlate",
+            "(3) command",
+            "(4) No improvement (SSC Section Officer (Commercial Audit) Exam. 30.09.2007"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 13,
+        "question": "13. He declined all the allegations against him",
+        "options": [
+            "(1) spurned",
+            "(2) refused",
+            "(3) refuted",
+            "(4) No improvement (SSC Section Officer (Audit) Exam. 06.01.2008)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 14,
+        "question": "14. The officer asked his secretary to remember him about the meeting",
+        "options": [
+            "(1) recall",
+            "(2) remind",
+            "(3) recollect",
+            "(4) No improvement (SSC Section Officer (Audit) Exam. 06.01.2008)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 15,
+        "question": "15. He denied to be party to the deal",
+        "options": [
+            "(1) refused",
+            "(2) disagreed",
+            "(3) rejected",
+            "(4) No improvement (SSC Section Officer (Audit) Exam. 06.01.2008)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 16,
+        "question": "16. Keats says the idea very well in his poems",
+        "options": [
+            "(1) speaks",
+            "(2) describes",
+            "(3) expresses",
+            "(4) No improvement (SSC Section Officer (Audit) Exam. 30.10.2008)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 17,
+        "question": "17. In the desert, the sun is the master, all else resigns before its merciless rays",
+        "options": [
+            "(1) collapses",
+            "(2) falls",
+            "(3) retires",
+            "(4) No improvement (SSC Tax Assistant (Income Tax & Central Excise) Exam. 14.12.2008)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 18,
+        "question": "18. The suspected couple was taken away from the airport through a side entrance to the police station for interrogation",
+        "options": [
+            "(1) whisked",
+            "(2) rushed",
+            "(3) guided",
+            "(4) No improvement (SSC Tax Assistant (Income Tax & Central Excise) Exam. 29.03.2009)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 19,
+        "question": "19. The transport workers have organised a strike asking for more salary",
+        "options": [
+            "(1) demanding",
+            "(2) begging",
+            "(3) requesting",
+            "(4) No improvement (SSC Tax Assistant (Income Tax & Central Excise) Exam. 29.03.2009)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 20,
+        "question": "20. To get into the building, I'll disguise as a reporter",
+        "options": [
+            "(1) disguise to be",
+            "(2) disguise as one",
+            "(3) disguise myself",
+            "(4) No improvement (SSC Combined Graduate Level Tier-I Exam. 16.05.2010 (Second Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 21,
+        "question": "21. A callous system generates nothing but a misanthrope",
+        "options": [
+            "(1) develops",
+            "(2) induces",
+            "(3) produces",
+            "(4) No improvement (SSC Combined Graduate Level Tier-I Exam. 16.05.2010 (Second Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 22,
+        "question": "22. The shortage of fuel has obstacled interstate transportation",
+        "options": [
+            "(1) facilitated",
+            "(2) hampered",
+            "(3) burdened",
+            "(4) No improvement (FCI Assistant Grade-II Exam. 22.01.2012)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 23,
+        "question": "23. Your answer book will be answered with the help of a computer",
+        "options": [
+            "(1) judged",
+            "(2) tested",
+            "(3) evaluated",
+            "(4) seen (FCI Assistant Grade-III Exam. 05.02.2012 (IInd Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 24,
+        "question": "24. He throwed it out of the window",
+        "options": [
+            "(1) threw",
+            "(2) throw",
+            "(3) thrown",
+            "(4) No improvement (FCI Assistant Grade-III Exam. 05.02.2012 (IInd Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 25,
+        "question": "25. Marconi assembled the radio",
+        "options": [
+            "(1) discovered",
+            "(2) made",
+            "(3) invented",
+            "(4) No improvement (FCI Assistant Grade-III Exam. 05.02.2012 (IInd Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 26,
+        "question": "26. He was released from the hospital yesterday",
+        "options": [
+            "(1) let out",
+            "(2) discharged",
+            "(3) dismissed",
+            "(4) No improvement (SSC Data Entry Operator Exam. 31.08.2008)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 27,
+        "question": "27. He hanged his portrait in the main hall",
+        "options": [
+            "(1) hang",
+            "(2) hung",
+            "(3) had hanged",
+            "(4) No improvement (SSC Data Entry Operator Exam. 31.08.2008)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 28,
+        "question": "28. The relatives comforted the old man whose wife had died",
+        "options": [
+            "(1) sympathized with",
+            "(2) pitied",
+            "(3) consoled",
+            "(4) No improvement (SSC Data Entry Operator Exam. 02.08.2009)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 29,
+        "question": "29. His speech was broadcasted over the radio last Thursday",
+        "options": [
+            "(1) was broadcast",
+            "(2) had been broadcast",
+            "(3) has been broadcast",
+            "(4) No improvement (SSC Data Entry Operator Exam. 02.08.2009)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 30,
+        "question": "30. He took disadvantage of the situation and cheated many people",
+        "options": [
+            "(1) chance",
+            "(2) advantage",
+            "(3) disapproval",
+            "(4) No improvement (SSC Data Entry Operator & LDC Exam. 27.11.2010)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 31,
+        "question": "31. All the candidates will give a test on Friday",
+        "options": [
+            "(1) appear",
+            "(2) take",
+            "(3) accept",
+            "(4) No improvement (SSC Data Entry Operator & LDC Exam. 27.11.2010)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 32,
+        "question": "32. He cited a number of reasons for his absence",
+        "options": [
+            "(1) sited",
+            "(2) recited",
+            "(3) sighted",
+            "(4) No improvement (SSC Stenographer (Grade 'C' & 'D' Exam. 09.01.2011)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 33,
+        "question": "33. When are you starting to write to your friend?",
+        "options": [
+            "(1) wanting",
+            "(2) going",
+            "(3) thinking",
+            "(4) No improvement (SSC Multi-Tasking (Non-Technical) Staff Exam. 20.02.2011)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 34,
+        "question": "34. I will be giving blood in the hospital at 9",
+        "options": [
+            "(1) exchanging",
+            "(2) contributing",
+            "(3) donating",
+            "(4) No improvement (SSC Multi-Tasking (Non-Technical) Staff Exam. 27.02.2011)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 35,
+        "question": "35. To alleviate the pain of losing his only son, he took up meditation",
+        "options": [
+            "(1) lessen",
+            "(2) minimise",
+            "(3) lesson",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 04.12.2011  (North Zone) IInd Sitting"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 36,
+        "question": "36. The Prime Minister established a commission to look after the plight of the widows",
+        "options": [
+            "(1) formed",
+            "(2) created",
+            "(3) set up",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 04.12.2011  (North Zone) IInd Sitting"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 37,
+        "question": "37. Flowers embellishment the beauty of our surroundings",
+        "options": [
+            "(1) replenish",
+            "(2) enhance",
+            "(3) destroys",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 04.12.2011 (North Zone) Ist Sitting"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 38,
+        "question": "38. My foot is paining",
+        "options": [
+            "(1) aching",
+            "(2) ailing.",
+            "(3) hurting",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 11.12.2011  (Ist Sitting (Delhi Zone)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 39,
+        "question": "39. The greater part of the building has been destroyed",
+        "options": [
+            "(1) spoiled",
+            "(2) demolished",
+            "(3) disturbed",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 11.12.2011  (Ist Sitting (East Zone)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 40,
+        "question": "40. If you can afford a new car, your business must be looking up",
+        "options": [
+            "(1) flourishing",
+            "(2) improving",
+            "(3) increasing",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 11.12.2011  (IInd Sitting (East Zone)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 41,
+        "question": "41. The police would be employed at all places to beef up security",
+        "options": [
+            "(1) deployed",
+            "(2) appointed",
+            "(3) encouraged",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 11.12.2011  (IInd Sitting (East Zone)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 42,
+        "question": "42. He told his tale of woe with tears in his eyes",
+        "options": [
+            "(1) narrated",
+            "(2) recited",
+            "(3) was telling",
+            "(4) narrate (SSC Constable (GD) & Riflemen (GD) Exam. 24.04.1912 (Ist Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 43,
+        "question": "43. Have you taken your breakfast?",
+        "options": [
+            "(1) had",
+            "(2) eaten",
+            "(3) done",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 21.10.2012 (Ist Sitting)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 44,
+        "question": "44. The dictator declared an emergency in the country",
+        "options": [
+            "(1) proposed",
+            "(2) decreed",
+            "(3) ordered",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 28.10.2012 (Ist Sitting)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 45,
+        "question": "45. The passengers were afraid, but the captain consoled them that there was no danger",
+        "options": [
+            "(1) guaranteed",
+            "(2) assured",
+            "(3) confided",
+            "(4) No improvement (SSC FCI Assistant Grade-III Exam 11.11.2012 IInd sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 46,
+        "question": "46. The bell was ringing and ringing but no one picked up the phone",
+        "options": [
+            "(1) rang and rang",
+            "(2) rang repeatedly",
+            "(3) was ringing repeatedly",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 21.10.2012 (2nd Sitting))"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 47,
+        "question": "47. As a wise old man, the Chief of the Apaches imagined a time when the white men and his fellow Indians would no longer fight for the land",
+        "options": [
+            "(1) think",
+            "(2) forecast",
+            "(3) expect",
+            "(4) envisaged (SSC (10+2) Level Data Entry Operator & LDC Exam. 21.10.2012 (2nd Sitting)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 48,
+        "question": "48. The frightened convict wept for mercy",
+        "options": [
+            "(1) mumbled",
+            "(2) pleaded",
+            "(3) shouted",
+            "(4) No improvement (SSC Graduate Level Tier-I Exam. 11.11.2012 (1st Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 49,
+        "question": "49. I cannot say it to you right now",
+        "options": [
+            "(1) demand",
+            "(2) expect",
+            "(3) explain",
+            "(4) No improvement (SSC Delhi Police Sub-Inspector (SI) Exam. 19.08.2012)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 50,
+        "question": "50. The position gives an excellent remuneration",
+        "options": [
+            "(1) offers",
+            "(2) carries",
+            "(3) holds",
+            "(4) No improvement (SSC Delhi Police Sub-Inspector (SI) Exam. 19.08.2012)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 51,
+        "question": "51. The temptations that bestow young people today are ruining them",
+        "options": [
+            "(1) appeal",
+            "(2) beset",
+            "(3) confront",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 04.11.2012, Ist Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 52,
+        "question": "52. He makes excellent portraits",
+        "options": [
+            "(1) paints",
+            "(2) portrays",
+            "(3) illustrates",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 10.03.2013, Ist Sitting : Patna)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 53,
+        "question": "53. Students will have to take the test again tomorrow",
+        "options": [
+            "(1) apply the test",
+            "(2) avoid the test",
+            "(3) retain the test",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 10.03.2013, Ist Sitting : Patna)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 54,
+        "question": "54. The innocence of the child was obliterated due to hard labour",
+        "options": [
+            "(1) maintained",
+            "(2) increased",
+            "(3) destroyed",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 10.03.2013, Ist Sitting : Patna)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 55,
+        "question": "55. He was given a lot of pressure to sign the deed",
+        "options": [
+            "(1) told",
+            "(2) forced",
+            "(3) asked",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 10.03.2013, Ist Sitting : Patna)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 56,
+        "question": "56. Modern medicine promotes good health",
+        "options": [
+            "(1) means",
+            "(2) preaches about",
+            "(3) praises",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 10.03.2013)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 57,
+        "question": "57. Despite having many other opportunities, he went for Police Service",
+        "options": [
+            "(1) liked",
+            "(2) opted",
+            "(3) selected",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 10.03.2013)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 58,
+        "question": "58. She is scrutinising hard for the final examination",
+        "options": [
+            "(1) recollecting",
+            "(2) recapitulating",
+            "(3) revising",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 17.03.2013, Ist Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 59,
+        "question": "59. His lecture was banned because of the bandh",
+        "options": [
+            "(1) called off",
+            "(2) disturbed",
+            "(3) interrupted",
+            "(4) No improvement (SSC Multi-Tasking Staff Exam. 17.03.2013, IInd Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 60,
+        "question": "60. The newspaper report of the killing verified with the police findings",
+        "options": [
+            "(1) authenticated",
+            "(2) corroborated",
+            "(3) confirmed",
+            "(4) No improvement (SSC FCI Assistant Grade-III Main Exam. 07.04.2013)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 61,
+        "question": "61. Will you lend me few rupees in this hour of need ?",
+        "options": [
+            "(1) lend me a little rupees",
+            "(2) borrow me a few rupees",
+            "(3) lend me a few rupees",
+            "(4) No improvement (SSC Graduate Level Tier-I Exam. 21.04.2013, Ist Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 62,
+        "question": "62. The starving and crawling people in the television programme looked more like beasts than tiring creatures",
+        "options": [
+            "(1) posed",
+            "(2) resembled",
+            "(3) seemed",
+            "(4) No improvement (SSC Graduate Level Tier-I Exam. 21.04.2013, Ist Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 63,
+        "question": "63. The learners are intended to read the sources at home",
+        "options": [
+            "(1) are meant",
+            "(2) are suggested",
+            "(3) are expected",
+            "(4) No improvement (SSC Graduate Level Tier-I Exam. 21.04.2013)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 64,
+        "question": "64. He was hung for murder",
+        "options": [
+            "(1) hang",
+            "(2) hanged",
+            "(3) hanging",
+            "(4) No improvement (SSC Constable (GD) Exam. 12.05.2013, Ist Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 65,
+        "question": "65. The flag will be risen on the 15th of August",
+        "options": [
+            "(1) The flag will be raised on the 15th of August.",
+            "(2) The flag will be roused on the 15th of August.",
+            "(3) The flag will be rising on the 15th of August.",
+            "(4) No improvement (SSC Graduate Level Tier-I Exam. 19.05.2013)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 66,
+        "question": "66. They sat by the river bank with their legs remaining in the water",
+        "options": [
+            "(1) swimming",
+            "(2) dangling",
+            "(3) washing",
+            "(4) No improvement (SSC Graduate Level Tier-II Exam. 29.09.2013)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 67,
+        "question": "67. They are bringing down the old bridge to build a new one",
+        "options": [
+            "(1) destroying",
+            "(2) damaging",
+            "(3) demolishing",
+            "(4) No improvement (SSC Graduate Level Tier-II Exam. 29.09.2013)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 68,
+        "question": "68. The receptionist asked the patient,  Who recommended you to Dr",
+        "options": [
+            "(1) introduced",
+            "(2) referred",
+            "(3) alluded",
+            "(4) No improvement (SSC Graduate Level Tier-II Exam. 29.09.2013)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 69,
+        "question": "69. Someone has tempered with my lock",
+        "options": [
+            "(1) trampled",
+            "(2) tampered",
+            "(3) tethered",
+            "(4) No improvement (SSC Multi-Tasking (Non-Tech.) Staff Exam. 16.02.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 70,
+        "question": "70. Can you please give me leave for some days?",
+        "options": [
+            "(1) grant for me",
+            "(2) grant me",
+            "(3) grant from me",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam 2013, 27.04.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 71,
+        "question": "71. The student's interest raised by an article he had read",
+        "options": [
+            "(1) quickened",
+            "(2) multiplied",
+            "(3) increased",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam 2013, 27.04.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 72,
+        "question": "72. The members of the student's union did not give the examination in protest",
+        "options": [
+            "(1) did not write",
+            "(2) did not sit for",
+            "(3) did not show up for",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam. 22.06.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 73,
+        "question": "73. James epitomizes everything that a leader should be",
+        "options": [
+            "(1) worships",
+            "(2) loves",
+            "(3) adores",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam. 22.06.2014)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 74,
+        "question": "74. The old man is addicted to singing",
+        "options": [
+            "(1) is fond of singing",
+            "(2) is used to singing",
+            "(3) likes singing",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam. 22.06.2014)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 75,
+        "question": "75. The speaker got confused, and started to contradict himself",
+        "options": [
+            "(1) oppose himself",
+            "(2) argue against",
+            "(3) reject",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam. (2013) 20.07.2014, Ist Sitting)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 76,
+        "question": "76. The number of people going abroad for vacations is ever increasing every year",
+        "options": [
+            "(1) ever increasing",
+            "(2) increasing",
+            "(3) shooting",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam. (2013) 20.07.2014, Ist Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 77,
+        "question": "77. Will you let me borrow some money in this hour of need ?",
+        "options": [
+            "(1) lend me some rupees",
+            "(2) let me borrow a few rupees",
+            "(3) lend me some money",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam. (2013) 20.07.2014, Ist Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 78,
+        "question": "78. One of her friends had just got down from the bus",
+        "options": [
+            "(1) alighted from",
+            "(2) arrived in",
+            "(3) landed from",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam. (2013) 20.07.2014, IInd Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 79,
+        "question": "79. Our big iron gate jingles on its hinges as it is opened",
+        "options": [
+            "(1) clangs",
+            "(2) grates",
+            "(3) bangs",
+            "(4) No improvement (SSC GL Tier-I Exam. 19.10.2014, Ist Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 80,
+        "question": "80. The medicines made miracles and healed me in two days",
+        "options": [
+            "(1) The medicines brought miracles",
+            "(2) The medicines worked miracles",
+            "(3) The medicine performed miracles",
+            "(4) No improvement (SSC GL Tier-I Exam. 19.10.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 81,
+        "question": "81. It was raining so heavily yesterday that I could not move out for my usual walk",
+        "options": [
+            "(1) I could not go out for my usual walk",
+            "(2) I could not go to my usual walk",
+            "(3) I could not move for my usual walk",
+            "(4) No improvement (SSC GL Tier-I Exam. 26.10.2014)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 82,
+        "question": "82. He denied that he had not forged my signature",
+        "options": [
+            "(1) would not forge",
+            "(2) did not forge",
+            "(3) had forged",
+            "(4) No improvement (SSC GL Tier-I Exam. 26.10.2014)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 83,
+        "question": "83. To his astonishment and admiration he got the information that it was only the picture of a curtain",
+        "options": [
+            "(1) found",
+            "(2) received the information",
+            "(3) saw clearly",
+            "(4) No improvement (SSC GL Tier-I Exam. 26.10.2014)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 84,
+        "question": "84. Boil the potatoes and then crush it until soft",
+        "options": [
+            "(1) smash it",
+            "(2) knead it",
+            "(3) mash it",
+            "(4) No improvement (SSC CHSL (10+2) DEO & LDC Exam. 02.11.2014, Patna Region : Ist Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 85,
+        "question": "85. Wave after wave surrounded the tower",
+        "options": [
+            "(1) engulfed",
+            "(2) circled",
+            "(3) encircled",
+            "(4) No improvement (SSC CHSL (10+2) DEO & LDC Exam. 16.11.2014)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 86,
+        "question": "86. The toddler has a habit of throwing tantrums",
+        "options": [
+            "(1) expressing emotions",
+            "(2) expressing frustrations",
+            "(3) expressing happiness",
+            "(4) No improvement (SSC GL Tier-II Exam. 21.09.2014)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 87,
+        "question": "87. The train rolls along the track",
+        "options": [
+            "(1) rumbles",
+            "(2) rattles",
+            "(3) ripples",
+            "(4) No improvement (SSC GL Tier-II Exam. 21.09.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 88,
+        "question": "88. The teacher was stimulated by the mischievous behaviour of the students",
+        "options": [
+            "(1) provoked",
+            "(2) evoked",
+            "(3) No Improvement",
+            "(4) inspired (SSC CGL Tier-II Exam. 12.04.2015)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 89,
+        "question": "89. The tribunal has postponed the hearing to December 15",
+        "options": [
+            "(1) delayed",
+            "(2) pushed",
+            "(3) adjourned",
+            "(4) No Improvement (SSC CGL Tier-II Exam. 12.04.2015)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 90,
+        "question": "90. It was fortunate that the time bomb had burst only after the crowd had dispersed",
+        "options": [
+            "(1) exploded",
+            "(2) No Improvement",
+            "(3) blown up",
+            "(4) erupted (SSC CGL Tier-II Exam. 12.04.2015)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 91,
+        "question": "91. Due to power grid collapse essential services like hospitals, the railways and water plants were perturbed",
+        "options": [
+            "(1) was perplexed",
+            "(2) were paralysed",
+            "(3) were abandoned",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam. 28.09.2014 (TF No. 482 RN 5)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 92,
+        "question": "92. Laws were enacted to do away with social evils",
+        "options": [
+            "(1) to eradicate",
+            "(2) to stop",
+            "(3) to prevent",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam. 28.09.2014 (TF No. 482 RN 5)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 93,
+        "question": "93. I made a lecture",
+        "options": [
+            "(1) will make",
+            "(2) gave",
+            "(3) would make",
+            "(4) No improvement (SSC CGL Tier-II Exam.12.04.2015 Kolkata Region, TF No. 315 RI 3)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 94,
+        "question": "94. The old man has acquired experience through age",
+        "options": [
+            "(1) No improvement",
+            "(2) developed experience",
+            "(3) experienced",
+            "(4) got experience (SSC CGL Tier-I Exam, 09.08.2015 (Ist Sitting) TF No. 1443088)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 95,
+        "question": "95. They spoke about the weather",
+        "options": [
+            "(1) No improvement",
+            "(2) said",
+            "(3) talked",
+            "(4) expressed (SSC CGL Tier-I Exam, 09.08.2015 (Ist Sitting) TF No. 1443088)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 96,
+        "question": "96. The notorious criminal went to the police to go to prison",
+        "options": [
+            "(1) submitted to the police",
+            "(2) surrendered himself before the police",
+            "(3) No improvement",
+            "(4) gave himself up for the police (SSC CGL Tier-I Exam, 09.08.2015 (IInd Sitting) TF No. 4239378)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 97,
+        "question": "97. The others shook their heads and made vague noises of approval",
+        "options": [
+            "(1) hung",
+            "(2) turned around",
+            "(3) No Improvement",
+            "(4) nodded (SSC CGL Tier-I Exam, 16.08.2015 (Ist Sitting) TF No. 3196279)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 98,
+        "question": "98. You must endure what you cannot cure",
+        "options": [
+            "(1) accept",
+            "(2) suffer",
+            "(3) prevail",
+            "(4) No Improvement (SSC CGL Tier-I Exam, 16.08.2015 (Ist Sitting) TF No. 3196279)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 99,
+        "question": "99. I was struck by h is singu lar appearance",
+        "options": [
+            "(1) struck by his single appearance",
+            "(2) struck by how he singularly appears",
+            "(3) No Improvement",
+            "(4) had stricken his single appearance (SSC CGL Tier-I Exam, 16.08.2015 (IInd Sitting) TF No. 2176783)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 100,
+        "question": "100. They tried to win control of the company from their step brothers",
+        "options": [
+            "(1) inherit",
+            "(2) swindle",
+            "(3) wrest",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 101,
+        "question": "101. Mr",
+        "options": [
+            "(1) looked up to",
+            "(2) looked up",
+            "(3) No improvement",
+            "(4) looked over (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 102,
+        "question": "102. The criminal must be killed",
+        "options": [
+            "(1) hanged",
+            "(2) murdered",
+            "(3) hung",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 103,
+        "question": "103. My daughter is going to take her final examination next month",
+        "options": [
+            "(1) under take",
+            "(2) No improvement",
+            "(3) appear",
+            "(4) give (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 104,
+        "question": "104. My father advised me to shun bad peers",
+        "options": [
+            "(1) escape",
+            "(2) leave",
+            "(3) avoid",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 105,
+        "question": "105. All these events are associated like links in a chain",
+        "options": [
+            "(1) attached",
+            "(2) bracketed",
+            "(3) No improvement",
+            "(4) concatenated (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 106,
+        "question": "106. The kingfisher is a bird founded most in the Eastern Hemisphere, especially in the southeast Asian countries",
+        "options": [
+            "(1) a bird find mostly",
+            "(2) a bird mostly founded",
+            "(3) a bird found mostly",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 107,
+        "question": "107. I can't allow to make jokes in the class",
+        "options": [
+            "(1) cut",
+            "(2) crack",
+            "(3) break",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam, 30.08.2015)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 108,
+        "question": "108. She is the lady who will inaugurate the exhibition",
+        "options": [
+            "(1) declare the exhibition open",
+            "(2) start the exhibition",
+            "(3) begin the exhibition",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam, 30.08.2015)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 109,
+        "question": "109. I have just taken my meals",
+        "options": [
+            "(1) I have just had my food",
+            "(2) I am done with my meals",
+            "(3) I finished my meals",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam, 30.08.2015)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 110,
+        "question": "110. No economist can accurately foresee whether tax will go up or down",
+        "options": [
+            "(1) expect",
+            "(2) anticipate",
+            "(3) No improvement",
+            "(4) obviate (SSC Constable (GD) Exam, 04.10.2015, IInd Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 111,
+        "question": "111. I want to admit in a university in the US",
+        "options": [
+            "(1) go",
+            "(2) enter",
+            "(3) enrol",
+            "(4) No improvement (SSC CGL Tier-II Exam, 25.10.2015, TF No. 2148789)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 112,
+        "question": "112. He has composed a beautiful song",
+        "options": [
+            "(1) penned",
+            "(2) written",
+            "(3) jotted down",
+            "(4) No improvement (SSC CGL Tier-II Exam, 25.10.2015, TF No. 2148789)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 113,
+        "question": "113. The old car thumped along over the stony road",
+        "options": [
+            "(1) creaked",
+            "(2) crawled",
+            "(3) chugged",
+            "(4) No improvement (SSC CGL Tier-II Exam, 25.10.2015, TF No. 2148789)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 114,
+        "question": "114. The criminal was hung to death",
+        "options": [
+            "(1) hunged",
+            "(2) hang",
+            "(3) No improvement",
+            "(4) hanged (SSC CGL Tier-II Exam, 25.10.2015, TF No. 2148789)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 115,
+        "question": "115. Heartfelt prayers to God will always have expected results",
+        "options": [
+            "(1) have amazing results",
+            "(2) No improvement",
+            "(3) have good results",
+            "(4) have desired results (SSC CGL Tier-II Exam, 25.10.2015, TF No. 2148789)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 116,
+        "question": "116. The President of India administers the oath of office to the Council of Ministers",
+        "options": [
+            "(1) imposes the promise",
+            "(2) supervises the oath taking ceremony",
+            "(3) No improvement",
+            "(4) reads out the oath (SSC CHSL (10+2) LDC, DEO & PA/SA Exam, 20.12.2015 (Ist Sitting) TF No. 9692918)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 117,
+        "question": "117. The boat was drowned",
+        "options": [
+            "(1) sank",
+            "(2) was drown",
+            "(3) was sink",
+            "(4) No Improvement (SSC (10+2) Stenographer Grade  C  &  D  Exam. 31.01.2016 TF No. 3513283"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 118,
+        "question": "118. When I reached the cinema hall, the movie had already began",
+        "options": [
+            "(1) the cinema hall",
+            "(2) already began",
+            "(3) When I reached",
+            "(4) the movie had"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 119,
+        "question": "119. I am believing you have submitted all the necessary documents",
+        "options": [
+            "(1) you have submitted",
+            "(2) necessary documents",
+            "(3) all the",
+            "(4) I am believing"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 120,
+        "question": "120. The old man did not wanted to eat any food",
+        "options": [
+            "(1) did not wanted",
+            "(2) any food",
+            "(3) The old man",
+            "(4) to eat"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 121,
+        "question": "121. Lucy has already cut the cake when we reached the party hall",
+        "options": [
+            "(1) when we reached",
+            "(2) Lucy has already",
+            "(3) the party hall",
+            "(4) cut the cake"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 122,
+        "question": "122. The present what I buy for you yesterday was very expensive",
+        "options": [
+            "(1) was very expensive",
+            "(2) The present",
+            "(3) for you yesterday",
+            "(4) what I buy"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 123,
+        "question": "123. Mohit did not went to school yesterday as he was unwell",
+        "options": [
+            "(1) went to school",
+            "(2) was unwell",
+            "(3) Mohit did not",
+            "(4) yesterday as he"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 124,
+        "question": "124. If a few drops of lemon are put in the milk, it has turned sour",
+        "options": [
+            "(1) drops of lemon",
+            "(2) If a few",
+            "(3) it has turned sour",
+            "(4) are put in the milk CGL MAINS 2019 15, 16 & 18 NOVEMBER, 2020"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 125,
+        "question": "125. The tired and vexed travellers waiting at the airport for a long time",
+        "options": [
+            "(1) waiting at the airport",
+            "(2) for a long time",
+            "(3) The tired and",
+            "(4) vexed travellers"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 126,
+        "question": "126. She is not as smart as I think at first",
+        "options": [
+            "(1) I think",
+            "(2) She is not",
+            "(3) as smart as",
+            "(4) at first"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 127,
+        "question": "127. The concert has started when he reached the venue",
+        "options": [
+            "(1) reached the venue",
+            "(2) has started",
+            "(3) The concert",
+            "(4) when he SSC CGL 2020 TIER I 13 AUGUST TO 24 AUGUST, 2021"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 128,
+        "question": "128. Had you / not reached in time, / we will have / lost our lives",
+        "options": [
+            "(1) lost our lives",
+            "(2) not reached in time",
+            "(3) Had you COMMON ERRORS BY NEETU SINGH TENSE",
+            "(4) we will have"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 129,
+        "question": "129. The construction of the new business school is led to a sudden rise of population in our area",
+        "options": [
+            "(1) a sudden rise of population in our area",
+            "(2) The construction of",
+            "(3) the new business school",
+            "(4) is led to"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 130,
+        "question": "130. He win / several accolades / for his / music compositions",
+        "options": [
+            "(1) He win",
+            "(2) music compositions",
+            "(3) for his",
+            "(4) several accolades"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 131,
+        "question": "131. Mr",
+        "options": [
+            "(1) Mr. Rao asked the newcomer",
+            "(2) working late that day",
+            "(3) to his office",
+            "(4) if he will minded CGL TIER-II, 2020 EXAM DATE: 29TH JAN. & 3RD FEB., 2022"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 132,
+        "question": "132. Have you / ever spoke / to anyone / about your problems?",
+        "options": [
+            "(1) ever spoke",
+            "(2) about your problems",
+            "(3) to anyone",
+            "(4) Have you CGL TIER II 2022"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 133,
+        "question": "133. He lived close to / the train station, / yet travelled by bus",
+        "options": [
+            "(1) yet travelled by bus",
+            "(2) No error",
+            "(3) He lived close to",
+            "(4) the train station"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 134,
+        "question": "134. My father give up / smoking when / I was twelve / years old",
+        "options": [
+            "(1) My father give up",
+            "(2) smoking when",
+            "(3) I was twelve",
+            "(4) years old"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 135,
+        "question": "135. She watched / the thief who / steal the purse / in the bus",
+        "options": [
+            "(1) the thief who",
+            "(2) in the bus",
+            "(3) steal the purse",
+            "(4) She watched CHSL TIER-I, 2019 EXAM DATE 12-21 / 10 / 2020"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 136,
+        "question": "136. We noticed that most of the shoppers in the mall looking for packets of ready to cook food",
+        "options": [
+            "(1) packets of ready to cook food",
+            "(2) most of the shoppers",
+            "(3) We noticed that",
+            "(4) in the mall looking for"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 137,
+        "question": "137. A Delhi bound aircraft has to make an emergency landing at Mumbai airport as a woman passenger suddenly developed a serious breathing problem",
+        "options": [
+            "(1) a serious breathing problem",
+            "(2) suddenly developed",
+            "(3) has to make",
+            "(4) as a woman passenger"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 138,
+        "question": "138. According to environment activitists, demolition of unauthorised apartment complexes are became a lesson for land encroachers",
+        "options": [
+            "(1) are became",
+            "(2) for land encroachers",
+            "(3) demolition of unauthorised apartment complexes",
+            "(4) According to"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 139,
+        "question": "139. Did you know whether we can exchange the dress if my sister doesn't like it?",
+        "options": [
+            "(1) doesn't like it",
+            "(2) we can exchange the dress",
+            "(3) if my sister",
+            "(4) Did you know whether"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 140,
+        "question": "140. The Indian cricket team was done very well this year and is ranked number one now",
+        "options": [
+            "(1) was done very well",
+            "(2) this year",
+            "(3) and is ranked number one now",
+            "(4) The Indian cricket team"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 141,
+        "question": "141. When the boys were playing the match, it suddenly starts raining",
+        "options": [
+            "(1) When the boys",
+            "(2) starts raining",
+            "(3) were playing the match",
+            "(4) it suddenly"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 142,
+        "question": "142. When Harry come back home, he saw blood everywhere",
+        "options": [
+            "(1) When Harry",
+            "(2) he saw",
+            "(3) blood everywhere",
+            "(4) come back home"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 143,
+        "question": "143. People with full time sedentary jobs who commuting long distances, may have sleep problems due to lack of exercise",
+        "options": [
+            "(1) may have sleep problems",
+            "(2) due to lack of exercise",
+            "(3) People with full time sedentary jobs",
+            "(4) who commuting long distances SSC CHSL 2020 TIER I 12/04 TO 12/8, 2021"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 144,
+        "question": "144. We will definitely win the match / this time because our team / has prepare well",
+        "options": [
+            "(1) We will definitely win the match",
+            "(2) this time because our team",
+            "(3) No error",
+            "(4) has prepare well"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 145,
+        "question": "145. I think someone has been picked my pocket while I was travelling in the metro",
+        "options": [
+            "(1) I think",
+            "(2) in the metro",
+            "(3) while I was travelling",
+            "(4) someone has been picked my pocket"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 146,
+        "question": "146. He wonder for a moment if he had mistaken the direction",
+        "options": [
+            "(1) for a moment",
+            "(2) He wonder",
+            "(3) if he had mistaken",
+            "(4) the direction"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 147,
+        "question": "147. He part the grass at the place where he had seen the deer",
+        "options": [
+            "(1) He part the grass",
+            "(2) where he had seen",
+            "(3) at the place",
+            "(4) the deer"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 148,
+        "question": "148. At the workshop, / they were taught how to nail / the pieces of wood together to create toys",
+        "options": [
+            "(1) No error",
+            "(2) they were taught how to nail",
+            "(3) the pieces of wood together to create toys",
+            "(4) At the workshop"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 149,
+        "question": "149. When I was at school I found my class teacher to be the best mentor as she always have time to listen and guide",
+        "options": [
+            "(1) to be the best mentor",
+            "(2) as she always have time to listen and guide",
+            "(3) When I was at school",
+            "(4) I found my class teacher"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 150,
+        "question": "150. My brother lost / his job during the lockdown, / but he had got / a new job now",
+        "options": [
+            "(1) his job during the lockdown",
+            "(2) but he had got",
+            "(3) a new job now",
+            "(4) My brother lost"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 151,
+        "question": "151. The need today is for both sides / to introspect and re-examine the issue carefully / and resolve it amicably",
+        "options": [
+            "(1) to introspect and re-examine the issue carefully",
+            "(2) and resolve it amicably",
+            "(3) No error",
+            "(4) The need today is for both sides"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 152,
+        "question": "152. The Prime Minister chair a high-level meeting / with senior officials / to review the Covid situation",
+        "options": [
+            "(1) with senior officials",
+            "(2) The Prime Minister chair a highlevel meeting",
+            "(3) to review the Covid situation",
+            "(4) No error"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 153,
+        "question": "153. My tailor is made some very stylish dresses for me as well as for my daughter",
+        "options": [
+            "(1) for my daughter",
+            "(2) is made",
+            "(3) very stylish dresses",
+            "(4) for me as well as"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 154,
+        "question": "154. The manager said that Rahul does not wants to go to Mumbai for the new project",
+        "options": [
+            "(1) does not wants",
+            "(2) for the new project",
+            "(3) said that",
+            "(4) to go to SSC CHSL 2021 TIER I 24/05/2022 - 10/06/2022"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 155,
+        "question": "155. She had resign / from the / post before / he apologised",
+        "options": [
+            "(1) She had resign",
+            "(2) he apologised",
+            "(3) post before",
+            "(4) from the"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 156,
+        "question": "156. Spot the error in the given sentence and select the correct sentence from the options given",
+        "options": [
+            "(1) Fatima and Sana was both taken the vaccine.",
+            "(2) Fatima and Sana have both taken the vaccine.",
+            "(3) Fatima and Sana were both taken the vaccine",
+            "(4) Fatima and Sana are both taken the vaccine."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 157,
+        "question": "157. Elina is / travelling / since / yesterday",
+        "options": [
+            "(1) since",
+            "(2) yesterday",
+            "(3) Elina is",
+            "(4) travelling"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 158,
+        "question": "158. He continued / staring at the elephant / as if he had not see / one before",
+        "options": [
+            "(1) as if he had not see",
+            "(2) staring at the elephant",
+            "(3) one before",
+            "(4) He continued"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 159,
+        "question": "159. Spot the error in the given sentence and select the correct sentence from the options given",
+        "options": [
+            "(1) Is Savita joining us for lunch today?",
+            "(2) Savita is joined us for lunch today?",
+            "(3) Savita joining us for lunch today?",
+            "(4) Are Savita joining us for lunch today?"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 160,
+        "question": "160. She will be / write her / examination by this / time tomorrow",
+        "options": [
+            "(1) examination by this",
+            "(2) time tomorrow",
+            "(3) She will be",
+            "(4) write her"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 161,
+        "question": "161. The following sentence contains a grammatical error",
+        "options": [
+            "(1) In its August 1992 issue, the highly respected British Journal of Addiction was describing three unusual cases of carrot dependence.",
+            "(2) In its August 1992 issue, the highly respected British Journal of Addiction describing three unusual cases of carrot dependence.",
+            "(3) In its August 1992 issue, the highly respected British Journal of Addiction described three unusual cases of carrot dependence.",
+            "(4) In its August 1992 issue, the highly respected British Journal of Addiction has been described three British Journal of Addiction has been described three."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 162,
+        "question": "162. The following sentence contains a grammatical error",
+        "options": [
+            "(1) He saw us coming, and unaware that we learned of his treachery, greeted us with a smile.",
+            "(2) He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile.",
+            "(3) He saw us coming, and unaware that we were learning of his treachery, greeted us with a smile",
+            "(4) He saw us come, and unaware that we had learned of his treachery, greets us with a smile."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 163,
+        "question": "163. After he had / ate that lobster,/ he began to / feel sick",
+        "options": [
+            "(1) he began to",
+            "(2) ate that lobster",
+            "(3) After he had",
+            "(4) feel sick"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 164,
+        "question": "164. Spot the error in the given sentence and select the correct sentence from the options given",
+        "options": [
+            "(1) When it was time to choose between staying or leaving the country, she chose to stay back.",
+            "(2) When it was time to chose between staying or leaving the country, she chose to stay back.",
+            "(3) When it was time to choice between staying or leaving the country, she choose to stay back.",
+            "(4) When it was time to have chose between staying or leaving the country, she chose to stay back"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 165,
+        "question": "165. Spot the error in the given sentence and select the correct sentence from the options given",
+        "options": [
+            "(1) He wished his having more resources to support the poor.",
+            "(2) He wished he have more resources to support the poor.",
+            "(3) He wishing he has more resources to support the poor.",
+            "(4) He wished he had more resources to support the poor."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 166,
+        "question": "166. Spot the error in the given sentence and select the correct sentence from the options given",
+        "options": [
+            "(1) When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately flew the spot.",
+            "(2) When the villagers putted up a firm resistance to the fearsome bandit with all their might, he ultimately fleed the spot.",
+            "(3) When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately flown the spot.",
+            "(4) When the villagers put up a firm resistance to the fearsome bandit with all their might, he ultimately fled the spot."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 167,
+        "question": "167. They attend / a meeting / in Chicago / this weekend",
+        "options": [
+            "(1) a meeting",
+            "(2) this weekend",
+            "(3) in Chicago",
+            "(4) They attend"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 168,
+        "question": "168. As long as there was corruption in India, there can be no progress",
+        "options": [
+            "(1) there was corruption",
+            "(2) As long as",
+            "(3) in India",
+            "(4) there can be no progress"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 169,
+        "question": "169. When we got / to the train station, / the Rajdhani Express / had already been leaving",
+        "options": [
+            "(1) the Rajdhani Express",
+            "(2) When we got",
+            "(3) had already been leaving",
+            "(4) to the train station"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 170,
+        "question": "170. Spot the error in the given sentence and select the correct sentence from the options given",
+        "options": [
+            "(1) There are more than thirty delegates who attend the training programme last summer",
+            "(2) There were more than thirty delegates who attends the training programme last summer.",
+            "(3) There was more than thirty delegates who attend the training programme last summer",
+            "(4) There were more than thirty delegates who attended the training programme last summer."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 171,
+        "question": "171. Spot the error in the given sentence and select the correct sentence from the options given",
+        "options": [
+            "(1) As soon as we were going for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.",
+            "(2) As soon as we went for an afternoon siesta, my pet rabbit Tia dug a huge hole right in the middle of the lawn.",
+            "(3) As soon as we gone for an afternoon siesta, my pet rabbit Tia digged a huge hole right in the middle of the lawn.",
+            "(4) As soon as we gone for an afternoon siesta, my pet rabbit Tia dug a huge hole right in the middle of the lawn. SSC CPO 2019 TIER I"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 172,
+        "question": "172. In about two weeks our holidays will start",
+        "options": [
+            "(1) In about two weeks",
+            "(2) No error",
+            "(3) Our holidays",
+            "(4) will start"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 173,
+        "question": "173. The J&K Administration has withdrew the advisory asking tourists to cut short their visit to Kashmir",
+        "options": [
+            "(1) their visit to Kashmir",
+            "(2) asking tourists to cut short",
+            "(3) has withdrew the advisory",
+            "(4) No error"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 174,
+        "question": "174. We will have to walk now since we had missed the bus",
+        "options": [
+            "(1) since we had",
+            "(2) We will have to",
+            "(3) walk now",
+            "(4) No error"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 175,
+        "question": "175. If she left now, she would reach the station on time",
+        "options": [
+            "(1) she would reach",
+            "(2) the station on time",
+            "(3) if she left now",
+            "(4) No error"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 176,
+        "question": "176. I wish I have worked harder than I did",
+        "options": [
+            "(1) I wish",
+            "(2) I have worked",
+            "(3) harder than i did",
+            "(4) No error"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 177,
+        "question": "177. I ordered his dismissal when he flouted the company rules",
+        "options": [
+            "(1) I ordered his dismissal",
+            "(2) No error",
+            "(3) when he flouted",
+            "(4) the company rules SSC CPO 2019 TIER II"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 178,
+        "question": "178. Once upon a time / a beautiful princess / has fallen in love / with a poor farmer",
+        "options": [
+            "(1) has fallen in love",
+            "(2) with a poor farmer",
+            "(3) Once upon a time",
+            "(4) a beautiful princess"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 179,
+        "question": "179. Her health has being / steadily improving / since she started / practising yoga",
+        "options": [
+            "(1) Her health has being",
+            "(2) since she started",
+            "(3) practising yoga",
+            "(4) steadily improving"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 180,
+        "question": "180. I asked Dhruv / when he has plan / to settle / the dues",
+        "options": [
+            "(1) to settle",
+            "(2) I asked Dhruv",
+            "(3) when he has plan",
+            "(4) the dues SSC CPO 2020 TIER I"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 181,
+        "question": "181. When he goes on a business trip, he is usually taking his wife",
+        "options": [
+            "(1) When he goes",
+            "(2) No error",
+            "(3) on a business trip",
+            "(4) he is usually taking his wife"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 182,
+        "question": "182. All of us were a little nervous when we came into this room today",
+        "options": [
+            "(1) a little nervous when",
+            "(2) No error",
+            "(3) when we came into this room today",
+            "(4) All of us were"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 183,
+        "question": "183. Sh! Someone listens to our conversation",
+        "options": [
+            "(1) Sh! Someone",
+            "(2) our conversation",
+            "(3) No error",
+            "(4) listens to"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 184,
+        "question": "184. The sun rises at 6",
+        "options": [
+            "(1) rises at 6.35",
+            "(2) yesterday morning",
+            "(3) The sun",
+            "(4) No error CPO (TIER-II) 2020 EXAM HELD ON - 8 NOV 2021"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 185,
+        "question": "185. As soon as the super moon had rose over the hill, the valley was flooded with silver light",
+        "options": [
+            "(1) As soon as",
+            "(2) over the hill",
+            "(3) had rose",
+            "(4) was flooded with CPO (TIER-I) 2022 (9 TO 11 NOVEMBER, 2022)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 186,
+        "question": "186. \"Mrs",
+        "options": [
+            "(1) the moment.\"",
+            "(2) \"All right. I had been waiting.\"",
+            "(3) very busy at",
+            "(4) \"Mrs. Pooja is SSC GD   2022"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 187,
+        "question": "187. Our soldiers have being / making a clean sweep of the / sheep and poultry on the route",
+        "options": [
+            "(1) No error",
+            "(2) sheep and poultry on the route",
+            "(3) Our soldiers have being",
+            "(4) making a clean sweep of the"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 188,
+        "question": "188. The technician has found it / extremely difficult to fix / the error in the programme",
+        "options": [
+            "(1) The technician has found it",
+            "(2) No error",
+            "(3) the error in the programme",
+            "(4) extremely difficult to fix"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 189,
+        "question": "189. I am give / a speech on / emerging economic dynamics / in the program",
+        "options": [
+            "(1) I am give",
+            "(2) a speech on",
+            "(3) emerging economic dynamics",
+            "(4) in the program"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 190,
+        "question": "190. My friend Ragini /shall completed/ her task/ by then",
+        "options": [
+            "(1) her task",
+            "(2) shall completed",
+            "(3) by then",
+            "(4) My friend Ragini"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 191,
+        "question": "191. The blind man can perform / wonderfully well even though / he was old now",
+        "options": [
+            "(1) he was old now",
+            "(2) No error",
+            "(3) The blind man can perform",
+            "(4) wonderfully well even though"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 192,
+        "question": "192. Tomorrow in the exam hall, I am busy writing answers",
+        "options": [
+            "(1) writing",
+            "(2) am",
+            "(3) busy",
+            "(4) Answers"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 193,
+        "question": "193. I hope / you will / helped me / this weekend",
+        "options": [
+            "(1) I hope",
+            "(2) helped me",
+            "(3) you will",
+            "(4) this weekend"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 194,
+        "question": "194. Smith will / be learning / French when / they are arriving",
+        "options": [
+            "(1) be learning",
+            "(2) French when",
+            "(3) Smith will",
+            "(4) they are arriving"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 195,
+        "question": "195. I have waiting / anxiously / for my / exam results",
+        "options": [
+            "(1) exam results",
+            "(2) I have waiting",
+            "(3) anxiously",
+            "(4) for my"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 196,
+        "question": "196. He said that / he had want / to read a / novel by Enid Blyton",
+        "options": [
+            "(1) he had want",
+            "(2) to read a",
+            "(3) novel by Enid Blyton",
+            "(4) He said that"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 197,
+        "question": "197. They have / always take / an hour's walk / before breakfast",
+        "options": [
+            "(1) an hour's walk",
+            "(2) always take",
+            "(3) before breakfast",
+            "(4) They have"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 198,
+        "question": "198. Rover had eaten the pie before we gets home",
+        "options": [
+            "(1) we gets home",
+            "(2) Rover had eaten",
+            "(3) No error",
+            "(4) the pie before"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 199,
+        "question": "199. Tomorrow is a/ holiday for all /except me as/ I will writing my exam",
+        "options": [
+            "(1) I will writing my exam",
+            "(2) holiday for all",
+            "(3) Tomorrow is a",
+            "(4) except me as"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 200,
+        "question": "200. He will give you / good advice if / you will ask him",
+        "options": [
+            "(1) He will give you",
+            "(2) you will ask him",
+            "(3) good advice if",
+            "(4) No error"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 201,
+        "question": "201. He goes to Shimla every year but this year he was going to Goa",
+        "options": [
+            "(1) he was going to Goa",
+            "(2) No error",
+            "(3) but this year",
+            "(4) He goes to Shimla every year"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 202,
+        "question": "202. Her bookstore flourished / because / she picks / a good location",
+        "options": [
+            "(1) Her bookstore flourished",
+            "(2) because",
+            "(3) a good location",
+            "(4) she picks"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 203,
+        "question": "203. They eating three apples after last night's dinner",
+        "options": [
+            "(1) night's",
+            "(2) after",
+            "(3) eating",
+            "(4) Three"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 204,
+        "question": "204. She have / left by the time / I reach home",
+        "options": [
+            "(1) I reach home",
+            "(2) left by the time",
+            "(3) She have",
+            "(4) No error"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 205,
+        "question": "205. The old man think his younger daughter was mocking him",
+        "options": [
+            "(1) his younger daughter",
+            "(2) was mocking him",
+            "(3) No error",
+            "(4) The old man think"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 206,
+        "question": "206. Very few animals / was / as faithful as / the dog",
+        "options": [
+            "(1) the dog",
+            "(2) as faithful as",
+            "(3) was",
+            "(4) Very few animals"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 207,
+        "question": "207. I think India will win the 20-20 cricket match",
+        "options": [
+            "(1) India will win",
+            "(2) the 20-20 cricket match",
+            "(3) No error",
+            "(4) I think"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 208,
+        "question": "208. Mrs",
+        "options": [
+            "(1) a week ago",
+            "(2) No error",
+            "(3) received his letter",
+            "(4) Mrs. Meera and family"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 209,
+        "question": "209. When I / was / young, I / play hockey",
+        "options": [
+            "(1) was",
+            "(2) When I",
+            "(3) young, I",
+            "(4) play hockey"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 210,
+        "question": "210. The policeman / walk along the / road when I saw / a body in the gutter",
+        "options": [
+            "(1) walk along the",
+            "(2) a body in the gutter",
+            "(3) The policeman",
+            "(4) road when I saw"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 211,
+        "question": "211. I were / writing / this poem / last evening",
+        "options": [
+            "(1) this poem",
+            "(2) last evening",
+            "(3) I were",
+            "(4) Writing"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 212,
+        "question": "212. An old man sit down and read his book on his lush green lawn",
+        "options": [
+            "(1) An old man sit down",
+            "(2) and read his book",
+            "(3) on his lush green lawn",
+            "(4) No error"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 213,
+        "question": "213. The forest ranger always / treats all the wild animals / in his area very kindly",
+        "options": [
+            "(1) treats all the wild animals",
+            "(2) in his area very kindly",
+            "(3) No error",
+            "(4) The forest ranger always"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 214,
+        "question": "214. I told Jack that we seen a good film last week with our friends from Mexico",
+        "options": [
+            "(1) week with our",
+            "(2) I told Jack that we",
+            "(3) seen a good film last",
+            "(4) friends from Mexico"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 215,
+        "question": "215. My sister / is come for / a short holiday / from the US",
+        "options": [
+            "(1) from the US",
+            "(2) a short holiday",
+            "(3) My sister",
+            "(4) is come for"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 216,
+        "question": "216. Ameya won't / eat / any junk food at all",
+        "options": [
+            "(1) Ameya won't",
+            "(2) No error",
+            "(3) eat",
+            "(4) any junk food at all"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 217,
+        "question": "217. How foolish I was to have believe that young woman!",
+        "options": [
+            "(1) to have believe",
+            "(2) No error",
+            "(3) How foolish I was",
+            "(4) that young woman SSC CGL 2021 TIER I 11 TO 21 APRIL, 2022"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 218,
+        "question": "218. He allowed / his son to drive / but he warn him / of the danger",
+        "options": [
+            "(1) of the danger",
+            "(2) his son to drive",
+            "(3) He allowed",
+            "(4) but he warn him"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 219,
+        "question": "219. The unseasonal rain/ caused a lot of damage/ to the crops",
+        "options": [
+            "(1) caused a lot of damage",
+            "(2) No error",
+            "(3) The unseasonal rain",
+            "(4) to the crops"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 220,
+        "question": "220. The policeman asked / many people but / no one was knowing / how the accident happened",
+        "options": [
+            "(1) The policeman asked",
+            "(2) no one was knowing",
+            "(3) many people but",
+            "(4) how the accident happened"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 221,
+        "question": "221. He / can have been / more polite / to her",
+        "options": [
+            "(1) to her",
+            "(2) more polite",
+            "(3) He",
+            "(4) can have been"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 222,
+        "question": "222. Aarav's mother / speaks four languages / fluently",
+        "options": [
+            "(1) Aarav's mother",
+            "(2) fluently",
+            "(3) No error",
+            "(4) speaks four languages"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 223,
+        "question": "223. This park is / the largest bird sanctuary / in the State",
+        "options": [
+            "(1) This park is",
+            "(2) the largest bird sanctuary",
+            "(3) No error",
+            "(4) in the State"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 224,
+        "question": "224. Smita lived in this house since she was five years old",
+        "options": [
+            "(1) Smita lived",
+            "(2) since she was",
+            "(3) in this house",
+            "(4) five years old"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 225,
+        "question": "225. My friends are gone on a trip to Goa today",
+        "options": [
+            "(1) to Goa today",
+            "(2) on a trip",
+            "(3) My friends",
+            "(4) are gone"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 226,
+        "question": "226. The team won / very easily / at the recent sports event",
+        "options": [
+            "(1) very easily",
+            "(2) The team won",
+            "(3) No error",
+            "(4) at the recent sports event SSC CGL TIER II (2021) | 08/08/2022"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 227,
+        "question": "227. Scarcely had he took the medicine when his headache was gone",
+        "options": [
+            "(1) when his headache was gone",
+            "(2) No error",
+            "(3) took the medicine",
+            "(4) Scarcely had he"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 228,
+        "question": "228. He said that he had forgot to lock the door before leaving",
+        "options": [
+            "(1) to lock the door",
+            "(2) He said that",
+            "(3) he had forgot",
+            "(4) before leaving SSC CGL-2022 01 TO 13, DECEMBER, 2022"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 229,
+        "question": "229. The erroneous information spread rapidly across the nation and created a stir",
+        "options": [
+            "(1) erronous",
+            "(2) No error",
+            "(3) eronneous",
+            "(4) errauneous"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 230,
+        "question": "230. The child was / gazing longingly / at the toy",
+        "options": [
+            "(1) gazing longingly",
+            "(2) at the toy",
+            "(3) No error",
+            "(4) The child was"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 231,
+        "question": "231. After seeing that Shreya / was in trouble, / Rahul quietly stepped up to help",
+        "options": [
+            "(1) Rahul quietly stepped up to help",
+            "(2) After seeing that Shreya",
+            "(3) was in trouble",
+            "(4) No error"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 232,
+        "question": "232. The article that she wrote / for the last week's Sunday Supplement / fairly criticises /the abuse of mobile phones",
+        "options": [
+            "(1) The article that she wrote",
+            "(2) for the last week's Sunday Supplement",
+            "(3) the abuses of mobile phones.",
+            "(4) fairly criticises"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 233,
+        "question": "233. The audience has being / angry as the magician / is not performing / as expected",
+        "options": [
+            "(1) is not performing",
+            "(2) as expected",
+            "(3) The audience has being",
+            "(4) angry as the magician"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 234,
+        "question": "234. Usually, Ratheesh hasn't / take part in these types / of events because of / his hectic schedule",
+        "options": [
+            "(1) take part in these types",
+            "(2) of events because of",
+            "(3) his hectic schedule",
+            "(4) Usually, Ratheesh hasn't SSC GD CONSTABLE-2021 EXAM DATE 01/12/2021 30/11/2021"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 235,
+        "question": "235. Last night's / Christmas party was fun",
+        "options": [
+            "(1) you would come",
+            "(2) Last night's",
+            "(3) I wish",
+            "(4) Christmas party was fun"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 236,
+        "question": "236. John wanted to know / if will John / come to the college / in the evening",
+        "options": [
+            "(1) come to the college",
+            "(2) in the evening",
+            "(3) John wanted to know",
+            "(4) if will John"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 237,
+        "question": "237. The pilot / follow another airplane / as he had lost / his way in the storm",
+        "options": [
+            "(1) as he had lost",
+            "(2) his way in the storm",
+            "(3) follow another airplane",
+            "(4) The pilot"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 238,
+        "question": "238. How many / languages do / most children / in India known?",
+        "options": [
+            "(1) in India known",
+            "(2) most children",
+            "(3) languages do",
+            "(4) How many"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 239,
+        "question": "239. The news reporter highlighting the mysterious death of the film actor repeatedly",
+        "options": [
+            "(1) highlighting",
+            "(2) repeatedly",
+            "(3) the mysterious death",
+            "(4) of the film actor"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 240,
+        "question": "240. I wish / I helped him / with his homework / last night",
+        "options": [
+            "(1) I wish",
+            "(2) with his homework",
+            "(3) last night",
+            "(4) I helped him"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 241,
+        "question": "241. Treasure Island is / always been / my favourite book / right from my childhood days",
+        "options": [
+            "(1) my favourite book",
+            "(2) right from my childhood days",
+            "(3) Treasure Island is",
+            "(4) always been"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 242,
+        "question": "242. The cat / had drunk the milk / before we / return home",
+        "options": [
+            "(1) drank the milk",
+            "(2) return home",
+            "(3) The cat",
+            "(4) before we"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 243,
+        "question": "243. Mona is from Paris",
+        "options": [
+            "(1) there all",
+            "(2) her life",
+            "(3) Mona is from Paris",
+            "(4) she has live"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 244,
+        "question": "244. India has produce many well-known scientists who have received accolades all over the world",
+        "options": [
+            "(1) India has produce",
+            "(2) all over the world",
+            "(3) who have received",
+            "(4) well-known scientists"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 245,
+        "question": "245. Did the police find out who break into your store?",
+        "options": [
+            "(1) find out",
+            "(2) your store",
+            "(3) who break into",
+            "(4) Did the police"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 246,
+        "question": "246. These children / are attended / yoga classes / regularly",
+        "options": [
+            "(1) regularly",
+            "(2) These children",
+            "(3) yoga classes",
+            "(4) are attended"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 247,
+        "question": "247. The photographer climb / the tree and took pictures / of the leopard / chasing its prey",
+        "options": [
+            "(1) the tree and took pictures",
+            "(2) The photographer climb",
+            "(3) of the leopard",
+            "(4) chasing its prey"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 248,
+        "question": "248. I entered my room / and switch on the lights / but it was / still dark",
+        "options": [
+            "(1) and switch on the lights",
+            "(2) I entered my room",
+            "(3) but it was",
+            "(4) still dark"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 249,
+        "question": "249. The teacher punished him / and told him / that he does not / need to give a clarification",
+        "options": [
+            "(1) need to give a clarification",
+            "(2) The teacher punished him",
+            "(3) that he does not",
+            "(4) and told him"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 250,
+        "question": "250. Sharada was cooking lunch / when I am going / to give her / the mobile phone",
+        "options": [
+            "(1) to give her",
+            "(2) the mobile phone",
+            "(3) Sharada was cooking lunch",
+            "(4) when I am going MTS  2019 EXAM DATE 02/08/2019   22/08/2019"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 251,
+        "question": "251. He has deposits all his money in banks",
+        "options": [
+            "(1) No error",
+            "(2) up all his",
+            "(3) He has deposits",
+            "(4) money in banks"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 252,
+        "question": "252. He went up to her and asks her why she had insulted him",
+        "options": [
+            "(1) He went up to her",
+            "(2) No error",
+            "(3) she had insulted him",
+            "(4) and asks her why"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 253,
+        "question": "253. I did not see anybody in the auditorium",
+        "options": [
+            "(1) No error",
+            "(2) see anybody",
+            "(3) I did not",
+            "(4) in the auditorium"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 254,
+        "question": "254. The more he earned, the more he want to earn",
+        "options": [
+            "(1) the more he",
+            "(2) No error",
+            "(3) want to earn",
+            "(4) The more he earned"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 255,
+        "question": "255. The government's proposal has been set alarm bells ringing for people with low incomes",
+        "options": [
+            "(1) with low incomes",
+            "(2) ringing for people",
+            "(3) The government's proposal",
+            "(4) has been set alarm bells"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 256,
+        "question": "256. When they started, they had great ideas but lack the business knowhow",
+        "options": [
+            "(1) When they started",
+            "(2) they had great ideas",
+            "(3) but lack",
+            "(4) the business know-how"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 257,
+        "question": "257. For most citizens today, liberty meant the freedom to practise their religious or political beliefs",
+        "options": [
+            "(1) For most citizens today",
+            "(2) practise their religious",
+            "(3) liberty meant the freedom to",
+            "(4) or political beliefs."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 258,
+        "question": "258. My friend usually wakes up late on Sunday mornings",
+        "options": [
+            "(1) usually wakes up",
+            "(2) No error",
+            "(3) My friend",
+            "(4) late on Sunday mornings"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 259,
+        "question": "259. Rakesh was studied when his friends called him",
+        "options": [
+            "(1) studied when",
+            "(2) his friends",
+            "(3) called him",
+            "(4) Rakesh was"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 260,
+        "question": "260. Harish is spending two hours every morning reading newspapers in different languages",
+        "options": [
+            "(1) two hours every morning",
+            "(2) in different languages",
+            "(3) reading newspapers",
+            "(4) Harish is spending"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 261,
+        "question": "261. Kaira has upset with me since the accident",
+        "options": [
+            "(1) the accident",
+            "(2) me since",
+            "(3) upset with",
+            "(4) Kaira has MTS  2020 EXAM DATE 11/10/2021  27/10/2021"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 262,
+        "question": "262. Who has distributed these sweets among the children?",
+        "options": [
+            "(1) these sweets",
+            "(2) Who has distributed",
+            "(3) among the children",
+            "(4) No error"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 263,
+        "question": "263. Mr",
+        "options": [
+            "(1) to Germany and France",
+            "(2) next weekend",
+            "(3) Mr. Choudhri goes",
+            "(4) to fly"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 264,
+        "question": "264. The school usually starts at 8 a",
+        "options": [
+            "(1) The school",
+            "(2) at 8 a.m. and",
+            "(3) is closing at 3 p.m.",
+            "(4) usually starts"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 265,
+        "question": "265. Last week we thrown a party for Arun",
+        "options": [
+            "(1) we thrown",
+            "(2) a party",
+            "(3) for Arun",
+            "(4) Last week"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 266,
+        "question": "266. He said that he had being playing tennis since he was eight",
+        "options": [
+            "(1) he had being",
+            "(2) since he was eight",
+            "(3) He said",
+            "(4) playing tennis"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 267,
+        "question": "267. While he was running along the garden path, he has tripped over a big stone",
+        "options": [
+            "(1) long the garden path",
+            "(2) he has tripped",
+            "(3) over a big stone",
+            "(4) While he was running"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 268,
+        "question": "268. By the way, will you taught me how to speak in English?",
+        "options": [
+            "(1) will you taught me",
+            "(2) how to speak",
+            "(3) By the way",
+            "(4) in English"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 269,
+        "question": "269. Last Saturday evening we go to a party",
+        "options": [
+            "(1) Last Saturday",
+            "(2) a party",
+            "(3) go to",
+            "(4) evening we MTS  2021 EXAM DATE 05/07/2022   26/07/2022"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 270,
+        "question": "270. I have not saw / your sister since she / came to this city",
+        "options": [
+            "(1) I have not saw",
+            "(2) No error",
+            "(3) your sister since she",
+            "(4) came to this city"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 271,
+        "question": "271. We needing to kept / a close eye on / the rising prices of fuel",
+        "options": [
+            "(1) We needing to kept",
+            "(2) the rising prices of fuel",
+            "(3) No error",
+            "(4) a close eye on"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 272,
+        "question": "272. Lucy was annoyed to discover / that her husband / had taking her car keys",
+        "options": [
+            "(1) No error",
+            "(2) that her husband",
+            "(3) Lucy was annoyed to discover",
+            "(4) had taking her car keys"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 273,
+        "question": "273. When I reached there she have already started eating",
+        "options": [
+            "(1) No error",
+            "(2) When I reached",
+            "(3) there she have",
+            "(4) already started eating"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 274,
+        "question": "274. I have receive perhaps four / or five such requests during the / course of a typical week",
+        "options": [
+            "(1) or five such requests during the",
+            "(2) No error",
+            "(3) course of a typical week",
+            "(4) I have receive perhaps four"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 275,
+        "question": "275. The global pandemic remind us that even local censorship can have global consequences",
+        "options": [
+            "(1) can have global consequences",
+            "(2) The global pandemic remind us",
+            "(3) that even local censorship",
+            "(4) No error"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 276,
+        "question": "276. Germs will always find a way to exploit our human environment",
+        "options": [
+            "(1) No error",
+            "(2) a way to exploit",
+            "(3) Germs will always find",
+            "(4) our human environment"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 277,
+        "question": "277. An opportunity arise, and / he decided to take the / job in Brussels",
+        "options": [
+            "(1) No error",
+            "(2) An opportunity arise, and",
+            "(3) he decided to take the",
+            "(4) job in Brussels"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 278,
+        "question": "278. I seen a beautiful dress in the market yesterday",
+        "options": [
+            "(1) I seen a",
+            "(2) the market yesterday",
+            "(3) beautiful dress in",
+            "(4) No error"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 279,
+        "question": "279. New fashion trends / come onto the / scene periodically",
+        "options": [
+            "(1) come onto the",
+            "(2) New fashion trends",
+            "(3) scene periodically",
+            "(4) No error"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 280,
+        "question": "280. He got afflicted with the disease / when he was / a teenager",
+        "options": [
+            "(1) No error",
+            "(2) He got afflicted with the disease",
+            "(3) a teenager",
+            "(4) when he was"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 281,
+        "question": "281. Despite the pain in his leg, / Nicholas completed / the marathon",
+        "options": [
+            "(1) No error",
+            "(2) Nicholas completed",
+            "(3) the marathon",
+            "(4) Despite the pain in his leg,"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 282,
+        "question": "282. Hundreds of migrants work in private firms in Erode",
+        "options": [
+            "(1) firms in Erode",
+            "(2) No error",
+            "(3) Hundreds of migrants",
+            "(4) work in private"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 283,
+        "question": "283. My mother exclaimed / at how fast / the days had pass",
+        "options": [
+            "(1) at how fast",
+            "(2) No error",
+            "(3) My mother exclaimed",
+            "(4) the days had pass"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 284,
+        "question": "284. All the problems occurred / because she does not / hear my words  follow the instructions ",
+        "options": [
+            "(1) because she does not",
+            "(2) All the problems occurred",
+            "(3) No error",
+            "(4) follow the instructions hear my words"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 285,
+        "question": "285. One of the most important tasks in agriculture is turning the soil and loosening it",
+        "options": [
+            "(1) No error",
+            "(2) the soil and loosening it",
+            "(3) in agriculture is turning",
+            "(4) One of the most important tasks"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 286,
+        "question": "286. The students looked confused, / so the teacher / explain the topic again",
+        "options": [
+            "(1) explain the topic again",
+            "(2) so the teacher",
+            "(3) No error",
+            "(4) The students looked confused"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 287,
+        "question": "287. My teacher said to me that / all that / glitters were not gold",
+        "options": [
+            "(1) glitters were not gold",
+            "(2) My teacher said to me that",
+            "(3) No error",
+            "(4) all that"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 288,
+        "question": "288. I am currently worked / with a newly / set up marketing company",
+        "options": [
+            "(1) No error",
+            "(2) set up marketing company",
+            "(3) I am currently worked",
+            "(4) with a newly"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 289,
+        "question": "289. I am dealing with / some family issues / right now",
+        "options": [
+            "(1) No error",
+            "(2) some family issues",
+            "(3) right now",
+            "(4) I am dealing with"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 290,
+        "question": "290. Frank has being making / the rounds, advancing a theory / that I believe is not without merit",
+        "options": [
+            "(1) the rounds, advancing a theory",
+            "(2) No error",
+            "(3) Frank has being making",
+            "(4) that I believe is not without merit"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 291,
+        "question": "291. Young scientists have fresh ideas; they are ambitious and highly productive",
+        "options": [
+            "(1) and highly productive",
+            "(2) Young scientists have fresh ideas",
+            "(3) No error",
+            "(4) they are ambitious STENOGRAPHER GRADE  C' &  D' 2020 EXAM DATE 11/11/2021   15/11/2021"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 292,
+        "question": "292. From my experience in mountain climbing I have learn that physical fitness is very important",
+        "options": [
+            "(1) have learn",
+            "(2) from my experience",
+            "(3) is very important",
+            "(4) that physical fitness"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 293,
+        "question": "293. My cousin, Jawahar, / visited me at home / and asked me / what I am reading",
+        "options": [
+            "(1) what I am reading",
+            "(2) visited me at home",
+            "(3) and asked me",
+            "(4) My cousin, Jawahar"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 294,
+        "question": "294. The assistant superintendent stepped down from his duties declaring that the jail was not take care of the inmates",
+        "options": [
+            "(1) stepped down from",
+            "(2) declaring that",
+            "(3) of the inmates",
+            "(4) was not take care STENOGRAPHER GRADE  C' &  D' 2022 EXAM DATE 17/11/2022   18/11/2022"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 295,
+        "question": "295. She will already return home / when her parents get back / from their offices",
+        "options": [
+            "(1) when her parents get back",
+            "(2) No error",
+            "(3) She will already return home",
+            "(4) from their offices"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 296,
+        "question": "296. By next year, / they will have / build their new tower",
+        "options": [
+            "(1) No error",
+            "(2) build their new tower",
+            "(3) they will have",
+            "(4) By next year"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 297,
+        "question": "297. Ajay will have been / writing his homework all day / by the time his mom returns",
+        "options": [
+            "(1) writing his homework all day",
+            "(2) Ajay will have been",
+            "(3) No error",
+            "(4) by the time his mom returns"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 298,
+        "question": "298. The team worked / very hard / on the project",
+        "options": [
+            "(1) very hard",
+            "(2) No error",
+            "(3) The team worked",
+            "(4) on the project"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 299,
+        "question": "299. A child learnt the basics of / his mother tongue mainly from / his interactions with the mother",
+        "options": [
+            "(1) his mother tongue mainly from",
+            "(2) No error",
+            "(3) A child learnt the basics of",
+            "(4) his interactions with the mother"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 300,
+        "question": "300. The committee recommended / that the bill / be passed immediately",
+        "options": [
+            "(1) The committee recommended",
+            "(2) No error",
+            "(3) that the bill",
+            "(4) be passed immediately"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 301,
+        "question": "301. Jaishit had written / the application / before you came",
+        "options": [
+            "(1) No error",
+            "(2) before you came",
+            "(3) the application",
+            "(4) Jaishit had written"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 302,
+        "question": "302. I had praying / to God / for your golden future",
+        "options": [
+            "(1) No error",
+            "(2) I had praying",
+            "(3) to God",
+            "(4) for your golden future"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 303,
+        "question": "303. My brother / had being / cracking jokes",
+        "options": [
+            "(1) My brother",
+            "(2) had being",
+            "(3) No error",
+            "(4) cracking jokes"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 304,
+        "question": "304. Sid is / bring the cake / for Ria's birthday",
+        "options": [
+            "(1) bring the cake",
+            "(2) for Ria's birthday",
+            "(3) No error",
+            "(4) Sid is"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 305,
+        "question": "305. Our neighbour / was always told us / funny jokes and stories",
+        "options": [
+            "(1) funny jokes and stories",
+            "(2) was always told us",
+            "(3) No error",
+            "(4) Our neighbour"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 306,
+        "question": "306. By next year, / we will been living / in Bengaluru for eight years",
+        "options": [
+            "(1) we will been living",
+            "(2) By next year",
+            "(3) in Bengaluru for eight years",
+            "(4) No error"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 307,
+        "question": "307. She seems to be / exhausted after talking for / a couple of hours to the public",
+        "options": [
+            "(1) exhausted after talking for",
+            "(2) a couple of hours to the public",
+            "(3) No error",
+            "(4) She seems to be"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 308,
+        "question": "308. Eva's business module / allowed people's money / to grow steadily",
+        "options": [
+            "(1) Eva's business module",
+            "(2) No error",
+            "(3) to grow steadily",
+            "(4) allowed people's money"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 309,
+        "question": "309. She won't be / watch the news / on the BBC channel",
+        "options": [
+            "(1) on the BBC channel",
+            "(2) watch the news",
+            "(3) She won't be",
+            "(4) No error"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 310,
+        "question": "310. He told his friends / that he is gone/ to visit his parents / in the evening",
+        "options": [
+            "(1) in the evening",
+            "(2) that he is gone",
+            "(3) to visit his parents",
+            "(4) He told his friends"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 311,
+        "question": "311. The ship sink / in the sea / and had / no survivors",
+        "options": [
+            "(1) in the sea",
+            "(2) and had",
+            "(3) The ship sink",
+            "(4) no survivors"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 312,
+        "question": "312. Looking at / clouds in the / sky, I think / it will raining",
+        "options": [
+            "(1) Looking at",
+            "(2) it will raining.",
+            "(3) clouds in the",
+            "(4) sky, I think"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 313,
+        "question": "313. By this time tomorrow, / you will be playing / the violin / for 48 hours",
+        "options": [
+            "(1) you will be playing",
+            "(2) By this time tomorrow",
+            "(3) for 48 hours",
+            "(4) the violin"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 314,
+        "question": "314. Niyati will reached / the conference / venue / by now",
+        "options": [
+            "(1) venue",
+            "(2) Niyati will reached",
+            "(3) by now",
+            "(4) the conferenc"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 315,
+        "question": "315. Many a man would welcome the opportunity",
+        "options": [
+            "(1) Many man",
+            "(2) A many man",
+            "(3) Many a men",
+            "(4) No improvement (SSC Section Officer (Audit) Exam. 1997)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 316,
+        "question": "316. Neither I nor my friend live here",
+        "options": [
+            "(1) neither I do nor does my friend",
+            "(2) neither do I nor does my friend",
+            "(3) neither I live nor does my friend",
+            "(4) No improvement (SSC Statistical Investigators Grade-IV Exam. 31.7.2005)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 317,
+        "question": "317. He was so afraid that his knees knocked one another",
+        "options": [
+            "(1) one against",
+            "(2) each other",
+            "(3) both",
+            "(4) No improvement (SSC Section Officer (Commercial Audit) Exam. 25.09.2005)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 318,
+        "question": "318. As soon as winter sets in, the number of tourists start increasing suddenly",
+        "options": [
+            "(1) the number of tourists are increased",
+            "(2) the amount of tourists start increasing",
+            "(3) the number of tourists increases",
+            "(4) No improvement (SSC Statistical Investigators Grade-IV Exam. 13.08.2006)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 319,
+        "question": "319. His speech was marked by disagreement and scorn for his opponent's position",
+        "options": [
+            "(1) is being marked with disagreement and scorn for his opponent's position.",
+            "(2) was marked with disagreement and scorn for his opponents positions.",
+            "(3) was marked by disagreement and scorn for this opponents positions.",
+            "(4) No improvement (SSC Statistical Investigators Grade-IV Exam. 13.08.2006)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 320,
+        "question": "320. Neither of them went to the cinema",
+        "options": [
+            "(1) Both of them did not go",
+            "(2) Both did not go",
+            "(3) Neither went",
+            "(4) No improvement (SSC CISF ASI Exam. 29.08.2010)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 321,
+        "question": "321. Most of the non-Western countries have been subject either to total colonial rule or varying degrees of economic control and their native population has either been destroyed or Westernised",
+        "options": [
+            "(1) has been subject to either",
+            "(2) either have been subject to",
+            "(3) have been either subjected to",
+            "(4) No improvement (SSC Statistical Investigators Grade-IV Exam. 12.09.2010)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 322,
+        "question": "322. We generally select one of the most intelligent student of the school for this award",
+        "options": [
+            "(1) one of the most intelligent students of the school",
+            "(2) one of the intelligent most students of the school",
+            "(3) one of the intelligent most student of the school",
+            "(4) No improvement (SSC Combined Graduate Level Tier-I Exam. 26.06.2011 (First Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 323,
+        "question": "323. A pair of shoes have been purchased by me",
+        "options": [
+            "(1) has been",
+            "(2) has being",
+            "(3) would been",
+            "(4) No improvement (FCI Assistant Grade-III Exam. 05.02.2012 (Ist Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 324,
+        "question": "324. He was so afraid that his knees knocked one another",
+        "options": [
+            "(1) one against",
+            "(2) each other",
+            "(3) both",
+            "(4) No improvement (SSC Data Entry Operator & LDC Exam. 27.11.2010)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 325,
+        "question": "325. Either Vijay or Vimal are going to be selected for the match",
+        "options": [
+            "(1) has",
+            "(2) is",
+            "(3) have been",
+            "(4) No improvement (SSC Data Entry Operator & LDC Exam. 28.11.2010) (IInd Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 326,
+        "question": "326. The office staff members wished each and other on New Year's Day",
+        "options": [
+            "(1) one other",
+            "(2) one another",
+            "(3) each another",
+            "(4) No improvement (SSC Data Entry Operator & LDC Exam. 28.11.2010) (IInd Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 327,
+        "question": "327.   Gulliver's Travels'' are an interesting novel",
+        "options": [
+            "(1) were",
+            "(2) was",
+            "(3) is",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 11.12.2011  (IInd Sitting (East Zone)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 328,
+        "question": "328. One of my teacher has received the Sahitya Akademi award",
+        "options": [
+            "(1) the teacher",
+            "(2) my teachers",
+            "(3) teacher",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 21.10.2012 (IInd Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 329,
+        "question": "329. You can't get good marks unless you don't work hard",
+        "options": [
+            "(1) till you don't",
+            "(2) unless you",
+            "(3) until you don't",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 21.10.2012, South Zone (Ist Sitting))"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 330,
+        "question": "330. One of my teacher has received the Sahitya Akademi award",
+        "options": [
+            "(1) the teacher",
+            "(2) my teachers",
+            "(3) teacher",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 21.10.2012 (2nd Sitting))"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 331,
+        "question": "331. One of my friend is an engineer",
+        "options": [
+            "(1) One of my friends",
+            "(2) One among my friends",
+            "(3) One of friend of mine",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 28.10.2012 (1st Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 332,
+        "question": "332. The constitution of India guaranteed each citizen equal rights and privileges",
+        "options": [
+            "(1) Indian guaranties",
+            "(2) India guarantees",
+            "(3) India guarantys",
+            "(4) No improvement (SSC (10+2) Level Data Entry Operator & LDC Exam. 28.10.2012 (1st Sitting)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 333,
+        "question": "333. The voluntary organization appealed to the people to come forward to help the victims and said that each may contribute what they can",
+        "options": [
+            "(1) each may contribute what he can",
+            "(2) each may contribute what they can",
+            "(3) each may contribute what each one can",
+            "(4) No improvement (SSC FCI Assistant Grade-III Main Exam. 07.04.2013)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 334,
+        "question": "334. Twenty kms are not a great distance in these days of fast moving vehicles",
+        "options": [
+            "(1) is not a great distance",
+            "(2) are not too great a distance",
+            "(3) aren't proving a great distance",
+            "(4) No improvement (SSC Graduate Level Tier-I Exam. 21.04.2013, IInd Sitting)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 335,
+        "question": "335. I am neither a poet nor philosopher",
+        "options": [
+            "(1) not philosopher",
+            "(2) nor the philosopher",
+            "(3) nor a philosopher",
+            "(4) No improvement (SSC Constable (GD) Exam. 12.05.2013, Ist Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 336,
+        "question": "336. Neither Ted nor Johan are going",
+        "options": [
+            "(1) have been going",
+            "(2) were going",
+            "(3) is going",
+            "(4) No improvement (SSC Constable (GD) Exam. 12.05.2013)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 337,
+        "question": "337. Some players on the team suffer from chronic knee problems and will not play in the next playoff",
+        "options": [
+            "(1) Some players on the team suffers",
+            "(2) Some player on the team suffered",
+            "(3) Some player on the team suffer",
+            "(4) No improvement (SSC Graduate Level Tier-I Exam. 19.05.2013)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 338,
+        "question": "338. The gentry of the town was invited",
+        "options": [
+            "(1) is invited",
+            "(2) has been invited",
+            "(3) were invited",
+            "(4) No improvement. (SSC CAPFs SI & CISF ASI Exam. 23.06.2013)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 339,
+        "question": "339. A high school student is not even understanding the basics of Chemistry and Physics",
+        "options": [
+            "(1) does not understand even",
+            "(2) was not even understanding",
+            "(3) has even not understood",
+            "(4) No improvement (SSC CAPFs SI & CISF ASI Exam. 23.06.2013)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 340,
+        "question": "340. One of my neighbours will sell his house who is going abroad",
+        "options": [
+            "(1) One of my neighbours will who is going abroad sell his house.",
+            "(2) One who is going abroad of my neighbours will sell his house.",
+            "(3) One of my neighbours who is going abroad will sell his house.",
+            "(4) No improvement (SSC Graduate Level Tier-II Exam. 29.09.2013)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 341,
+        "question": "341. A lot of effort went into collecting the data",
+        "options": [
+            "(1) The data went into collecting a lot of effort.",
+            "(2) The collecting a lot of effort went into data.",
+            "(3) Went into a lot of effort collecting the data.",
+            "(4) No improvement. (SSC Multi-Tasking (Non-Tech.) Staff Exam. 16.02.2014)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 342,
+        "question": "342. An increase in crimes against women have been reported in the newspapers recently",
+        "options": [
+            "(1) are being reported",
+            "(2) has been reported",
+            "(3) has been written",
+            "(4) No improvement (SSC Multi-Tasking Staff (Patna) Exam. 16.02.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 343,
+        "question": "343. The cattle are fed on barley and grass",
+        "options": [
+            "(1) cattles are fed",
+            "(2) cattles are feeding",
+            "(3) cattle is fed",
+            "(4) No improvement (SSC Multi-Tasking (Non-Tech.) Staff Exam. 23.02.2014, IInd Sitting)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 344,
+        "question": "344. A thousand rupees are all that he wants",
+        "options": [
+            "(1) are",
+            "(2) was",
+            "(3) is",
+            "(4) No improvement (SSC CGL Tier-I Re-Exam. (2013) 20.07.2014, IInd Sitting)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 345,
+        "question": "345. Any of these two books is good",
+        "options": [
+            "(1) Any of this",
+            "(2) Either of these",
+            "(3) Any other of this",
+            "(4) No improvement (SSC GL Tier-I Exam. 19.10.2014)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 346,
+        "question": "346. The report highlights a number of instance of injustice",
+        "options": [
+            "(1) highlight a number of instances of injustice",
+            "(2) highlights a numbers of instances of injustice",
+            "(3) highlights a number of instances of injustice",
+            "(4) No improvement (SSC GL Tier-I Exam. 19.10.2014)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 347,
+        "question": "347. The mother with her children were expected",
+        "options": [
+            "(1) was",
+            "(2) will",
+            "(3) have",
+            "(4) No improvement (SSC CHSL (10+2) DEO & LDC Exam. 09.11.2014)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 348,
+        "question": "348. The greatest fear which is scaring of the world today is global warming",
+        "options": [
+            "(1) which had scared of the world",
+            "(2) that scared off the world",
+            "(3) that scares the world",
+            "(4) No improvement (SSC GL Tier-II Exam. 21.09.2014)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 349,
+        "question": "349. Tax payers are to be conscious of their privileges",
+        "options": [
+            "(1) might",
+            "(2) have to",
+            "(3) No Improvement",
+            "(4) could (SSC CGL Tier-II Exam. 12.04.2015)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 350,
+        "question": "350. River Damodar in West Bengal carry the effluents from the Durgapur Industrial complex for miles",
+        "options": [
+            "(1) No Improvement",
+            "(2) carries the effluents",
+            "(3) carries the effluence",
+            "(4) carried the effluents (SSC CGL Tier-I Exam, 16.08.2015 (IInd Sitting) TF No. 2176783)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 351,
+        "question": "351. The equipment were faulty",
+        "options": [
+            "(1) equipment were",
+            "(2) equipments are",
+            "(3) equipment was",
+            "(4) No improvement (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 352,
+        "question": "352. Plants cannot grow without sunshine",
+        "options": [
+            "(1) No improvement",
+            "(2) Plants can thrive in the sun.",
+            "(3) Plants cannot grow on a cloudy day.",
+            "(4) Plants do not live in darkness. (SSC CAPFs SI, CISF ASI & Delhi Police SI Exam, 30.08.2015 TF No. 4039770)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 353,
+        "question": "353. Covering thirty kilometres in thirty minutes are not a great distance using a brand new car",
+        "options": [
+            "(1) aren't a great distance",
+            "(2) is no distance",
+            "(3) No improvement",
+            "(4) is not a great distance (SSC Constable (GD) Exam, 04.10.2015, Ist Sitting)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 354,
+        "question": "354. Many a man have died of cancer",
+        "options": [
+            "(1) No improvement",
+            "(2) have died from",
+            "(3) have been dying of",
+            "(4) has died of (SSC CGL Tier-II Exam, 25.10.2015, TF No. 2148789)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 355,
+        "question": "355. How many country are there in Europe ?",
+        "options": [
+            "(1) countries are their in",
+            "(2) country are there on",
+            "(3) countries are there in",
+            "(4) No improvement (SSC CHSL (10+2) LDC, DEO & PA/SA Exam, 15.11.2015 (Ist Sitting) TF No. 6636838)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 356,
+        "question": "356. The terrorist as well as his accomplices was ki lled in the encounter",
+        "options": [
+            "(1) have been killed",
+            "(2) No improvement",
+            "(3) were killed",
+            "(4) was being killed (SSC CHSL (10+2) LDC, DEO & PA/SA Exam, 06.12.2015 (IInd Sitting) TF No. 3441135)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 357,
+        "question": "357. Either Kiran or Mala is sure to be chosen for the school debate team",
+        "options": [
+            "(1) Either Kiran or Mala are sure to",
+            "(2) Either Kiran nor Mala are sure to",
+            "(3) Either Kiran or Mala will",
+            "(4) No Improvement (SSC (10+2) Stenographer Grade  C' &  D' Exam. 31.01.2016 TF No. 3513283"
+        ],
+        "correct_option": "3"
+    }
+]
