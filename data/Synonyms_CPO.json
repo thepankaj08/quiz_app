@@ -100,7 +100,7 @@
     },
     {
         "question_id": "10",
-        "question": "10. You are preparing a speech for the upcoming function",
+        "question": "10. You are preparing a speech for the upcoming function. Select a synonym for the highlighted word to make it better. The education system must (Evolve) to keep pace with the rapid changes in the job market.(4 October, 2023)",
         "options": [
             "1. Emanate ",
             "2. Censor",
@@ -177,7 +177,8 @@
     },
     {
         "question_id": "17",
-        "question": "17. You are preparing a speech for an upcoming function",
+        "question": "17. You are preparing a speech for an upcoming function. Select a synonym for the highlighted word to make it better. Sexual assault is a severe and (Pervasive) Issue that can have a significant impact on a victim’s life.(4 Oct. 2023)"
+",
         "options": [
             "1. Retrospective ",
             "2. Longitudinal  ",
