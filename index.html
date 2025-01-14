@@ -281,7 +281,7 @@
         const question = questions[currentQuestionIndex];
 
         document.getElementById('questionNumber').textContent = `Question ${question.question_id + " "}`;
-        document.getElementById('questionText').textContent = question.question;
+        document.getElementById('questionText').innerHTML = question.question.replace(/\n/g, "<br>");
 
         const optionsContainer = document.getElementById('optionsContainer');
         optionsContainer.innerHTML = '';
