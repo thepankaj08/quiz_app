@@ -5520,5 +5520,929 @@
             "(4)"
         ],
         "correct_option": "2"
+    },
+    {
+        "question_id": 503,
+        "question": "503. He is a university professor (1)/ but\nof his three sons (2)/ neither has any\nmerit. (3)/ No error (4)\n(SSC Combined Graduate Level Tier-I\nExam.16.05.2010 (First Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 504,
+        "question": "504. The poor man (1)/ poisoned him (2)/\nand his own children.(3)/ No error.\n(4)\n(SSC Multi-Tasking (Non-Technical)\nStaff Exam. 20.02.2011)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 505,
+        "question": "505. She is one of the (1)/ best mothers\n(2)/ that has ever lived. (3)/ No error\n(4).\n(SSC Multi-Tasking (Non-Technical)\nStaff Exam. 27.02.2011)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 506,
+        "question": "506. John, I and Hari (1)/ have finished\n(2)/ our studies. (3)/ No error (4).\n(SSC Multi-Tasking (Non-Technical)\nStaff Exam. 27.02.2011)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 507,
+        "question": "507. I am (1)/ your\u00e2\u0080\u0099s (2)/ affectionate\nson.(3)/ No error (4)\n(SSC CISF Constable (GD)\nExam. 05.06.2011)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 508,
+        "question": "508. Both me (1)/ and my sister (2)/ went\nto a boarding school. (3)/ No error\n(4)\n(SSC Stenographer Grade 'C' & 'D'\nExam. 16.10.2011)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 509,
+        "question": "509. It was him (1)/ who came running\n(2)/into the classroom. (3)/ No error.\n(4)\n(SSC (10+2) Level Data Entry\nOperator & LDC Exam. 04.12.2011\n (Ist Sitting (East Zone)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 510,
+        "question": "510. May I know (1)/ to who (2)/ I am\nspeaking ? (3)/ No error. (4)\n(SSC (10+2) Level Data Entry\nOperator & LDC Exam. 04.12.2011\n (Ist Sitting (East Zone)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 511,
+        "question": "511. If your coming home tomorrow (1)/\nlet me know at what time (2)/ I can\nexpect you. (3)/ No error (4)\n(SSC Multi-Tasking Staff\nExam. 10.03.2013)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 512,
+        "question": "512. He is (1)/ fatter (2)/ than me. (3)/ No\nerror (4)\n(SSC Multi-Tasking Staff\nExam. 10.03.2013)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 513,
+        "question": "513. I and him (1)/ are (2)/ very good\nfriends. (3)/No error (4).\n(SSC Multi-Tasking Staff\nExam. 17.03.2013, Ist Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 514,
+        "question": "514. I and he (1)/ have prepared (2)/ the\nlesson thoroughly. (3)/ No error. (4)\n(SSC Multi-Tasking Staff\nExam. 17.03.2013, Kolkata Region)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 515,
+        "question": "515. The boy who studies hard (1)/ he will\npass (2)/ with flying colours. (3)/ No\nerror (4)/\n(SSC Multi-Tasking Staff\nExam. 24.03.2013, Ist Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 516,
+        "question": "516. My uncle forced (1)/ my friend and I\n(2) to stay back. (3)/ No error (4)\n(SSC FCI Assistant Grade-III Main\nExam. 07.04.2013)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 517,
+        "question": "517. Both science and religion (1)/ are\nnecessary for man and for their (2)/\nouter and inner self respectively. (3)/\nNo error (4)\n(SSC Graduate Level Tier-I\nExam. 21.04.2013)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 518,
+        "question": "518. I and Tina will (1)/ go to the market\n(2)/ in the evening. (3)/ No error.(4)\n(SSC (10+2) Level Data Entry Operator &\nLDC Exam. 27.10.2013, IInd Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 519,
+        "question": "519. Rustam and (1)/ myself saw (2)/ the\npicture. (3)/ No error.(4)\n(SSC Multi-Tasking (Non-Tech.)\nStaff Exam. 16.02.2014)\nPRONOUN",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 520,
+        "question": "520. There is no agreement (1)/ between\nyou and I (2)/ so we are free to go\nour way. (3)/ No error (4)\n(SSC Multi-Tasking (Non-Tech.) Staff\nExam. 23.02.2014, IInd Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 521,
+        "question": "521. The ant who was nearby (1)/ walked\nforward and bit the hunter (2)/\nsharply in the ankle. (3)/ No error\n(4)\n(SSC CGL Tier-I Re-Exam.\n(2013) 20.07.2014, IInd Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 522,
+        "question": "522. Such rules (1)/ do not apply to (2)/\nyou and I. (3)/ No error (4).\n(SSC GL Tier-I Exam.\n19.10.2014, Ist Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 523,
+        "question": "523. One of the boys (1)/ who always give\nthe correct answer (2)/ is Samuel.\n(3)/ No error. (4)\n(SSC GL Tier-II Exam. 21.09.2014)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 524,
+        "question": "524. One should respect (1)/ the religions\nof others (2)/ as much as his own.\n(3)/ No error. (4)\n(SSC GL Tier-II Exam. 21.09.2014)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 525,
+        "question": "525. It is I (1)/ who is responsible (2)/ for\nthe delay. (3)/ No error (4)\n(SSC CGL Tier-I Exam.\n19.10.2014 TF No. 022 MH 3)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 526,
+        "question": "526. The children which are assembled\n(1)/ in the hall are the ones (2)/\nchosen for the field trip.(3)/ No error\n(4)\n(SSC CGL Tier-II Exam.12.04.2015\nKolkata Region, TF No. 315 RI 3)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 527,
+        "question": "527. Who do you think I met ?\n(1) Who (2) No error\n(3) do you think (4) I met ?\n(SSC CGL Tier-I Exam, 16.08.2015\n(Ist Sitting) TF No. 3196279)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 528,
+        "question": "528. This is the girl whose brother is a\ndoctor.\n(1) is a doctor\n(2) This is the girl\n(3) No error\n(4) whose brother to\n(SSC CAPFs SI, CISF ASI & Delhi Police\nSI Exam, 30.08.2015 TF No. 4039770)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 529,
+        "question": "529. They brought to themself this\ndisaster.\n(1) No error\n(2) to themself\n(3) this disaster\n(4) They brought\n(SSC CAPFs SI, CISF ASI & Delhi Police\nSI Exam, 30.08.2015 TF No. 4039770)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 530,
+        "question": "530. The article suggests that when a\nperson is under unusual stress you\nshould be especially careful to eat a\nwell-balanced diet.\n(1) The article suggests that when a\nperson is under unusual stress\n(2) you should be especially careful\n(3) to eat a well-balanced diet.\n(4) No error\n(SSC CGL Tier-II Exam,\n25.10.2015, TF No. 2148789)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 531,
+        "question": "531. One must (1)/ obey one\u00e2\u0080\u0099s (2)/\nteachers. (3)/ No error (4)\n(SSC CHSL (10+2) LDC, DEO & PA/SA Exam,\n15.11.2015 (IInd Sitting) TF No. 7203752)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 532,
+        "question": "532. When one takes great risks they must\nbe prepared for great losses.\n(1) they must be prepared\n(2) When one takes great risks\n(3) for great losses.\n(4) No error\n(SSC CHSL (10+2) LDC, DEO & PA/SA Exam,\n06.12.2015 (IInd Sitting) TF No. 3441135)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 533,
+        "question": "533. One should have their teeth checked\nevery six months.\n(1) their teeth checked\n(2) every six months.\n(3) No error\n(4) One should have\n(SSC CHSL (10+2) LDC, DEO & PA/SA Exam,\n20.12.2015 (Ist Sitting) TF No. 9692918)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 534,
+        "question": "534. Each boy was given (1)/ a toy as a\nparting gift, (2)/ which made them\nhappy. (3)/ No error (4)\nSSC CHSL-2016\n8th Jan, Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 535,
+        "question": "535. This is the sportsperson (1)/ whom I\nthink has won (2)/ the much coveted\nprize. (3)/ No error (4)\nSSC CHSL-2016\n11th Jan, Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 536,
+        "question": "536. My twin (1)/ is five minutes younger\n(2)/ than myself. (3)/ No error (4)\nSSC CHSL-2016\n11th Jan, Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 537,
+        "question": "537. Was it him, that the teacher (1)/\npunished for not submitting (2)/ his\nproject on time (3)/ No error\nSSC CHSL-2016\n15th Jan, Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 538,
+        "question": "538. One should respect (1)/ religious\nbeliefs of others, (2)/ as much as his\nowns. (3)/ No error (4)\nSSC CHSL-2016\n16th Jan, Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 539,
+        "question": "539. As it was his first date, (1)/ he\ndressed (2)/ himself in best suit. (3)/\nNo error (4)\nSSC CHSL-2016\n16th Jan, Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 540,
+        "question": "540. The audience are (1)/ humbly\nrequested to be (2)/ seated in their\nseats. (3)/ No error (4)\nSSC CHSL-2016\n16th Jan, Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 541,
+        "question": "541. Vicky is the one who (1)/ always finds\nfaults with (2)/ whatever Priya does.\n(3)/ No error (4)\nSSC CHSL-2016\n20th Jan, Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 542,
+        "question": "542. Sairat is one of the latest (1)/ in the\nlist of contemporary Marathi movies\n(2)/ which appeared in recent times.\n(3)/ No error (4)\nSSC CHSL-2016\n22nd Jan, Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 543,
+        "question": "543. When you have (1)/ gone through my\nnotes, (2)/ give the same to me. (3)/\nNo error (4)\nSSC CHSL-2016\n24th Jan, Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 544,
+        "question": "544. One who perpetually hesitates (1)/\nwhich of the two things he will do\nfirst (2)/ will ultimately do neither.\n(3) No error (4)\nSSC CHSL-2016\n25th Jan, Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 545,
+        "question": "545. Reeta is a spiritually centred person\n(1)/ who loves every being (2)/ she\ncomes in contact with. (3)/ No error\n(4)\nSSC CHSL-2016\n27th Jan, Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 546,
+        "question": "546. Tom Sawyer is one (1)/ of the best\nkid stories (2)/ that was ever written.\n(3)/ No error (4)\nSSC CHSL-2016\n(1st February, Evening)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 547,
+        "question": "547. He told me the same (1)/ story which\nhe told (2)/ you yesterday. (3)/ No\nerror (4)\nSSC CHSL-2016\n(2nd February, Morning)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 548,
+        "question": "548. Me and my wife (1)/ were at home\n(2)/ last night. (3)/ No Error (4)\nSSC CGL-2016\n(27th August, Evening)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 549,
+        "question": "549. Science and technology and (1)/ their\nfallouts do not (2)/ complete human\nculture (3)/ No error (4)\nSSC CGL-2016\n(29th August, Evening)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 550,
+        "question": "550. There was a (1)/ comparison between\n(2)/ you and he (3)/ no error (4)\nSSC CGL-2016\n(31st August, Morning)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 551,
+        "question": "551. I enjoyed during (1)/ my tenure (2)/\nat Shimla (3)/ No error (4)\nSSC CGL-2016\n(31st August, Afternoon)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 552,
+        "question": "552. Do you know (1)/ whom the (2)/ next\nspeaker is? (3)/ No Error (4)\nSSC CGL-2016\n(2nd September, Afternoon)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 553,
+        "question": "553. You are the man (1)/ who have (2)/\nspoiled it (3)/ No error (4)\nSSC CGL-2016\n(3rd September, Evening)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 554,
+        "question": "554. I and my wife (1)/ were declared (2)/\nthe best couple at the party (3)/ No\nerror (4) .\nSSC CGL-2016\n(4th September, Afternoon)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 555,
+        "question": "555. I remember him as (1)/ someone who\nwas a lot nicer (2)/ than circumstances\nwarranted. (3)/ No Error (4)\nSSC CGL-2016\n(8th September, Morning)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 556,
+        "question": "556. One (1)/ should keep (2)/ his word.\n(3)/ No Error (4)\nSSC CGL-2016\n(9th September, Afternoon)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 557,
+        "question": "557. The boy (1)/ which money (2)/ was\nlost felt sorry (3)/ No Error (4)\nSSC CGL-2016\n(9th September, Evening)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 558,
+        "question": "558. Roger dressed (1)/ in is best shirt,\n(2)/ silver tie and black jacket (3)/\nNo Error (4)\nSSC CGL-2016\n(11th September, Morning)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 559,
+        "question": "559. Me and my friend have started\nworking on a summer project which\nwas approved by our teacher.\n(1) Me and my friend\n(2) have started working on a\nsummer project\n(3) which was approved\n(4) No error\nSSC (CPO) PRE- 2016",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 560,
+        "question": "560. The teachers, who I worked with,\nwere very insensitive towards\nchildren's needs.\n(1) The teachers, who I worked with\n(2) were very insensitive\n(3) towards children's needs\n(4) No error\nSSC (CPO) PRE- 2016",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 561,
+        "question": "561. We take security very seriously and\n(1)/ we want to keep you in the loop\non (2)/ important actions in our\naccount. (3)/ No Error (4)\nSSC (Steno.) 2017, 11 Sept., Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 562,
+        "question": "562. Last week I made a list of 10 classics\n(1)/ those make for great reads and\na (2)/ few of my son's favourites. (3)/\nNo Error(4)\nSSC (Steno.) 2017, 12 Sept., Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 563,
+        "question": "563. Our professor taught us that (1)/ one\nshould respect the (2)/ religions of\nothers as much as his own. (3)/ No\nError (4)\nSSC (CPO) PRE- 2017\n1 July, 2018 Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 564,
+        "question": "564. During India's struggle for (1)/\nfreedom many brilliant students (2)/\ngave up their studies by Bhagat\nSingh's call. (3)/ No Error (4)\nSSC (CPO) PRE- 2017\n1 July, 2018 Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 565,
+        "question": "565. Madhuri and I have done my (1)/\nwork patiently and diligently (2)/ just\nfor our safe and secure future. (3)/\nNo Error (4)\nSSC (CPO) PRE- 2017\n1 July, 2018 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 566,
+        "question": "566. This container is full with water (1)/\nso I can't carry it for a (2)/ long\ndistance at one go. (3)/ No Error (4)\nSSC (CPO) PRE- 2017\n2 July, 2018 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 567,
+        "question": "567. Mr. Mukesh Bhatnagar our (1)/\ncolleague he will attend (2)/ the\nmeeting on our behalf. (3)/ No Error\n(4)\nSSC (CPO) PRE- 2017\n4 July, 2018 Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 568,
+        "question": "568. The CEO has decided to visit all the\n(1)/ departments of the office\ntomorrow (2)/ evening to review of the\nsituation. (3)/ No Error (4)\nSSC (CPO) PRE- 2017\n4 July, 2018 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 569,
+        "question": "569. Neha is a very good fashion (1)/\ndesigner but her designs are not (2)/\neasily accessible with the public. (3)/\nNo Error (4)\nSSC (CPO) PRE- 2017\n4 July, 2018 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 570,
+        "question": "570. Dr. APJ Abdul Kalam's life was a (1)/\nsage of dedication in the (2)/ cause\nof educational reforms in India. (3)/\nNo Error (4)\nSSC (CPO) PRE- 2017\n4 July, 2018 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 571,
+        "question": "571. When the professors are on strike (1)/\nand a notice of this effect is pasted\non the university gate (2)/ there is\nno sense to go there. (3)/ No Error\n(4)\nSSC (CPO) PRE- 2017\n4 July, 2018 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 572,
+        "question": "572. I insisted but neither Praveen or his\n(1)/ friend Bharat is ready (2)/ to\nwork on holiday. (3)/ No Error (4)\nSSC (CPO) PRE- 2017\n5 July, 2018 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 573,
+        "question": "573. Ayesha is among the few people (1)/\nin the office which did not (2)/ blindly\nfollow the path of other. (3)/ No Error\n(4)\nSSC (CPO) PRE- 2017\n6 July, 2018 Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 574,
+        "question": "574. The scientists found that (1)/\nleopards tend to hoist prey (2)/ that\nare between half and one-and-a-half\ntimes it's own weight. (3)/ No error\n(4)\nSSC (CPO) MAINS- 2017",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 575,
+        "question": "575. Can you tell me (1)/ the name of the\nperson (2)/ whom wrote the book?\n(3)/ No error (4)\nSSC (CPO) MAINS- 2017",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 576,
+        "question": "576. My sister and myself are pleased to\naccept your invitation to dinner.\n(1) My sister and myself\n(2) are pleased\n(3) to accept\n(4) your invitation to dinner\nSTENOGRAPHER - 2018\n5 Feb., 2019 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 577,
+        "question": "577. It was him who was responsible for\nthis mishap that took place\nyesterday.\n(1) for this mishap\n(2) It was him\n(3) that look place\n(4) who was responsible\nSTENOGRAPHER- 2018\n6 Feb., 2019 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 578,
+        "question": "578. The woman which lives next door is\na teacher.\n(1) which lives (2) The woman\n(3) next door (4) is a teacher\nSTENOGRAPHER- 2018\n7 Feb., 2019 Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 579,
+        "question": "579. The subway system has become very\nsafe and it has come a long way since\nthe 1980s and 1990s where violence\nwas rampant.\n(1) has become very safe\n(2) a long way\n(3) where violence\n(4) it has come\nSSC (CPO) PRE- 2018\n15 March, 2019 Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 580,
+        "question": "580. Last year the UK saw it's first child\ndiagnosed with internet addiction.\n(1) Last year\n(2) the UK saw\n(3) it's first child\n(4) diagnosed with\nSSC (CPO) PRE- 2018\n16 March, 2019 Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 581,
+        "question": "581. One should be careful to re-read what\nthey has written.\n(1) to re-read what\n(2) be careful\n(3) One should\n(4) they has written\nSSC (CPO) MAINS- 2018\n27 September, 2019",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 582,
+        "question": "582. I know the cobbler(1)/which mends\nthe shoes outside(2)/the gate of our\ncolony(3)/No error(4)\nSSC PRE - 2018\n6th June, 2019 Afternoon",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 583,
+        "question": "583. The team began searching for\nreasons for their poor performance\nin the tournament\n(1) The team began\n(2) in the tournament\n(3) searching for reasons\n(4) for their poor performances\nCHSL-2018\n11 July, 2019, Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 584,
+        "question": "584. Pleasure cannot derive from giving\npain to innocent people.\n(1) Pleasure cannot derive\n(2) pain to\n(3) innocent people\n(4) from giving\nCHSL-2018\n8 July, 2019, Morning",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 585,
+        "question": "585. Climatic change are a greatest threat\nfacing our planet which needs our\nimmediate attention.\n(1) our immediate attention\n(2) are a greatest\n(3) which needs\n(4) facing our planet\nCHSL-2018\n8 July, 2019, Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 586,
+        "question": "586. The young girl was helping her father\nto look after shop.\n(1) her father\n(2) The young girl\n(3) was helping\n(4) to look after shop\nCHSL-2018, 9 July, 2019, Afternoo",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
     }
 ]
