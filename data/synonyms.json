@@ -6730,5 +6730,137 @@
             "4. Thoughtful"
         ],
         "correct_option": "4"
+    },
+    {
+        "question_id": 613,
+        "question": "613. FASTEN (3 February, 2022 Tier–2)",
+        "options": [
+            "1. Detach",
+            "2. Release",
+            "3. Affix",
+            "4. Loosen"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 614,
+        "question": "614. SENTIMENT (3 February, 2022 Tier–2)",
+        "options": [
+            "1. Antipathy",
+            "2. Concrete",
+            "3. Hatred",
+            "4. Feeling"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 615,
+        "question": "615. INEVITABLY (3 February, 2022 Tier–2)",
+        "options": [
+            "1. Avoidably",
+            "2. Certainly",
+            "3. Distantly",
+            "4. Unlikely"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 616,
+        "question": "616. INCUMBENT (8 August, 2022 Tier–2)",
+        "options": [
+            "1. Prophet",
+            "2. Adventurer",
+            "3. Contestant",
+            "4. Occupant"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 617,
+        "question": "617. Fictitious (8 August, 2022 Tier–2)",
+        "options": [
+            "1. Imaginary",
+            "2. Genuine",
+            "3. Factual",
+            "4. Confirmed"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 618,
+        "question": "618. Abandon (8 August, 2022 Tier–2)",
+        "options": [
+            "1. Start",
+            "2. Leave",
+            "3. Adopt",
+            "4. Allow"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 619,
+        "question": "619. EXTORTIONATE (8 August, 2022 Tier–2)",
+        "options": [
+            "1. Exorbitant",
+            "2. Exotic",
+            "3. Exorcist",
+            "4. Exonerate"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 620,
+        "question": "620. Replace the underlined word with its synonym to make the sentence more meaningful. Narcotic drug addiction is in (vogue) these days, as it is the most popular form of substance abuse. (2 March, 2023 Tier–2)",
+        "options": [
+            "1. Demand",
+            "2. Obscurity",
+            "3. Fashion",
+            "4. Standard"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 621,
+        "question": "621. The doctor has _____ (advised) medicine for the treatment of the disease. (3 March, 2023 Tier–2)",
+        "options": [
+            "1. Presented",
+            "2. Proscribed",
+            "3. Prevented",
+            "4. Prescribed"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 622,
+        "question": "622. Bullying is a rather (unacknowledged) social evil. (6 March, 2023 Tier–2)",
+        "options": [
+            "1. Named",
+            "2. Unidentified",
+            "3. Notable",
+            "4. Infamous"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": 623,
+        "question": "623. Even though James won the election, he has not brought any of his campaign promises to (fruition). (7 March, 2023 Tier–2)",
+        "options": [
+            "1. Accomplishment",
+            "2. Concealment",
+            "3. Disappointment",
+            "4. Nourishment"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": 624,
+        "question": "624. The authority refused to pay any heed to the _________ demands made by the workers. (Trivial) (26 October, 2023 Tier–2)",
+        "options": [
+            "1. Conceited",
+            "2. Idiotic",
+            "3. Insignificant",
+            "4. Majestic"
+        ],
+        "correct_option": "3"
     }
 ]
