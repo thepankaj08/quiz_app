@@ -7060,5 +7060,16 @@
             "4. Costly"
         ],
         "correct_option": "1"
+    },
+    {
+        "question_id": 643,
+        "question": "643. Infallible (11 August, 2021)",
+        "options": [
+            "1. Faulty",
+            "2. Unfailing",
+            "3. Dependable ",
+            "4. Reliable"
+        ],
+        "correct_option": "1"
     }
 ]
