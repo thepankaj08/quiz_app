@@ -12890,5 +12890,159 @@
             "(4)"
         ],
         "correct_option": "2"
+    },
+    {
+        "question_id": 1173,
+        "question": "1173. She pretends as if she has (1)/ never\nin her life, (2)/told a lie. Isn\u2019t it ? (3)/\nNo error.(4)\n(SSC Statistical Investigators Grade-IV\nExam. 13.08.2006)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1174,
+        "question": "1174. The earth moves (1)/ round the Sun.\n(2)/ Isn\u2019t it ? (3)/. No error. (4)\n(SSC Section Officer (Audit)\nExam. 10.12.2006)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1175,
+        "question": "1175. He is not the fastest bowler (1)/ in\nthe Indian team, (2)/ isn\u2019t he ? (3)/\nNo error (4).\n(SSC Tax Assistant (Income Tax &\nCentral Excise) Exam. 25.11.2007)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1176,
+        "question": "1176. Everybody in the office (1)/ has left\nearly, (2)/ haven\u2019t they ? (3)/ No\nerror. (4)\n(SSC Data Entry Operator\nExam. 02.08.2009)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 1177,
+        "question": "1177. You will come (1)/ to my sister\u2019s\nwedding tomorrow, (2)/ isn\u2019t it? (3)/\nNo error (4)\n(SSC CISF Constable (GD)\nExam. 05.06.2011)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1178,
+        "question": "1178. I don\u2019t suppose (1)/ anyone will\nvolunteer, (2)/ will they ? (3)/ No\nerror (4)\n(SSC Graduate Level Tier-II\nExam. 16.09.2012)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 1179,
+        "question": "1179. He is (1)/ your brother (2)/ isn\u2019t it ?\n(3)/ No error (4)\n(SSC Delhi Police Sub-Inspector\n(SI) Exam. 19.08.2012)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1180,
+        "question": "1180. You haven\u2019t responded (1)/ to my\ninvitation (2)/ didn\u2019t you ? (3)/No\nError (4)\n(SSC Multi-Tasking Staff\nExam. 17.03.2013, IInd Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1181,
+        "question": "1181. You will come (1)/ to my party\ntomorrow (2)/ isn\u2019t it. (3)/ No error.\n(4)\n(SSC Multi-Tasking (Non-Tech.)\nStaff Exam. 16.02.2014)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1182,
+        "question": "1182. We should make green vegetables (1)/\nan essential part of our daily diet,(2)/\nshouldn't we ? (3)/ No error (4)\n(SSC Multi-Tasking (Non-Tech.) Staff\nExam. 23.02.2014, IInd Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": 1183,
+        "question": "1183. She has not completed (1)/ her\ncourse, (2)/ Isn\u2019t it ? (3)/ No error\n(4).\n(SSC CHSL (10+2) DEO & LDC\nExam. 02.11.2014, IInd Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1184,
+        "question": "1184. The collector (1)/ visits the office\nregularly (2)/ Isn\u2019t it ? (3)/ No error\n(4).\n(SSC CHSL (10+2) DEO & LDC\nExam. 02.11.2014, IInd Sitting)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1185,
+        "question": "1185. You have prepared well (1) / for the\nexamination (2) / isn't it ? (3) / No\nerror (4)\nSSC CGL-2016\n(30th August, Morning)",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": 1186,
+        "question": "1186. You could find our house easily,\ndidn't you?\n(1) didn't you\n(2) easily\n(3) our house\n(4) You could find\nSTENOGRAPHER- 2018\n7 Feb., 2019 Evening",
+        "options": [
+            "(1)",
+            "(2)",
+            "(3)",
+            "(4)"
+        ],
+        "correct_option": "1"
     }
 ]
