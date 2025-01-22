@@ -216,6 +216,8 @@
             <option value="data/Synonyms_CPO.json">Synonyms_CPO</option>
             <option value="data/Antonyms_CPO.json">Antonyms_CPO</option>
             <option value="data/Common_Error_KDLive.json">Common_Error_KDLive</option>
+            <option value="data/synonyms_careericon.json">Synonyms_CPO</option>
+            <option value="data/antonyms_careericon.json">Antonyms_CPO</option>
         </select></div>
         <div><button class="load" onclick="loadQuiz()">Load Quiz</button></div>
     </div>
@@ -420,6 +422,13 @@
       }
           else if (topic === "data/Common_Error_KDLive.json"){
         document.getElementById('quiz_topic').textContent = "Common_Error_KDLive";
+      }
+              
+          else if (topic === "data/synonyms_careericon.json"){
+        document.getElementById('quiz_topic').textContent = "Synonyms_careerIcon";
+      }
+            else if (topic === "data/antonyms_careericon.json"){
+        document.getElementById('quiz_topic').textContent = "Antonyms_careerIcon";
       }
       else{
         document.getElementById('quiz_topic').textContent = "No_Title";
