@@ -1,0 +1,8802 @@
+[
+    {
+        "question_id": 1,
+        "question": "REQUEST",
+        "options": [
+            "ask",
+            "please",
+            "suggest",
+            "offer"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 2,
+        "question": "&nbsp;WILY",
+        "options": [
+            "wise",
+            "stupid",
+            "cunning",
+            "angry"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 3,
+        "question": "ABROGATE",
+        "options": [
+            "elope",
+            "gate-crash",
+            "abolish",
+            "destroy"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 4,
+        "question": "HURDLE",
+        "options": [
+            "throw",
+            "opposition",
+            "obstacle",
+            "suspicion"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 5,
+        "question": " MOTIVE",
+        "options": [
+            "reason",
+            "occasion",
+            "intention",
+            "preparation"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 6,
+        "question": "Pious",
+        "options": [
+            "Afraid",
+            "Faithful",
+            "Religious",
+            "Sympathetic"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 7,
+        "question": "Thrive",
+        "options": [
+            "Remark",
+            "Apprentice",
+            "Flourish",
+            "Scoundrel"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 8,
+        "question": "Scanty",
+        "options": [
+            "Meagre",
+            "Brief",
+            "Acquire",
+            "Nostalgic"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 9,
+        "question": "FACET",
+        "options": [
+            "aspect",
+            "sweet",
+            "deceit",
+            "tap"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 10,
+        "question": "Vacillate",
+        "options": [
+            "Quiver",
+            "Queer",
+            "Waver",
+            "Never"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 11,
+        "question": "Amazement",
+        "options": [
+            "Surprise",
+            "Suspicion",
+            "Shock",
+            "Wander"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 12,
+        "question": "PERNICIOUS",
+        "options": [
+            "negative",
+            "radical",
+            "scientific",
+            "baneful"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 13,
+        "question": "Nebulous",
+        "options": [
+            "Starting",
+            "Idiotic",
+            "Revolutionary",
+            "Vague"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 14,
+        "question": "Fecund",
+        "options": [
+            "Prolific",
+            "Resentful",
+            "Rational",
+            "Ordeal"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 15,
+        "question": "Jubilant",
+        "options": [
+            "Ecstatic",
+            "Gloomy",
+            "Brilliant",
+            "Proud"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 16,
+        "question": "Precocious",
+        "options": [
+            "Ambiguity",
+            "Distant",
+            "Prosaic",
+            "Premature"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 17,
+        "question": "Elastic",
+        "options": [
+            "Expensive",
+            "Exciting",
+            "Rubbery",
+            "Flexible"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 18,
+        "question": "Implacable",
+        "options": [
+            "Dangerous",
+            "Courageous",
+            "Relentless",
+            "Unappeasable"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 19,
+        "question": "Ricochet",
+        "options": [
+            "Foundling",
+            "Rebound",
+            "Awful",
+            "Aloof"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 20,
+        "question": "EXUDE",
+        "options": [
+            "evaporate",
+            "ooze",
+            "over flow",
+            "wither"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 21,
+        "question": "TEMERITY",
+        "options": [
+            "verity",
+            "audacity",
+            "simplicity",
+            "paucity"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 22,
+        "question": "INTERFERENCE",
+        "options": [
+            "honour",
+            "obstruction",
+            "fearfu",
+            "deference"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 23,
+        "question": "CODDLE",
+        "options": [
+            "huddle",
+            "satisfy",
+            "protect",
+            "cheat"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 24,
+        "question": "BRUTAL",
+        "options": [
+            "humane",
+            "savage",
+            "sympathetic",
+            "compassionate"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 25,
+        "question": "GREET",
+        "options": [
+            "welcome",
+            "hostile",
+            "unsociable",
+            "aloof"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 26,
+        "question": "Ferocious",
+        "options": [
+            "Deport",
+            "Savage",
+            "Touching",
+            "Calamity"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 27,
+        "question": "SOLICIT",
+        "options": [
+            "demand",
+            "beseech",
+            "claim",
+            "require"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 28,
+        "question": "Change",
+        "options": [
+            "Review",
+            "Repeat",
+            "Alter",
+            "Renew"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 29,
+        "question": "ATTENUATE",
+        "options": [
+            "divide",
+            "repent",
+            "force",
+            "make thin"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 30,
+        "question": "Squander",
+        "options": [
+            "Litter",
+            "Economical",
+            "Expensive",
+            "Waste"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 31,
+        "question": "Acquiesce (in)",
+        "options": [
+            "Intrepid",
+            "Assent",
+            "Astound",
+            "Erring"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 32,
+        "question": "SPECTACLE",
+        "options": [
+            "panorama",
+            "pageant",
+            "mystification",
+            "show"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 33,
+        "question": "Fortitude",
+        "options": [
+            "Strength",
+            "Debar",
+            "Partner",
+            "Verge  on"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 34,
+        "question": "Amiable",
+        "options": [
+            "Friendly",
+            "Reasonable",
+            "Popular",
+            "Generous"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 35,
+        "question": "Surmount",
+        "options": [
+            "Overcome",
+            "Capture",
+            "Discount",
+            "Surround"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 36,
+        "question": "Reluctant",
+        "options": [
+            "Redundant",
+            "Amendable",
+            "Unwilling",
+            "Forego"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 37,
+        "question": "Perennial",
+        "options": [
+            "Perpetual",
+            "Barbaric",
+            "Downfall",
+            "Respect"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 38,
+        "question": "DEIFY",
+        "options": [
+            "challenge",
+            "face",
+            "flatter",
+            "worship"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 39,
+        "question": "LOQUACIOUS",
+        "options": [
+            "ambiguous",
+            "Victorian",
+            "verbose",
+            "bombastic"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 40,
+        "question": "Abandon",
+        "options": [
+            "Confidant",
+            "Respect",
+            "Desert",
+            "Industrious"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 41,
+        "question": "CONSORT",
+        "options": [
+            "Protect",
+            "Partner",
+            "Convoy",
+            "Guide"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 42,
+        "question": "INFATUATION",
+        "options": [
+            "emotion",
+            "passion",
+            "imagination",
+            "compassion"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 43,
+        "question": "DISCRIMINATE",
+        "options": [
+            "compare",
+            "distinguish",
+            "comprehend",
+            "connect"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 44,
+        "question": "THRIVE",
+        "options": [
+            "destroy",
+            "flourish",
+            "raise",
+            "create"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 45,
+        "question": " IMPETUOUS",
+        "options": [
+            "Impious",
+            "Impressive",
+            "Hasty",
+            "Disturbing"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 46,
+        "question": "Pious",
+        "options": [
+            "Herald",
+            "Religious",
+            "Defame",
+            "Reflect"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 47,
+        "question": "Indigent",
+        "options": [
+            "Guilty",
+            "Untried",
+            "Indian men",
+            "Poor"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 48,
+        "question": "VENDETTA",
+        "options": [
+            "threat",
+            "feud",
+            "mortal",
+            "friendship"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 49,
+        "question": "Destitute",
+        "options": [
+            "Errant",
+            "Proportionate",
+            "Needy",
+            "Confidant"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 50,
+        "question": "KULAK",
+        "options": [
+            "farmer",
+            "fortress",
+            "insane",
+            "priest"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 51,
+        "question": "Grumble",
+        "options": [
+            "To sheer",
+            "To fight",
+            "To scold",
+            "To complain"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 52,
+        "question": "TEDIOUS",
+        "options": [
+            "tiresome",
+            "painful",
+            "lengthy",
+            "troublesome"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 53,
+        "question": "Garish",
+        "options": [
+            "Confused",
+            "Gaudy",
+            "Unusual",
+            "Exciting"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 54,
+        "question": "Irresolute",
+        "options": [
+            "Ignorant",
+            "Firm",
+            "Undecided",
+            "Angry"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 55,
+        "question": "Transpired",
+        "options": [
+            "Happened",
+            "Conspired",
+            "Was communicated",
+            "Was discussed"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 56,
+        "question": "Insidious",
+        "options": [
+            "Apathetic",
+            "Impudent",
+            "Cunning",
+            "Own"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 57,
+        "question": "Notable",
+        "options": [
+            "Memorable",
+            "Comely",
+            "Renowned",
+            "Inspect"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 58,
+        "question": "Eternal",
+        "options": [
+            "Prolonged",
+            "Perpetual",
+            "Innumerable",
+            "Immeasurable"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 59,
+        "question": "PARADIGM",
+        "options": [
+            "invention",
+            "solution",
+            "discovery",
+            "model"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 60,
+        "question": "Duplicity",
+        "options": [
+            "Deception",
+            "Cleverness",
+            "Repetition",
+            "Artlessness"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 61,
+        "question": "AFFLUENT",
+        "options": [
+            "blossom",
+            "flourish",
+            "prosperous",
+            "thrive"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 62,
+        "question": "MISTAKE",
+        "options": [
+            "precise",
+            "error",
+            "accurate",
+            "mistook"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 63,
+        "question": "ALTRUISTIC",
+        "options": [
+            "hostile",
+            "outdated",
+            "selfish",
+            "philanthropic"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 64,
+        "question": "STRINGENT",
+        "options": [
+            "evident",
+            "farfetched",
+            "strict",
+            "compulsory"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 65,
+        "question": "TRANSIENT",
+        "options": [
+            "fleeting",
+            "transparent",
+            "feeble",
+            "fanciful"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 66,
+        "question": "Lurid",
+        "options": [
+            "Bright",
+            "Shocking",
+            "Happy",
+            "Abundant"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 67,
+        "question": "HIATUS",
+        "options": [
+            "narrow",
+            "gap",
+            "tight",
+            "contempt"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 68,
+        "question": "PILFER",
+        "options": [
+            "snatch",
+            "destroy",
+            "steal",
+            "damage"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 69,
+        "question": "Possess",
+        "options": [
+            "Native",
+            "Ostentatious",
+            "Succor",
+            "Have"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 70,
+        "question": "Apprise",
+        "options": [
+            "Admire",
+            "Require",
+            "Inform",
+            "Estimate"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 71,
+        "question": "Colossal",
+        "options": [
+            "Gigantic",
+            "Improve",
+            "Insignificant",
+            "Scoundrel"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 72,
+        "question": "Opportune",
+        "options": [
+            "Generous",
+            "Timely",
+            "Destiny",
+            "Regret"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 73,
+        "question": "Joy",
+        "options": [
+            "Dictator",
+            "Delight",
+            "Ecstasy",
+            "Foolish"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 74,
+        "question": "Explicit",
+        "options": [
+            "Cautious",
+            "Exorbitant",
+            "Clear",
+            "Obvious"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 75,
+        "question": "Liberal",
+        "options": [
+            "Reaction",
+            "Affinity",
+            "Generous",
+            "Implore"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 76,
+        "question": "Irreproachable",
+        "options": [
+            "Faultless",
+            "Immense",
+            "Remarkable",
+            "Extraordinary"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 77,
+        "question": "OUTRE",
+        "options": [
+            "eccentric",
+            "fair",
+            "real",
+            "traditional"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 78,
+        "question": "OBEISANCE",
+        "options": [
+            "disrespect",
+            "insult",
+            "indifference",
+            "obedience"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 79,
+        "question": "Feasible",
+        "options": [
+            "Accentuate",
+            "Accurate",
+            "Practical",
+            "Rejoice"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 80,
+        "question": "Hostile",
+        "options": [
+            "Delinquent",
+            "Reticent",
+            "Poor",
+            "Antagonistic"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 81,
+        "question": "ADVERSITY",
+        "options": [
+            "opponent",
+            "misfortune",
+            "adversary",
+            "hostility"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 82,
+        "question": "DRIZZLE",
+        "options": [
+            "sprinkle",
+            "trickle",
+            "splash",
+            "downpour"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 83,
+        "question": "ACCUSED",
+        "options": [
+            "indicated",
+            "indicted",
+            "induced",
+            "instigated"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 84,
+        "question": "PERILOUS",
+        "options": [
+            "hazardous",
+            "rigorous",
+            "resilient",
+            "requisite"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 85,
+        "question": "ADVOCATE",
+        "options": [
+            "pronounce",
+            "support",
+            "determine",
+            "predict"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 86,
+        "question": "PERSIST",
+        "options": [
+            "Insist",
+            "Resist",
+            "Quit",
+            "Leave"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 87,
+        "question": "NAUSEATE",
+        "options": [
+            "detest",
+            "tempt",
+            "despise",
+            "sicken"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 88,
+        "question": "RESOLVED",
+        "options": [
+            "hanged",
+            "summarised",
+            "determined",
+            "dispelled"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 89,
+        "question": "Restrict",
+        "options": [
+            "Retain",
+            "Retail",
+            "Curtail",
+            "Prohibit"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 90,
+        "question": "Deny",
+        "options": [
+            "Repair",
+            "Reduce",
+            "Regain",
+            "Refuse"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 91,
+        "question": "Refined",
+        "options": [
+            "Hermetic",
+            "to",
+            "Appreciative",
+            "Elegant"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 92,
+        "question": "Obnoxious",
+        "options": [
+            "Arrogant",
+            "Filthy",
+            "Depressing",
+            "Disgusting"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 93,
+        "question": "Infuriate",
+        "options": [
+            "Threaten",
+            "Enrage",
+            "Burn",
+            "Disgrace"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 94,
+        "question": "GULLIBLE",
+        "options": [
+            "fallible",
+            "credible",
+            "credulous",
+            "believable"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 95,
+        "question": "MISERABLE",
+        "options": [
+            "abstract",
+            "object",
+            "abject",
+            "obstruct"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 96,
+        "question": "Plausible",
+        "options": [
+            "Manageable",
+            "Cannot be proved",
+            "Pleasing taste",
+            "Seemingly true"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 97,
+        "question": "MYSTIQUE",
+        "options": [
+            "popularity",
+            "fame",
+            "admirable quality",
+            "reputation"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 98,
+        "question": "18)</span> &nbsp; Vindictiv",
+        "options": [
+            "Aggressive",
+            "Spiteful",
+            "Accusative",
+            "Imaginative"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 99,
+        "question": "VERBATIM",
+        "options": [
+            "in summary",
+            "word for word",
+            "at will",
+            "in secret"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 100,
+        "question": "CURVATURE",
+        "options": [
+            "streamline",
+            "angularity",
+            "short-cut",
+            "straightness"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 101,
+        "question": " TRANSMISSION",
+        "options": [
+            "administer",
+            "conveyance",
+            "connect",
+            "disconnect"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 102,
+        "question": " QUICKEN",
+        "options": [
+            "accelerate",
+            "delay",
+            "hinder",
+            "stop"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 103,
+        "question": "IMPECCABLE",
+        "options": [
+            "remarkable",
+            "unbelievable",
+            "flawless",
+            "displeasing"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 104,
+        "question": "Fate",
+        "options": [
+            "Lot",
+            "Celebrate",
+            "Praise",
+            "Efface"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 105,
+        "question": "REJUVENATE",
+        "options": [
+            "age",
+            "reply",
+            "renew",
+            "judge"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 106,
+        "question": "Ephemeral",
+        "options": [
+            "Border",
+            "Agree",
+            "Tiny",
+            "Transient"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 107,
+        "question": "REDUNDANT",
+        "options": [
+            "coarse",
+            "rude",
+            "superfluous",
+            "brutish"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 108,
+        "question": "RESTITUTE",
+        "options": [
+            "repair",
+            "help",
+            "revenge",
+            "avenge"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 109,
+        "question": "NEMESIS",
+        "options": [
+            "reward",
+            "punishment",
+            "adventure",
+            "victory"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 110,
+        "question": "ATROPHY",
+        "options": [
+            "spread",
+            "wither",
+            "soften",
+            "grow"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 111,
+        "question": "Elicit",
+        "options": [
+            "Overlook",
+            "Forgiving",
+            "Draw",
+            "Zenith"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 112,
+        "question": "Fascinate",
+        "options": [
+            "Indecent",
+            "Apex",
+            "Follower",
+            "Charm"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 113,
+        "question": "CADGE",
+        "options": [
+            "imprison",
+            "beg",
+            "bicker",
+            "hide"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 114,
+        "question": "Evoked",
+        "options": [
+            "Produced",
+            "Summoned",
+            "Escaped",
+            "Called forth"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 115,
+        "question": "Captious",
+        "options": [
+            "Meekness",
+            "Insolent",
+            "Hypercritical",
+            "Censorious"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 116,
+        "question": "MENDACIOUS",
+        "options": [
+            "untruthful",
+            "irritating",
+            "provocative",
+            "misleading"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 117,
+        "question": "Ubiquitous",
+        "options": [
+            "Omniscient",
+            "Affluent",
+            "Omnipresent",
+            "Omnipotent"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 118,
+        "question": "Authentic",
+        "options": [
+            "Adjustable",
+            "None of the above",
+            "Admirable",
+            "Genuine"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 119,
+        "question": "Humane",
+        "options": [
+            "Prejudiced",
+            "Kind",
+            "Proportionate",
+            "Restrained"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 120,
+        "question": "Fallacy",
+        "options": [
+            "Sufficient",
+            "Border",
+            "Dishonourable",
+            "Imperfection"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 121,
+        "question": "Radical",
+        "options": [
+            "Odd",
+            "Fundamental",
+            "Docile",
+            "Impending"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 122,
+        "question": "Impost",
+        "options": [
+            "Tax",
+            "Postage",
+            "Fertilizer",
+            "Dispatch"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 123,
+        "question": "VORACIOUS",
+        "options": [
+            "wild",
+            "quick",
+            "hungry",
+            "angry"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 124,
+        "question": "Rout",
+        "options": [
+            "Loss",
+            "Crash",
+            "Death",
+            "Defeat"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 125,
+        "question": "Exhort",
+        "options": [
+            "Urge",
+            "Push",
+            "Recommend",
+            "Coax"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 126,
+        "question": "Defer",
+        "options": [
+            "Differ",
+            "Postpone",
+            "Indifferent",
+            "Deft"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 127,
+        "question": "Poach",
+        "options": [
+            "Preach",
+            "Plunder",
+            "Catch",
+            "Hunt"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 128,
+        "question": "Solitary",
+        "options": [
+            "Babble",
+            "Single",
+            "Exemption",
+            "Extinct"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 129,
+        "question": "Baleful",
+        "options": [
+            "Useful",
+            "Helpful",
+            "Harmful",
+            "Doubtful"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 130,
+        "question": "Pragmatic",
+        "options": [
+            "Causal",
+            "Clever",
+            "Practical",
+            "Playful"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 131,
+        "question": "Dangerous",
+        "options": [
+            "Advanced",
+            "Sorrow",
+            "Perilous",
+            "Rage"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 132,
+        "question": "Atrocity",
+        "options": [
+            "Jealousy",
+            "Absurdity",
+            "Envy",
+            "Violence"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 133,
+        "question": "Advance",
+        "options": [
+            "Progress",
+            "Extend",
+            "Reduce",
+            "Halt"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 134,
+        "question": "Didactic",
+        "options": [
+            "Teaching",
+            "Demolish",
+            "Impudent",
+            "Chicane"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 135,
+        "question": "CATALOGUE",
+        "options": [
+            "pamphlet",
+            "menu",
+            "list",
+            "record"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 136,
+        "question": "Acute",
+        "options": [
+            "Unpleasant",
+            "Sharp",
+            "Dull",
+            "Drowsy"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 137,
+        "question": "Unceremonious",
+        "options": [
+            "Incomplete",
+            "Irregular",
+            "Impolite",
+            "Informal"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 138,
+        "question": "STALEMATE",
+        "options": [
+            "dead-drunk",
+            "deadly",
+            "deadlock",
+            "dead-end"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 139,
+        "question": "Guile",
+        "options": [
+            "Sufficient",
+            "Difficult",
+            "Fraud",
+            "Singular"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 140,
+        "question": "OBJECT",
+        "options": [
+            "disapprove",
+            "disobey",
+            "deny",
+            "challenge"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 141,
+        "question": "Repose",
+        "options": [
+            "Rest",
+            "Replace",
+            "Place",
+            "Keep"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 142,
+        "question": "2)</span> &nbsp; Loquaciou",
+        "options": [
+            "Slow",
+            "Talkative",
+            "Unclear",
+            "Content"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 143,
+        "question": "FUTILITY",
+        "options": [
+            "uselessness",
+            "insignificance",
+            "irrelevance",
+            "unimportance"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 144,
+        "question": "4)</span> &nbsp; Barre",
+        "options": [
+            "Good",
+            "Profitable",
+            "Wholesome",
+            "Unproductive"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 145,
+        "question": "FICTIONAL",
+        "options": [
+            "real",
+            "genuine",
+            "fanciful",
+            "authentic"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 146,
+        "question": "Docile",
+        "options": [
+            "Strong",
+            "Changeable",
+            "Submissive",
+            "Stubborn"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 147,
+        "question": "ECSTATIC",
+        "options": [
+            "fitful",
+            "animated",
+            "bewildered",
+            "enraptured"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 148,
+        "question": "Apprehend",
+        "options": [
+            "Spruce",
+            "Vanity",
+            "Huge",
+            "Seize"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 149,
+        "question": "ELICIT",
+        "options": [
+            "instil",
+            "induce",
+            "divulge",
+            "extract"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 150,
+        "question": "Substantiate",
+        "options": [
+            "Tattle",
+            "Useless",
+            "Authenticate",
+            "Brazen"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 151,
+        "question": "Coax",
+        "options": [
+            "Persuade",
+            "Please",
+            "Pacify",
+            "Punish"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 152,
+        "question": "DUBIOUS",
+        "options": [
+            "doubtful",
+            "straight",
+            "zig zag",
+            "sincere"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 153,
+        "question": "DECANT",
+        "options": [
+            "bequeath",
+            "bisect",
+            "speak widly",
+            "pour off"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 154,
+        "question": "Remote",
+        "options": [
+            "Elevated",
+            "Refined",
+            "Far",
+            "Permanent"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 155,
+        "question": "Aphorism",
+        "options": [
+            "Petulant",
+            "Mountebank",
+            "Maxim",
+            "Interdict"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 156,
+        "question": "Hindered",
+        "options": [
+            "Obstructed",
+            "Protested",
+            "Damaged",
+            "Disturbed"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 157,
+        "question": "SYMBIOSIS",
+        "options": [
+            "similarity",
+            "transformation",
+            "cure- all",
+            "close association"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 158,
+        "question": "Corroborate",
+        "options": [
+            "Co-operate",
+            "Correlate",
+            "Collaborate",
+            "Substantiate"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 159,
+        "question": "FORESEE",
+        "options": [
+            "hypothesis",
+            "contemplate",
+            "assume",
+            "visualise"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 160,
+        "question": "Antithesis",
+        "options": [
+            "Mountebank",
+            "Anxiety",
+            "Forsake",
+            "Contrasting"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 161,
+        "question": "PROMISCUOUS",
+        "options": [
+            "pure",
+            "casual",
+            "discriminate",
+            "selective"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 162,
+        "question": "Absurd",
+        "options": [
+            "Kind",
+            "Possible",
+            "Follower",
+            "Ridiculous"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 163,
+        "question": "VOCIFEROUS",
+        "options": [
+            "true",
+            "violent",
+            "secret",
+            "loud"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 164,
+        "question": "MAMMOTH",
+        "options": [
+            "huge",
+            "greedy",
+            "straight",
+            "wild"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 165,
+        "question": "Sane",
+        "options": [
+            "Long",
+            "Apologise",
+            "Wise",
+            "Drained"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 166,
+        "question": "ALLURE",
+        "options": [
+            "Elicit",
+            "Extol",
+            "Entice",
+            "Excite"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 167,
+        "question": "Spry",
+        "options": [
+            "Nimble",
+            "Suffering",
+            "Heart-rending",
+            "Appropriate"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 168,
+        "question": "Hamper",
+        "options": [
+            "Brazen",
+            "Fancy",
+            "Hinder",
+            "Industrious"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 169,
+        "question": "Clandestine",
+        "options": [
+            "Secret",
+            "Ugly",
+            "Awkward",
+            "Inconsistent"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 170,
+        "question": "Surpass",
+        "options": [
+            "Overdo",
+            "Pass by",
+            "Outdo",
+            "Pass over"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 171,
+        "question": "ANALOGY",
+        "options": [
+            "Deletion",
+            "Difference",
+            "Addition",
+            "Comparison"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 172,
+        "question": "STUPEFY",
+        "options": [
+            "overread",
+            "lie",
+            "talk nonsense",
+            "make dull"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 173,
+        "question": "ABSTINENCE",
+        "options": [
+            "gluttony",
+            "synchronic",
+            "restraint",
+            "torrential"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 174,
+        "question": "EXCTUCIATE",
+        "options": [
+            "imprison",
+            "refifne",
+            "extract",
+            "torture"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 175,
+        "question": "Dainty",
+        "options": [
+            "Delicacy",
+            "Small and graceful",
+            "Carefree",
+            "Feminine and happy"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 176,
+        "question": "Jubilant",
+        "options": [
+            "Apprentice",
+            "Elated",
+            "Scoundrel",
+            "Copious"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 177,
+        "question": "Resistance",
+        "options": [
+            "Equivalent",
+            "Denunciation",
+            "Instigate",
+            "Opposition"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 178,
+        "question": "ATTRITION",
+        "options": [
+            "attraction",
+            "friction",
+            "suffering",
+            "decline"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 179,
+        "question": "Laudable",
+        "options": [
+            "Benevolent",
+            "Welcome",
+            "Sincere",
+            "Praiseworthy"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 180,
+        "question": "Panacea",
+        "options": [
+            "Inactivity",
+            "Cure-all",
+            "Flatter",
+            "Praise"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 181,
+        "question": "Mournful",
+        "options": [
+            "Ruse",
+            "Devilish",
+            "Flagrant",
+            "Sad"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 182,
+        "question": "ANIMATE",
+        "options": [
+            "calm",
+            "kill",
+            "energise",
+            "dead"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 183,
+        "question": "Regard",
+        "options": [
+            "Love",
+            "Suspicion",
+            "Respect",
+            "Liking"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 184,
+        "question": "Assistance",
+        "options": [
+            "Well",
+            "Enjoyment",
+            "Moody",
+            "Help"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 185,
+        "question": "Laid-back",
+        "options": [
+            "Lame",
+            "Easy-going",
+            "Lie in wait",
+            "Sorry state"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 186,
+        "question": "Accomplish",
+        "options": [
+            "Adhere",
+            "Achieve",
+            "Amass",
+            "Acquire"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 187,
+        "question": "NIGGARDLY",
+        "options": [
+            "nimbus",
+            "penurious",
+            "liberal",
+            "generous"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 188,
+        "question": "Accrue",
+        "options": [
+            "Grow\r\n",
+            "Suffice\r\n",
+            "Accumulate\r\n",
+            "Accommodate\r\n"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 189,
+        "question": "Likeness",
+        "options": [
+            "Assist",
+            "Agile",
+            "Visionary",
+            "Similarity"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 190,
+        "question": "FEROCIOUS",
+        "options": [
+            "enmity",
+            "fierce",
+            "danger",
+            "bitter"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 191,
+        "question": "Frugal",
+        "options": [
+            "Splendid",
+            "Hungry",
+            "Economical",
+            "Miserly"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 192,
+        "question": "THRIVE",
+        "options": [
+            "flourish",
+            "hurt",
+            "push",
+            "persuade"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 193,
+        "question": "Tenacious",
+        "options": [
+            "Resolute",
+            "Prevent",
+            "Apathetic",
+            "Plaintive"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 194,
+        "question": "DEFER",
+        "options": [
+            "estimate",
+            "discourage",
+            "postpone",
+            "minimize"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 195,
+        "question": "Rut",
+        "options": [
+            "Ignorant",
+            "Groove",
+            "Distressing",
+            "Slander"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 196,
+        "question": "CLUMSY",
+        "options": [
+            "ungraceful",
+            "adroit",
+            "rough",
+            "dexterous"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 197,
+        "question": "Palpable",
+        "options": [
+            "Sufficient",
+            "Hidden",
+            "Obvious",
+            "Immense"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 198,
+        "question": "Sauntering",
+        "options": [
+            "Travelling",
+            "Strolling",
+            "Jogging",
+            "Brisk walking"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 199,
+        "question": "Irreverence",
+        "options": [
+            "Unkindness",
+            "Invalidity",
+            "Disrespect",
+            "Cruelty"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 200,
+        "question": "Urge",
+        "options": [
+            "Inadequate",
+            "Incite",
+            "Hazy",
+            "Confirm"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 201,
+        "question": "Damage",
+        "options": [
+            "Loss",
+            "Threaten",
+            "Ill-will",
+            "Tranquil"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 202,
+        "question": "Urchin",
+        "options": [
+            "Waif",
+            "Native",
+            "Dream",
+            "Trustworthy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 203,
+        "question": "Dear",
+        "options": [
+            "Good",
+            "Prosaic",
+            "Mountebank",
+            "Expensive"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 204,
+        "question": "Pathetic",
+        "options": [
+            "Fame",
+            "Purposeless",
+            "Astound",
+            "Moving"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 205,
+        "question": "Condemn",
+        "options": [
+            "Kill",
+            "Hit",
+            "Censure",
+            "Despair"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 206,
+        "question": "Veto",
+        "options": [
+            "Gloomy",
+            "Reject",
+            "Surfeit",
+            "Wasteful"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 207,
+        "question": "CONDONE",
+        "options": [
+            "Defend",
+            "Forgive",
+            "Forget",
+            "Support"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 208,
+        "question": "Conceit",
+        "options": [
+            "Grieve",
+            "Convenient",
+            "Pride",
+            "Impending"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 209,
+        "question": "INIQUITOUS",
+        "options": [
+            "wicked",
+            "unequal",
+            "biased",
+            "curious"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 210,
+        "question": "Pertinent",
+        "options": [
+            "Direct",
+            "Important",
+            "Indirect",
+            "Relevant"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 211,
+        "question": "REBATE",
+        "options": [
+            "discount",
+            "loss",
+            "compensation",
+            "refund"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 212,
+        "question": "Weary",
+        "options": [
+            "Troubled",
+            "Weak",
+            "Careless",
+            "Shivering"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 213,
+        "question": "Obscene",
+        "options": [
+            "Distress",
+            "Aspire",
+            "Filthy",
+            "Forgive"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 214,
+        "question": "Appraise",
+        "options": [
+            "Evaluate",
+            "Merited",
+            "Petulant",
+            "Vanity"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 215,
+        "question": "Dissipate",
+        "options": [
+            "Pleasure",
+            "Scatter",
+            "Mammoth",
+            "Calamity"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 216,
+        "question": "Obscure",
+        "options": [
+            "Occasional",
+            "Old",
+            "Unknown",
+            "Neglectful"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 217,
+        "question": "Pillage",
+        "options": [
+            "Accidental",
+            "Answer",
+            "Plunder",
+            "Admit"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 218,
+        "question": "Meticulous",
+        "options": [
+            "Methodical",
+            "Painstaking",
+            "Correct",
+            "Clean"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 219,
+        "question": "Dessert",
+        "options": [
+            "Sweet-dish",
+            "Broth",
+            "Wasteland",
+            "Abandon"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 220,
+        "question": "Yearn",
+        "options": [
+            "Unyielding",
+            "Crave",
+            "Concise",
+            "Refined"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 221,
+        "question": "Entice",
+        "options": [
+            "Lure",
+            "Faithful",
+            "Fixed",
+            "Detest"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 222,
+        "question": "Vagary",
+        "options": [
+            "gang",
+            "impulse",
+            "Lapse of memory",
+            "Companionship"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 223,
+        "question": "Morbid",
+        "options": [
+            "Good",
+            "Unhealthy",
+            "Plaintive",
+            "Ostracise"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 224,
+        "question": "Alms",
+        "options": [
+            "Dole",
+            "Hypercritical",
+            "Flatter",
+            "Low"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 225,
+        "question": "MURKY",
+        "options": [
+            "lazy",
+            "ugly",
+            "dull",
+            "dishonest"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 226,
+        "question": "Adequate",
+        "options": [
+            "Enough",
+            "Imitate",
+            "Proud",
+            "Succor"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 227,
+        "question": "Magnificent",
+        "options": [
+            "Border",
+            "Splendid",
+            "Emphasis",
+            "Abject"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 228,
+        "question": "Shrink",
+        "options": [
+            "Reduce",
+            "Shrivel",
+            "Contract",
+            "Physician"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 229,
+        "question": "Sordid",
+        "options": [
+            "Ordeal",
+            "Importunate",
+            "Prevent",
+            "Ugly"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 230,
+        "question": "HINDER",
+        "options": [
+            "impede",
+            "create",
+            "vindicate",
+            "protect"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 231,
+        "question": "STRINGENT",
+        "options": [
+            "strained",
+            "shrill",
+            "dry",
+            "regorous"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 232,
+        "question": "RECTIFY",
+        "options": [
+            "to build",
+            "to command",
+            "to destroy",
+            "to correct"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 233,
+        "question": "Revelation",
+        "options": [
+            "Revel in",
+            "Disclosure",
+            "Anticipation",
+            "Imagination"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 234,
+        "question": "Picturesque",
+        "options": [
+            "Charming",
+            "Outrageous",
+            "Hidden",
+            "Hasty"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 235,
+        "question": "Salient",
+        "options": [
+            "Pleasing",
+            "Satisfactory",
+            "Most important",
+            "Salt-like taste"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 236,
+        "question": "Treason",
+        "options": [
+            "Dishonesty",
+            "Deception",
+            "Absurdity",
+            "Disloyalty"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 237,
+        "question": "FATIGUE",
+        "options": [
+            "drowsiness",
+            "weariness",
+            "tension",
+            "sweating"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 238,
+        "question": "DAUNT",
+        "options": [
+            "intimidate",
+            "detain",
+            "abuse",
+            "annoy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 239,
+        "question": "Clue",
+        "options": [
+            "Intimation",
+            "Signal",
+            "Hint",
+            "Inkling"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 240,
+        "question": "Amicable",
+        "options": [
+            "Satisfying",
+            "Heartening",
+            "Poisonous",
+            "Co-operative"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 241,
+        "question": "HINDER",
+        "options": [
+            "ruin",
+            "obstruct",
+            "damage",
+            "challenge"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 242,
+        "question": "INTRIGUE",
+        "options": [
+            "veto",
+            "request",
+            "plot",
+            "poison"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 243,
+        "question": "SUMMIT",
+        "options": [
+            "peak",
+            "base",
+            "declivity",
+            "slope"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 244,
+        "question": "Obliterate",
+        "options": [
+            "Loot",
+            "Admit",
+            "Vindicate",
+            "Destroy"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 245,
+        "question": "Crude",
+        "options": [
+            "Rude",
+            "Savage",
+            "Unrefined",
+            "Cruel"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 246,
+        "question": "Misery",
+        "options": [
+            "Sorrow",
+            "Rest",
+            "Materialistic",
+            "Ruin"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 247,
+        "question": "Rebellion",
+        "options": [
+            "Mutiny",
+            "Speech",
+            "Coy",
+            "Sardonic"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 248,
+        "question": "INFIRM",
+        "options": [
+            "feeble",
+            "sturdy",
+            "patient",
+            "anxious"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 249,
+        "question": "ENSUE",
+        "options": [
+            "follow",
+            "compel",
+            "remain",
+            "plead"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 250,
+        "question": "Reiterate",
+        "options": [
+            "Repeat",
+            "Model",
+            "Outrageous",
+            "Oppressor"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 251,
+        "question": "Barbaric",
+        "options": [
+            "Preclude",
+            "Trap",
+            "Savage",
+            "Superficial"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 252,
+        "question": "Mighty",
+        "options": [
+            "Ill-will",
+            "Orphan",
+            "Powerful",
+            "Devitalised"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 253,
+        "question": "Pity",
+        "options": [
+            "Kindness",
+            "Joy",
+            "Offence",
+            "Mercy"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 254,
+        "question": "INFIRMITY",
+        "options": [
+            "slimness",
+            "disease",
+            "weakness",
+            "malady"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 255,
+        "question": "Astonish",
+        "options": [
+            "Impudent",
+            "Amaze",
+            "Well",
+            "Merited"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 256,
+        "question": "Ample",
+        "options": [
+            "Sufficient",
+            "Tasty",
+            "Meagre",
+            "Quantitative"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 257,
+        "question": "Winsome",
+        "options": [
+            "Applicable",
+            "Beautiful",
+            "Condition",
+            "Delight"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 258,
+        "question": "MONOLITHIC",
+        "options": [
+            "very large",
+            "short-sighted",
+            "repetitive",
+            "black & white"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 259,
+        "question": "Adverse",
+        "options": [
+            "Decorative",
+            "Derogative",
+            "Negative",
+            "Facilitating"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 260,
+        "question": "Adversity",
+        "options": [
+            "Misfortune",
+            "Emphasis",
+            "Trite",
+            "Prejudiced"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 261,
+        "question": "Obtrude",
+        "options": [
+            "Void",
+            "Thrust",
+            "Squeamish",
+            "Summit"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 262,
+        "question": "FORTITUDE",
+        "options": [
+            "luck",
+            "wealth",
+            "courage",
+            "loudness"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 263,
+        "question": "Blaze",
+        "options": [
+            "Fire",
+            "Mark",
+            "Rage",
+            "Rush"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 264,
+        "question": "HAVOC",
+        "options": [
+            "ruin",
+            "festival",
+            "disease",
+            "sea battle"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 265,
+        "question": "Boast",
+        "options": [
+            "Hate",
+            "Brag",
+            "Cry",
+            "Abuse"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 266,
+        "question": "Nurture",
+        "options": [
+            "To see",
+            "To maintain",
+            "To encourage",
+            "To grow"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 267,
+        "question": "Exterminate",
+        "options": [
+            "Uproot",
+            "Spite",
+            "Abridge",
+            "Hidden"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 268,
+        "question": "Quash",
+        "options": [
+            "Reject",
+            "Slash",
+            "Question",
+            "Pledge"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 269,
+        "question": "Prosper",
+        "options": [
+            "Thrive",
+            "Rich",
+            "Cherish",
+            "Promote"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 270,
+        "question": "INTRINSIC",
+        "options": [
+            "secret",
+            "introvert",
+            "complicated",
+            "intricate"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 271,
+        "question": "Backlash",
+        "options": [
+            "Neophyte",
+            "Apologise",
+            "Repercussion",
+            "Forgive"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 272,
+        "question": "RECUPERATE",
+        "options": [
+            "overcome",
+            "recapture",
+            "recover",
+            "delight"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 273,
+        "question": "Waive",
+        "options": [
+            "Trickery",
+            "Forgo",
+            "Searing",
+            "Flagrant"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 274,
+        "question": "ATTRIBUTE",
+        "options": [
+            "inundate",
+            "infer",
+            "inhere",
+            "impute"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 275,
+        "question": "Despondent",
+        "options": [
+            "Rejected",
+            "Repentant",
+            "Deserted",
+            "Dejected"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 276,
+        "question": "Obsolete",
+        "options": [
+            "Enthusiasm",
+            "Firmness",
+            "Antiquated",
+            "Enchant"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 277,
+        "question": "BAFFLE",
+        "options": [
+            "antagonise",
+            "insult",
+            "defame",
+            "frustrate"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 278,
+        "question": "Genuine",
+        "options": [
+            "Attractive",
+            "Lovable",
+            "Good",
+            "Real"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 279,
+        "question": "Solicit",
+        "options": [
+            "Sympathize",
+            "Agree",
+            "Command",
+            "Request"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 280,
+        "question": "Hesitant",
+        "options": [
+            "Contradict",
+            "Undecided",
+            "Antagonistic",
+            "Grumbling"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 281,
+        "question": "SMEAR",
+        "options": [
+            "mark",
+            "encourage",
+            "avoid",
+            "quarrel"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 282,
+        "question": "Sterile",
+        "options": [
+            "Long",
+            "Restrained",
+            "Unproductive",
+            "Voluptuous"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 283,
+        "question": "EXORCISE",
+        "options": [
+            "mock",
+            "expel",
+            "explain",
+            "expose"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 284,
+        "question": "Servile",
+        "options": [
+            "Urge",
+            "Threaten",
+            "Slavish",
+            "Snub"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 285,
+        "question": "QUOTE",
+        "options": [
+            "cite",
+            "sight",
+            "sue",
+            "sigh"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 286,
+        "question": "Diligent",
+        "options": [
+            "Modest",
+            "Industrious",
+            "Intelligent",
+            "Energetic"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 287,
+        "question": "DISPARAGE",
+        "options": [
+            "imitate",
+            "separate",
+            "compare",
+            "belittle"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 288,
+        "question": "FERFIDY",
+        "options": [
+            "conceit",
+            "debauchery",
+            "treachery",
+            "deceit"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 289,
+        "question": "TYRANNY",
+        "options": [
+            "cruelty",
+            "misrule",
+            "madness",
+            "power"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 290,
+        "question": "ANALOGY",
+        "options": [
+            "variety",
+            "similarity",
+            "transposition",
+            "distinction"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 291,
+        "question": "DELECTABLE",
+        "options": [
+            "delicate",
+            "attractive",
+            "desirable",
+            "delightful"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 292,
+        "question": "AMBITION",
+        "options": [
+            "decision",
+            "plan",
+            "desire",
+            "proclamation"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 293,
+        "question": "Vindictive",
+        "options": [
+            "Spiteful",
+            "Aggressive",
+            "Imaginative",
+            "Accusative"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 294,
+        "question": "Camouflage",
+        "options": [
+            "Disguise",
+            "Pretend",
+            "Hide",
+            "Reveal"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 295,
+        "question": "COURAGEOUS",
+        "options": [
+            "fearless",
+            "fickle",
+            "timorous",
+            "insipid"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 296,
+        "question": "UMBRAGE",
+        "options": [
+            "resentment",
+            "sensitive",
+            "premature",
+            "shabbiness"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 297,
+        "question": "EXACERBATE",
+        "options": [
+            "exaggerate",
+            "irritate",
+            "aggravate",
+            "enlighten"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 298,
+        "question": "Belligerent",
+        "options": [
+            "Restrained",
+            "Herald",
+            "Warlike",
+            "Chaos"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 299,
+        "question": "Consistency",
+        "options": [
+            "Permanence",
+            "Uniformity",
+            "Constancy",
+            "Competence"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 300,
+        "question": "Salutary",
+        "options": [
+            "Disastrous",
+            "Beneficial",
+            "Premature",
+            "Terrible"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 301,
+        "question": "PORTRAY",
+        "options": [
+            "draw",
+            "communicate",
+            "express",
+            "paint"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 302,
+        "question": "Fictitious",
+        "options": [
+            "Foul",
+            "Flattering",
+            "False",
+            "Frail"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 303,
+        "question": "Assiduous",
+        "options": [
+            "Huge",
+            "Moody",
+            "Painstaking",
+            "Accuracy"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 304,
+        "question": "VAPID",
+        "options": [
+            "dull",
+            "virtuous",
+            "priceless",
+            "vital"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 305,
+        "question": "Queer",
+        "options": [
+            "Ruse",
+            "Generous",
+            "Strange",
+            "View"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 306,
+        "question": "6)</span> &nbsp; Onu",
+        "options": [
+            "Sadness",
+            "Responsibility",
+            "Happiness",
+            "Criticism"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 307,
+        "question": "Veil",
+        "options": [
+            "Conceal",
+            "Repent",
+            "Seclude",
+            "Moan"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 308,
+        "question": "8)</span> &nbsp; Prophylactic\r",
+        "options": [
+            "Toxic\r\n",
+            "Antagonistic\r\n",
+            "Preventive\r\n",
+            "Purgative\r\n"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 309,
+        "question": "VACILLATE",
+        "options": [
+            "waver\r\n",
+            "never\r\n",
+            "quiver\r\n",
+            "queer\r\n"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 310,
+        "question": "10)</span> &nbsp; Ostracis",
+        "options": [
+            "Besiege",
+            "Beguile",
+            "Belittle",
+            "Banish"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 311,
+        "question": "Unique",
+        "options": [
+            "Affinity",
+            "Unparalleled",
+            "Copious",
+            "Hollow"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 312,
+        "question": "PONDEROUS",
+        "options": [
+            "abundant",
+            "conceited",
+            "shameless",
+            "heavy"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 313,
+        "question": "TACITURNITY",
+        "options": [
+            "dumbness",
+            "reserve",
+            "changeableness",
+            "hesitation"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 314,
+        "question": "Vilify",
+        "options": [
+            "Overlook",
+            "Slender",
+            "Ill-will",
+            "Malign"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 315,
+        "question": "MALAISE",
+        "options": [
+            "sickness",
+            "stagnation",
+            "curse",
+            "spite"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 316,
+        "question": "Fatuous",
+        "options": [
+            "Convenient",
+            "to",
+            "Apothegm",
+            "Silly"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 317,
+        "question": "ARTIFACT",
+        "options": [
+            "exact copy",
+            "synthetic",
+            "natural",
+            "man-made"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 318,
+        "question": "Meek",
+        "options": [
+            "Submissive",
+            "Benign",
+            "Light-hearted",
+            "Serious"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 319,
+        "question": "Bigoted",
+        "options": [
+            "Inadequate",
+            "Biased",
+            "Dogma",
+            "Imitate"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 320,
+        "question": "ANGST",
+        "options": [
+            "simplicity",
+            "anxiety",
+            "modesty",
+            "pride"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 321,
+        "question": "Affiliate",
+        "options": [
+            "Copy",
+            "Discriminate",
+            "Control",
+            "Associate"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 322,
+        "question": "Audacious",
+        "options": [
+            "Bold",
+            "Frightening",
+            "Brilliant",
+            "Powerful"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 323,
+        "question": "WATCHFULNESS",
+        "options": [
+            "vigil",
+            "supervision",
+            "superintendence",
+            "custody"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 324,
+        "question": "Sanitise",
+        "options": [
+            "Pious",
+            "Crazy",
+            "Pleasant",
+            "Disinfect"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 325,
+        "question": "CURSORY",
+        "options": [
+            "angry",
+            "penetrating",
+            "superficial",
+            "informal"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 326,
+        "question": "Fruitless",
+        "options": [
+            "Useless",
+            "Insufficient",
+            "Successful",
+            "barren"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 327,
+        "question": "7)</span> &nbsp; Debacl",
+        "options": [
+            "Decline",
+            "Degeneration",
+            "Downfall",
+            "Discomfiture"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 328,
+        "question": "FETCH",
+        "options": [
+            "order\r\n",
+            "bring\r\n",
+            "scoop\r\n",
+            "take\r\n"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 329,
+        "question": "STUBBORN",
+        "options": [
+            "pliable",
+            "easy",
+            "willing",
+            "obstinate"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 330,
+        "question": "Innocuous",
+        "options": [
+            "Harmful",
+            "Useful",
+            "Abominable",
+            "Harmless"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 331,
+        "question": "Enigmatic",
+        "options": [
+            "Speeding",
+            "Puzzling",
+            "Magnetic",
+            "Automatic"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 332,
+        "question": "Chivalrous",
+        "options": [
+            "Handsome",
+            "Tinkering",
+            "Crude",
+            "Gallant"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 333,
+        "question": "Obdurate",
+        "options": [
+            "Obsessed",
+            "Adamant",
+            "Angry",
+            "Calm"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 334,
+        "question": "Acme",
+        "options": [
+            "Impudent",
+            "Stupor",
+            "Well",
+            "Summit"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 335,
+        "question": "Mass murder",
+        "options": [
+            "Regicide",
+            "Genocide",
+            "Patricide",
+            "Fratricide"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 336,
+        "question": "COMPREHEND",
+        "options": [
+            "understand",
+            "agree",
+            "settle",
+            "reprieve"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 337,
+        "question": "Peculiar",
+        "options": [
+            "Surprising",
+            "Tiring",
+            "Same",
+            "Strange"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 338,
+        "question": "FORTIFY",
+        "options": [
+            "strengthen",
+            "topple",
+            "reproduce",
+            "destroy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 339,
+        "question": "Friendly",
+        "options": [
+            "Considerate",
+            "Industrious",
+            "Gentle",
+            "Amiable"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 340,
+        "question": "REPRISAL",
+        "options": [
+            "retaliation",
+            "denial",
+            "unequivocal",
+            "reluctance"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 341,
+        "question": "ASSESS",
+        "options": [
+            "enter",
+            "overload",
+            "permit",
+            "measure"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 342,
+        "question": "HARASS",
+        "options": [
+            "annoy",
+            "grieve",
+            "excite",
+            "injure"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 343,
+        "question": "CHASTE",
+        "options": [
+            "noble",
+            "filthy",
+            "immoral",
+            "lewd"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 344,
+        "question": "4)</span> &nbsp; Perspicuou",
+        "options": [
+            "Clear",
+            "Brief",
+            "Precise",
+            "Relevant"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 345,
+        "question": "Poignant",
+        "options": [
+            "Silly",
+            "Snobbish",
+            "Showy",
+            "Sad"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 346,
+        "question": "Acquaint",
+        "options": [
+            "Appoint",
+            "Acquire",
+            "Arouse",
+            "Introduce"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 347,
+        "question": "SPURIOUS",
+        "options": [
+            "foreign",
+            "false",
+            "poisonous",
+            "harmful"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 348,
+        "question": "Knave",
+        "options": [
+            "Soldier",
+            "Scoundrel",
+            "Emperor",
+            "Enchanter"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 349,
+        "question": "Lucid",
+        "options": [
+            "Musical",
+            "Familiar",
+            "Fluent",
+            "Clear"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 350,
+        "question": "GRATIFY",
+        "options": [
+            "indulge",
+            "frank",
+            "pacify",
+            "appreciate"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 351,
+        "question": "Adversary",
+        "options": [
+            "Opponent",
+            "Intruder",
+            "Poverty",
+            "Contestant"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 352,
+        "question": "ECHELON",
+        "options": [
+            "identity",
+            "rank",
+            "follower",
+            "opponent"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 353,
+        "question": "WRATH",
+        "options": [
+            "violence",
+            "jealousy",
+            "anger",
+            "hatred"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 354,
+        "question": "Intimate",
+        "options": [
+            "deserved",
+            "Astound",
+            "Close",
+            "Insolent"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 355,
+        "question": "ERSATZ",
+        "options": [
+            "pleasure",
+            "liveliness",
+            "freshness",
+            "imitation"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 356,
+        "question": "Ephemeral",
+        "options": [
+            "Short-lived",
+            "Poverty-stricken",
+            "Disturbing",
+            "Filthy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 357,
+        "question": "IMPECCABLE",
+        "options": [
+            "displeasing",
+            "remarkable",
+            "flawless",
+            "unbelievable"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 358,
+        "question": "GARRULOUS",
+        "options": [
+            "talkative\r\n",
+            "sedative\r\n",
+            "vocative\r\n",
+            "positive\r\n"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 359,
+        "question": "Ancestors",
+        "options": [
+            "Forefathers",
+            "Old people",
+            "Extinct tribes",
+            "Relatives"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 360,
+        "question": "PERNICIOUS",
+        "options": [
+            "minute care",
+            "relevant",
+            "destructive",
+            "vigilant"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 361,
+        "question": "Felicity",
+        "options": [
+            "Bliss",
+            "Sorrow",
+            "Prosperity",
+            "Honesty"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 362,
+        "question": "Charlatan",
+        "options": [
+            "Money",
+            "Impostor",
+            "Plead",
+            "Ignorant"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 363,
+        "question": "Confess",
+        "options": [
+            "Admit",
+            "Affinity",
+            "Moving",
+            "Sincere"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 364,
+        "question": "AFFLUENT",
+        "options": [
+            "close",
+            "prosperous",
+            "talkative",
+            "poor"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 365,
+        "question": "Succinct",
+        "options": [
+            "Trite",
+            "Brief",
+            "Vacillating",
+            "Advanced"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 366,
+        "question": "Miraculous",
+        "options": [
+            "Amazing",
+            "Unexpected",
+            "Mysterious",
+            "Sudden"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 367,
+        "question": "Liberty",
+        "options": [
+            "Charity",
+            "Democracy",
+            "Freedom",
+            "Equality"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 368,
+        "question": "Exquisite",
+        "options": [
+            "Elegant",
+            "Massive",
+            "Urge",
+            "Silly"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 369,
+        "question": "Shy",
+        "options": [
+            "Bashful",
+            "Acme",
+            "Impudent",
+            "Scenic"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 370,
+        "question": "Loquacious",
+        "options": [
+            "Content",
+            "Unclear",
+            "Talkative",
+            "Slow"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 371,
+        "question": "Adequate",
+        "options": [
+            "Procured",
+            "Additional",
+            "Necessary",
+            "Sufficient"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 372,
+        "question": "BRAVERY",
+        "options": [
+            "nepotism",
+            "onslaught",
+            "fortitude",
+            "arrogant"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 373,
+        "question": "TURBULENCE",
+        "options": [
+            "overflow",
+            "treachery",
+            "commotion",
+            "triumph"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 374,
+        "question": "TERRIFIC",
+        "options": [
+            "terrible",
+            "big",
+            "tragic",
+            "excellent"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 375,
+        "question": "Meagre",
+        "options": [
+            "Meekness",
+            "Void",
+            "Ghastly",
+            "Small"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 376,
+        "question": "16)</span> &nbsp; Infam",
+        "options": [
+            "Familiarity",
+            "Integrity",
+            "Glory",
+            "Notoriety"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 377,
+        "question": "Irrevocable",
+        "options": [
+            "Unalterable",
+            "Reversible",
+            "Change",
+            "Done"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 378,
+        "question": "Brittle",
+        "options": [
+            "Devitalised",
+            "Frail",
+            "Dormant",
+            "Trickery"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 379,
+        "question": "Wistful",
+        "options": [
+            "Melancholie",
+            "Scheme",
+            "Hindrance",
+            "Dictator"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 380,
+        "question": "COTERIE",
+        "options": [
+            "institution",
+            "mob",
+            "family",
+            "group"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 381,
+        "question": "Beg",
+        "options": [
+            "Fancy",
+            "Perplex",
+            "Implore",
+            "Ruin"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 382,
+        "question": "AVER",
+        "options": [
+            "trust",
+            "assert",
+            "impress",
+            "confess"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 383,
+        "question": "YAW",
+        "options": [
+            "drift",
+            "dedicate",
+            "arouse",
+            "soar"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 384,
+        "question": "Transparent",
+        "options": [
+            "Clear",
+            "Sharp",
+            "Translucent",
+            "Opaque"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 385,
+        "question": "SALACITY",
+        "options": [
+            "bliss",
+            "recession",
+            "depression",
+            "indecency"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 386,
+        "question": "Reverie",
+        "options": [
+            "Reality",
+            "Realization",
+            "Determination",
+            "Day-dream"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 387,
+        "question": "LUMINARY",
+        "options": [
+            "dashing",
+            "bright",
+            "famous",
+            "lightning"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 388,
+        "question": "ENTICE",
+        "options": [
+            "disobey",
+            "inform",
+            "observe",
+            "attract"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 389,
+        "question": "UNLAWFUL",
+        "options": [
+            "illicit",
+            "elicit",
+            "litigation",
+            "draw"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 390,
+        "question": "FACULTY",
+        "options": [
+            "ability",
+            "privilege",
+            "branch",
+            "desire"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 391,
+        "question": "IMPREGNATE",
+        "options": [
+            "conclude",
+            "conceal",
+            "affect",
+            "suffer"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 392,
+        "question": "Covenant",
+        "options": [
+            "Contract",
+            "Settlement",
+            "Case",
+            "Coupon"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 393,
+        "question": "Concise",
+        "options": [
+            "Barbaric",
+            "Tolerant",
+            "Wavering",
+            "Short"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 394,
+        "question": "Benevolence",
+        "options": [
+            "Kindness",
+            "Vision",
+            "Ill will",
+            "Morbidity"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 395,
+        "question": "Frontier",
+        "options": [
+            "Boundary",
+            "Corner",
+            "Edge",
+            "Landmark"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 396,
+        "question": "Rigid",
+        "options": [
+            "Opinionated",
+            "Stiff",
+            "Importunate",
+            "Spiteful"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 397,
+        "question": "HUMDRUM",
+        "options": [
+            "commonplace",
+            "thoughtful",
+            "unnatural",
+            "musical"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 398,
+        "question": "LUDICROUS",
+        "options": [
+            "undesirable",
+            "profitable",
+            "excessive",
+            "ridiculous"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 399,
+        "question": "Banish",
+        "options": [
+            "Uncivilised",
+            "Fretful",
+            "Exile",
+            "Acknowledge"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 400,
+        "question": "OBLOQUY",
+        "options": [
+            "vulgar joke",
+            "lethargy",
+            "verbal abuse",
+            "burial service"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 401,
+        "question": "Cursory",
+        "options": [
+            "Eager",
+            "Tender",
+            "Little",
+            "Quick"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 402,
+        "question": "ZENITH",
+        "options": [
+            "smart",
+            "top",
+            "wonderful",
+            "bright"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 403,
+        "question": "Dormant",
+        "options": [
+            "Quick",
+            "Active",
+            "Sleeping",
+            "Humble"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 404,
+        "question": "Massive",
+        "options": [
+            "Total",
+            "Little",
+            "Tall",
+            "Large in size"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 405,
+        "question": "Judicious",
+        "options": [
+            "Exact",
+            "Honest",
+            "Biased",
+            "Sensible"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 406,
+        "question": "Exculpate",
+        "options": [
+            "Absolve",
+            "Downfall",
+            "Wandering",
+            "Diseased"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 407,
+        "question": "Utopian",
+        "options": [
+            "Distant",
+            "Huge",
+            "Idealistic",
+            "Abject"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 408,
+        "question": "AFFABLE",
+        "options": [
+            "neutral",
+            "friendly",
+            "helpful",
+            "cheerful"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 409,
+        "question": "Cruelty",
+        "options": [
+            "Clamour",
+            "Tyranny",
+            "Ghastly",
+            "Terse"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 410,
+        "question": "Abbreviate",
+        "options": [
+            "Curtail",
+            "Proportionate",
+            "Impudent",
+            "Aid"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 411,
+        "question": "FRICASSEE",
+        "options": [
+            "to baste",
+            "grill",
+            "stew",
+            "decorate"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 412,
+        "question": "Merited",
+        "options": [
+            "Prompted",
+            "Supported",
+            "Deserved",
+            "Encouraged"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 413,
+        "question": "GADFLY",
+        "options": [
+            "blessing",
+            "harror",
+            "gain",
+            "naisance"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 414,
+        "question": "Decay",
+        "options": [
+            "Repartee",
+            "Flagrant",
+            "Opinionated",
+            "Wither"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 415,
+        "question": "Prodigal",
+        "options": [
+            "Enormous",
+            "Wasteful",
+            "Huge",
+            "Prodigious"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 416,
+        "question": "PROLIFIC",
+        "options": [
+            "predominant",
+            "plenty",
+            "fertile",
+            "competent"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 417,
+        "question": "OMEN",
+        "options": [
+            "imagination",
+            "augury",
+            "imagery",
+            "superstition"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 418,
+        "question": "Hostility",
+        "options": [
+            "Disturbance",
+            "Derogatory",
+            "Illness",
+            "Enmity"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 419,
+        "question": "Emancipate",
+        "options": [
+            "Resemblance",
+            "Disgrace",
+            "Accede",
+            "Free"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 420,
+        "question": "Battered",
+        "options": [
+            "Struck hard",
+            "Struck off",
+            "Destroyed",
+            "Dashed on"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 421,
+        "question": "TRANSCEND",
+        "options": [
+            "cross",
+            "lower",
+            "energise",
+            "climb"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 422,
+        "question": "Forego",
+        "options": [
+            "Leave",
+            "Accumulate",
+            "Renounce",
+            "Disown"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 423,
+        "question": "MANIAC",
+        "options": [
+            "dunce",
+            "lunatic",
+            "sober",
+            "deft"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 424,
+        "question": "REVOKE",
+        "options": [
+            "force",
+            "repudiate",
+            "impute",
+            "repeal"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 425,
+        "question": "FRAGMENT",
+        "options": [
+            "scrap",
+            "dissection",
+            "crumble",
+            "cut"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 426,
+        "question": "REPLENISH",
+        "options": [
+            "restore",
+            "fill",
+            "provide",
+            "supply"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 427,
+        "question": "DEFUNCT",
+        "options": [
+            "extinct",
+            "active",
+            "alive",
+            "clever"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 428,
+        "question": "LETHAL",
+        "options": [
+            "strange",
+            "dreary",
+            "deadly",
+            "dreadful"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 429,
+        "question": "Erudite",
+        "options": [
+            "Miserly",
+            "Lovely",
+            "Scholarly",
+            "Friendly"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 430,
+        "question": "DISTINGUISH",
+        "options": [
+            "confuse",
+            "darken",
+            "differentiate",
+            "abolish"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 431,
+        "question": "Haughty",
+        "options": [
+            "Arrogant",
+            "Acquainted",
+            "Plentiful",
+            "Remark"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 432,
+        "question": "ABJURE",
+        "options": [
+            "denounce",
+            "renounce",
+            "pronounce",
+            "announce"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 433,
+        "question": "KEMP",
+        "options": [
+            "champion",
+            "professional",
+            "tent",
+            "parasite"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 434,
+        "question": "Rejoice",
+        "options": [
+            "Satirise",
+            "Adamant",
+            "Neophyte",
+            "Exult"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 435,
+        "question": "Magnificent",
+        "options": [
+            "Generous",
+            "Splendid",
+            "Magnanimous",
+            "Modest"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 436,
+        "question": "Flabbergasted",
+        "options": [
+            "Dumbfounded",
+            "Humiliated",
+            "Scared",
+            "Embarrassed"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 437,
+        "question": "Immaterial",
+        "options": [
+            "Unimportant",
+            "Useless",
+            "Celebrate",
+            "Condemn"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 438,
+        "question": "Abundant",
+        "options": [
+            "Significant",
+            "Vibrant",
+            "Sufficient",
+            "Plentiful"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 439,
+        "question": "WRATH",
+        "options": [
+            "displeasing",
+            "violence",
+            "hatred",
+            "anger"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 440,
+        "question": "IRRUPTION",
+        "options": [
+            "altercation",
+            "hate",
+            "interference",
+            "bursting in"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 441,
+        "question": "Abhor",
+        "options": [
+            "Silly",
+            "Hate",
+            "Celebrate",
+            "Pleasure"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 442,
+        "question": "FRATERNISE",
+        "options": [
+            "cheat",
+            "associate",
+            "expel",
+            "organise"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 443,
+        "question": "Fragrance",
+        "options": [
+            "Sight",
+            "Touch",
+            "Taste",
+            "Aroma"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 444,
+        "question": "MAIM",
+        "options": [
+            "slash",
+            "disfigure",
+            "severe",
+            "slit"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 445,
+        "question": "Indignant",
+        "options": [
+            "Naive",
+            "Angry",
+            "Suffering",
+            "Catastrophe"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 446,
+        "question": "Fortitude",
+        "options": [
+            "Courage",
+            "Produce",
+            "Composure",
+            "Confidence"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 447,
+        "question": "Bizarre",
+        "options": [
+            "Useless",
+            "Unusual",
+            "Bully",
+            "Celebrate"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 448,
+        "question": "Refrain",
+        "options": [
+            "Prevent",
+            "Curb",
+            "Dissuade",
+            "Desist"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 449,
+        "question": "FRANTIC",
+        "options": [
+            "painful",
+            "urgent",
+            "novel",
+            "excited"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 450,
+        "question": "ANNEX",
+        "options": [
+            "initial",
+            "add",
+            "copy",
+            "low"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 451,
+        "question": "TACITURNITY",
+        "options": [
+            "reserved",
+            "dumbness",
+            "hesitation",
+            "changeableness"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 452,
+        "question": "ADAGE",
+        "options": [
+            "hardness",
+            "proverb",
+            "supplement",
+            "youth"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 453,
+        "question": "PRECARIOUS",
+        "options": [
+            "cautious",
+            "brittle",
+            "critical",
+            "perilous"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 454,
+        "question": "ANTITHESIS",
+        "options": [
+            "opposite",
+            "contract",
+            "conclusion",
+            "examination"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 455,
+        "question": "Fortify",
+        "options": [
+            "Prohibit",
+            "Strengthen",
+            "Create",
+            "Generate"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 456,
+        "question": "REQUITE",
+        "options": [
+            "requisition",
+            "repay",
+            "refuse",
+            "demand"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 457,
+        "question": "Imminent",
+        "options": [
+            "Threatening",
+            "Approaching",
+            "Accede",
+            "Fertile"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 458,
+        "question": "Desperation",
+        "options": [
+            "Fascination",
+            "Hopelessness",
+            "Depression",
+            "Jubilation"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 459,
+        "question": "Defect",
+        "options": [
+            "Shortcoming",
+            "Delicate",
+            "Loss",
+            "Harm"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 460,
+        "question": "Bewilder",
+        "options": [
+            "Uncertainty",
+            "Confound",
+            "Intrepid",
+            "Follower"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 461,
+        "question": "VISIONARY",
+        "options": [
+            "saint",
+            "dreamy",
+            "philosopher",
+            "savant"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 462,
+        "question": "FILCH",
+        "options": [
+            "covet",
+            "hide",
+            "swindle",
+            "steal"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 463,
+        "question": "Rectify",
+        "options": [
+            "Erase",
+            "Continue",
+            "Correct",
+            "Alter"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 464,
+        "question": "EGREGIOUS",
+        "options": [
+            "plain",
+            "social",
+            "common",
+            "shocking"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 465,
+        "question": "UNDULATE",
+        "options": [
+            "flood",
+            "retard",
+            "wave",
+            "decrease"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 466,
+        "question": "Abut",
+        "options": [
+            "Nullify",
+            "Catastrophe",
+            "Adjoin",
+            "Mourn"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 467,
+        "question": "EXEMPT",
+        "options": [
+            "forgive",
+            "duty",
+            "relieve of",
+            "provide"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 468,
+        "question": "Denounce",
+        "options": [
+            "Delight",
+            "Zenith",
+            "Accuse",
+            "Coax"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 469,
+        "question": "Allegiance",
+        "options": [
+            "Loyalty",
+            "Passivity",
+            "Servility",
+            "Obedience"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 470,
+        "question": "Constant",
+        "options": [
+            "Eternal",
+            "Agile",
+            "Clever",
+            "Accede"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 471,
+        "question": "Fragile",
+        "options": [
+            "Flexible",
+            "Easily broken",
+            "Soft",
+            "Smooth"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 472,
+        "question": "ADVICE",
+        "options": [
+            "proposal",
+            "council",
+            "practice",
+            "counsel"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 473,
+        "question": "OBNOXIOUS",
+        "options": [
+            "outdated",
+            "clever",
+            "disagreeable",
+            "shrewd"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 474,
+        "question": "FURTIVE",
+        "options": [
+            "stealthy",
+            "baffling",
+            "hasty",
+            "fleeing"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 475,
+        "question": "CHARGIN",
+        "options": [
+            "vexation",
+            "delight",
+            "deceit",
+            "caution"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 476,
+        "question": "Tedious",
+        "options": [
+            "Interesting",
+            "Exciting",
+            "Tiresome",
+            "Dull"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 477,
+        "question": "SAGACITY",
+        "options": [
+            "uprightness",
+            "morality",
+            "sanity",
+            "wisdom"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 478,
+        "question": "Stipulation",
+        "options": [
+            "Uncertainty",
+            "Accidental",
+            "Draw",
+            "Prerequisite"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 479,
+        "question": "OBSCENE",
+        "options": [
+            "condemnable",
+            "objectionable",
+            "displeasing",
+            "indecent"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 480,
+        "question": "Dramatic",
+        "options": [
+            "Spectacular",
+            "Effective",
+            "Unprecedented",
+            "Thrilling"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 481,
+        "question": "Prudent",
+        "options": [
+            "Frank",
+            "Severe",
+            "Wise",
+            "Cunning"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 482,
+        "question": "Banal",
+        "options": [
+            "Timid",
+            "Ostracise",
+            "Dull",
+            "Perpetual"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 483,
+        "question": "Relish",
+        "options": [
+            "Enjoy",
+            "Reveal",
+            "Realize",
+            "Taste"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 484,
+        "question": "Intimidate",
+        "options": [
+            "Leave",
+            "Frighten",
+            "Calm down",
+            "View"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 485,
+        "question": "Gloomy",
+        "options": [
+            "Murky",
+            "Shadowy",
+            "Misty",
+            "Morose"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 486,
+        "question": "Ingenuous",
+        "options": [
+            "Chicane",
+            "Inform",
+            "Artless",
+            "Partner"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 487,
+        "question": "Fury",
+        "options": [
+            "Prevent",
+            "Impudent",
+            "Anger",
+            "Errant"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 488,
+        "question": "Inanimate",
+        "options": [
+            "Dormant",
+            "Lifeless",
+            "Suffering",
+            "Implore"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 489,
+        "question": "Genial",
+        "options": [
+            "Careful",
+            "Specific",
+            "Cordial",
+            "Unselfish"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 490,
+        "question": "ACCOLADE",
+        "options": [
+            "arrival",
+            "welcome",
+            "affection",
+            "award"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 491,
+        "question": "Prospective",
+        "options": [
+            "Perplexed",
+            "Possible",
+            "Preceded",
+            "Prosperous"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 492,
+        "question": "OVERSTRUNG",
+        "options": [
+            "energetic",
+            "concerned",
+            "sensitive",
+            "active"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 493,
+        "question": "HYBRID",
+        "options": [
+            "crossbred",
+            "unusual",
+            "pedigreed",
+            "hackneyed"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 494,
+        "question": "CONNIVE",
+        "options": [
+            "disregard",
+            "threaten",
+            "instigate",
+            "shield"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 495,
+        "question": "Abated",
+        "options": [
+            "Increased",
+            "Stabilized",
+            "Reduced",
+            "Vanished"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 496,
+        "question": "PATRONAGE",
+        "options": [
+            "beneficiary",
+            "donation",
+            "espionage",
+            "support"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 497,
+        "question": "Inexorable",
+        "options": [
+            "Industrious",
+            "Improve",
+            "Relentless",
+            "Inventive"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 498,
+        "question": "Querulous",
+        "options": [
+            "Quarrelsome",
+            "Ambiguous",
+            "Critical",
+            "Curious"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 499,
+        "question": "Commotion",
+        "options": [
+            "Disturbance",
+            "Movement",
+            "Cheer",
+            "Imbalance"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 500,
+        "question": "Subterfuge",
+        "options": [
+            "Spendthrift",
+            "Emphasis",
+            "Approaching",
+            "Ploy"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 501,
+        "question": "Licentious",
+        "options": [
+            "Moral",
+            "Without license",
+            "Immoral",
+            "Intellectual"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 502,
+        "question": "SUPERFICIAL",
+        "options": [
+            "proud",
+            "shallow",
+            "unsually fine",
+            "aged"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 503,
+        "question": "CALUMNIATE",
+        "options": [
+            "dealy",
+            "approve",
+            "aarn",
+            "slander"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 504,
+        "question": "Sensual",
+        "options": [
+            "Agree",
+            "Carnal",
+            "Benevolent",
+            "Block"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 505,
+        "question": "RESILIENT",
+        "options": [
+            "rigid",
+            "flexible",
+            "separable",
+            "proud"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 506,
+        "question": "ALMS",
+        "options": [
+            "worship",
+            "blessings",
+            "prayers",
+            "charity"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 507,
+        "question": "Abandon",
+        "options": [
+            "Cherish",
+            "Enlarge",
+            "Forsake",
+            "Keep"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 508,
+        "question": "Shrewd",
+        "options": [
+            "Fervour",
+            "Punish",
+            "better",
+            "Astute"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 509,
+        "question": "Flamboyant",
+        "options": [
+            "Anxiety",
+            "Innocent",
+            "Surprise",
+            "Bombastic"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 510,
+        "question": "COMPENDIUM",
+        "options": [
+            "summary",
+            "glossary",
+            "index",
+            "reference"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 511,
+        "question": "Menial",
+        "options": [
+            "Dangerous",
+            "Low-paid",
+            "Lowly",
+            "Tough"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 512,
+        "question": "12)</span> &nbsp; Cantankerou",
+        "options": [
+            "Cancerous",
+            "Fissiparous",
+            "Quarrelsome",
+            "Ferocious"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 513,
+        "question": "CAPTIVATE",
+        "options": [
+            "fascinate",
+            "repel",
+            "dangerous",
+            "subjugate"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 514,
+        "question": "Ravaged",
+        "options": [
+            "Conquered",
+            "Robbed",
+            "Destroyed",
+            "Spoiled"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 515,
+        "question": "INCLEMENT",
+        "options": [
+            "selfish\r\n",
+            "active\r\n",
+            "unfavourable\r\n",
+            "inactive\r\n"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 516,
+        "question": "Bedlam",
+        "options": [
+            "Pandemonium",
+            "Artful",
+            "Catastrophe",
+            "Grotesque"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 517,
+        "question": "MASSACRE",
+        "options": [
+            "assassinate",
+            "stab",
+            "murder",
+            "slaughter"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 518,
+        "question": "BLITHE",
+        "options": [
+            "indifferent",
+            "joyless",
+            "somnolent",
+            "grudging"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 519,
+        "question": "Considerate",
+        "options": [
+            "Like-minded",
+            "Thoughtful",
+            "Agreeable",
+            "Kind"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 520,
+        "question": "Favourite",
+        "options": [
+            "Pleasurable",
+            "Disliked",
+            "Preferred",
+            "Focused"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 521,
+        "question": "Abuse",
+        "options": [
+            "Scorn",
+            "Raise",
+            "Use",
+            "Praise"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 522,
+        "question": "Care",
+        "options": [
+            "Block",
+            "Practice",
+            "Solicitude",
+            "Cheerful"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 523,
+        "question": "Evince",
+        "options": [
+            "Apply",
+            "Show",
+            "Look",
+            "Try"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 524,
+        "question": "Calm",
+        "options": [
+            "Proud",
+            "Quiet",
+            "Know",
+            "Apathetic"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 525,
+        "question": "PERSUADE",
+        "options": [
+            "cheat",
+            "assure",
+            "convince",
+            "opinionated"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 526,
+        "question": "BEHOLDEN",
+        "options": [
+            "obliged",
+            "upright",
+            "grateful",
+            "lovable"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 527,
+        "question": "Prognosis",
+        "options": [
+            "Preface",
+            "Identity",
+            "Diagnosis",
+            "Forecast"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 528,
+        "question": "Extricate",
+        "options": [
+            "Copious",
+            "Disentangle",
+            "Renounce",
+            "Grand"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 529,
+        "question": "Acclaim",
+        "options": [
+            "Applaud",
+            "Disgrace",
+            "Improve",
+            "Kind"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 530,
+        "question": "WALLOW",
+        "options": [
+            "prosper",
+            "luxuriate",
+            "sacrifice",
+            "suffer"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 531,
+        "question": "Eminent",
+        "options": [
+            "Ingenious",
+            "Illustrious",
+            "Confident",
+            "Authentic"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 532,
+        "question": "DEBONAIR",
+        "options": [
+            "healthful",
+            "gay",
+            "corrupt",
+            "extravagant"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 533,
+        "question": "URBANE",
+        "options": [
+            "prominent",
+            "well-dressed",
+            "polished",
+            "friendly"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 534,
+        "question": "ATTACHMENT",
+        "options": [
+            "appendage",
+            "affinity",
+            "causation",
+            "influence"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 535,
+        "question": "Bait",
+        "options": [
+            "Perpetual",
+            "Snare",
+            "Possible",
+            "Fame"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 536,
+        "question": "DIALECTIC",
+        "options": [
+            "destructive",
+            "argumentative",
+            "constructive",
+            "instructive"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 537,
+        "question": "PARVENU",
+        "options": [
+            "intelligent",
+            "pretender",
+            "royal",
+            "privileged"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 538,
+        "question": "EXORBITANT",
+        "options": [
+            "threatening",
+            "odd",
+            "excessive",
+            "ridiculous"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 539,
+        "question": "Fabulous",
+        "options": [
+            "Interesting",
+            "Charming",
+            "Beautiful",
+            "Marvellous"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 540,
+        "question": "Envisaged",
+        "options": [
+            "Contemplated",
+            "Imagined",
+            "Ensured",
+            "Idealized"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 541,
+        "question": "WISE",
+        "options": [
+            "delay",
+            "momentous",
+            "judicious",
+            "pragmatic"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 542,
+        "question": "Swap",
+        "options": [
+            "Break",
+            "Exclude",
+            "Snap",
+            "Exchange"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 543,
+        "question": "TRAVERSE",
+        "options": [
+            "cross",
+            "mingle",
+            "take",
+            "frustrate"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 544,
+        "question": "Imitate",
+        "options": [
+            "Think",
+            "Allude",
+            "Follow",
+            "Copy"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 545,
+        "question": "Diffident",
+        "options": [
+            "Merry",
+            "Modest",
+            "Extinct",
+            "Purposeless"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 546,
+        "question": "Lenient",
+        "options": [
+            "Flatter",
+            "Compassionate",
+            "Polite",
+            "Forbearing"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 547,
+        "question": "Garrulous",
+        "options": [
+            "Condone",
+            "Talkative",
+            "Cheer",
+            "Rob"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 548,
+        "question": "Deference",
+        "options": [
+            "Respect",
+            "Flattery",
+            "Indifference",
+            "Sympathy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 549,
+        "question": "Behaviour",
+        "options": [
+            "Conduct",
+            "Pugnacious",
+            "Artificial",
+            "Remark"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 550,
+        "question": "MASTICATE",
+        "options": [
+            "swallow",
+            "devour",
+            "chew",
+            "drink"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 551,
+        "question": "Choleric",
+        "options": [
+            "Irascible",
+            "Alike",
+            "Disabled",
+            "Ecstasy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 552,
+        "question": "Rimy",
+        "options": [
+            "Obsession",
+            "Peerless",
+            "Frosty",
+            "Demolish"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 553,
+        "question": "DILEMMA",
+        "options": [
+            "confusion",
+            "darkness",
+            "trap",
+            "freedom"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 554,
+        "question": "Motive",
+        "options": [
+            "Intention",
+            "Preparation",
+            "Reason",
+            "Occasion"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 555,
+        "question": "Paucity",
+        "options": [
+            "Publicity",
+            "Downfall",
+            "Sincerity",
+            "Shortfall"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 556,
+        "question": "Inclement",
+        "options": [
+            "Unfavourable",
+            "Inactive",
+            "Selfish",
+            "Active"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 557,
+        "question": "JEALOUS",
+        "options": [
+            "interested\r\n",
+            "hatred\r\n",
+            "envied\r\n",
+            "admired\r\n"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 558,
+        "question": "18)</span> &nbsp; Derisio",
+        "options": [
+            "Condemnation",
+            "Ridicule",
+            "Embarrassment",
+            "Humiliation"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 559,
+        "question": "19)</span> &nbsp; Accrue\r",
+        "options": [
+            "Accumulate\r\n",
+            "Suffice\r\n",
+            "Accommodate\r\n",
+            "Grow\r\n"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 560,
+        "question": "20)</span> &nbsp; Inclemen",
+        "options": [
+            "Unfavourable",
+            "Inactive",
+            "Selfish",
+            "Active"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 561,
+        "question": "Lousy",
+        "options": [
+            "Loose",
+            "Stinking",
+            "Unbearable",
+            "Awful"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 562,
+        "question": "Perspicuous",
+        "options": [
+            "Brief",
+            "Clear",
+            "Relevant",
+            "Precise"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 563,
+        "question": "Abrogate",
+        "options": [
+            "Delay",
+            "Dismiss",
+            "Repeal",
+            "Destroy"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 564,
+        "question": "Base",
+        "options": [
+            "Brief",
+            "Fragile",
+            "Plentiful",
+            "Ignoble"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 565,
+        "question": "ENTHRAL",
+        "options": [
+            "annoy",
+            "inspire",
+            "glorify",
+            "charm"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 566,
+        "question": "Benevolent",
+        "options": [
+            "Helpful",
+            "Supportive",
+            "Beneficial",
+            "Kind"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 567,
+        "question": "Abase",
+        "options": [
+            "Degrade",
+            "Plentiful",
+            "Caprice",
+            "Merciless"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 568,
+        "question": "Perplexed",
+        "options": [
+            "Puzzled",
+            "Ruined",
+            "Annoyed",
+            "Disappointed"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 569,
+        "question": "FASTIDIOUS",
+        "options": [
+            "dormant",
+            "faint",
+            "delicious",
+            "dainty"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 570,
+        "question": "Scorching",
+        "options": [
+            "Astound",
+            "Sweltering",
+            "Delightful",
+            "Spendthrift"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 571,
+        "question": "IMMINENT",
+        "options": [
+            "impending",
+            "eminent",
+            "future",
+            "immediate"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 572,
+        "question": "Rash",
+        "options": [
+            "Impetuous",
+            "Ephemeral",
+            "Perspicacious",
+            "Instigate"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 573,
+        "question": "WEARY",
+        "options": [
+            "emotional",
+            "sad",
+            "sentimental",
+            "fatigued"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 574,
+        "question": "Impediment",
+        "options": [
+            "Incapable",
+            "Obstruction",
+            "Clear",
+            "Ailment"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 575,
+        "question": "Recipients",
+        "options": [
+            "Receivers",
+            "Instigators",
+            "Creators",
+            "Donors"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 576,
+        "question": "Industrious",
+        "options": [
+            "Hard-working",
+            "Economic",
+            "Indolent",
+            "Industrial"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 577,
+        "question": "UNIFORMITY",
+        "options": [
+            "constistency",
+            "routine",
+            "stability",
+            "continuity"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 578,
+        "question": "Tremendous",
+        "options": [
+            "Considerable",
+            "Excessive",
+            "Awesome",
+            "Remarkable"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 579,
+        "question": "Genius",
+        "options": [
+            "An intellect",
+            "An athlete",
+            "A generous person",
+            "A foreigner"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 580,
+        "question": "Surreptitiously",
+        "options": [
+            "Suggestively",
+            "Quitely",
+            "Calmly",
+            "Secretly"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 581,
+        "question": "Coarse",
+        "options": [
+            "Rough",
+            "Training",
+            "Academic",
+            "Grain"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 582,
+        "question": "VAPID",
+        "options": [
+            "vital",
+            "virtuous",
+            "dull",
+            "priceless"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 583,
+        "question": "Thankful",
+        "options": [
+            "Proud",
+            "Singular",
+            "Condone",
+            "Grateful"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 584,
+        "question": "Renowned",
+        "options": [
+            "Brave",
+            "Famous",
+            "Notorious",
+            "Great"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 585,
+        "question": "CAVIL",
+        "options": [
+            "munch",
+            "appreciate",
+            "quibble",
+            "amuse"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 586,
+        "question": "ADMONISH",
+        "options": [
+            "caution",
+            "polish",
+            "escape",
+            "distribute"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 587,
+        "question": "Notorious",
+        "options": [
+            "Delight",
+            "Detest",
+            "Defer",
+            "Infamous"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 588,
+        "question": "OBNOXIOUS",
+        "options": [
+            "visible",
+            "dreamy",
+            "offensive",
+            "daring"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 589,
+        "question": "ABANDON",
+        "options": [
+            "forsake",
+            "admit",
+            "abstain",
+            "refrain"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 590,
+        "question": "Novice",
+        "options": [
+            "Trainer",
+            "Learner",
+            "Beginner",
+            "Virtuous"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 591,
+        "question": "Temperate",
+        "options": [
+            "Inventive",
+            "Forward",
+            "Moderate",
+            "Scenic"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 592,
+        "question": "INNATE",
+        "options": [
+            "essential",
+            "unique",
+            "inborn",
+            "important"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 593,
+        "question": "DISCOMFIT",
+        "options": [
+            "frustrate",
+            "litigate",
+            "conflict",
+            "embarrass"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 594,
+        "question": "PERSONABLE",
+        "options": [
+            "sensitive",
+            "self-centered",
+            "attractive",
+            "initimate"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 595,
+        "question": "HYPOTHETICAL",
+        "options": [
+            "two-faced",
+            "magical",
+            "visual",
+            "theoretical"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 596,
+        "question": "Lethargy",
+        "options": [
+            "Sluggishness",
+            "Frivolous",
+            "Laziness",
+            "Peerless"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 597,
+        "question": "HONORARY",
+        "options": [
+            "praiseworthy",
+            "honest",
+            "unpaid",
+            "dignified"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 598,
+        "question": "EVENTUALLY",
+        "options": [
+            "successfully",
+            "previously",
+            "finally",
+            "briefly"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 599,
+        "question": "CONNOISSEUR",
+        "options": [
+            "lover of art",
+            "ignorant",
+            "delinquent",
+            "interpreter"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 600,
+        "question": "Condone",
+        "options": [
+            "Sluggishness",
+            "Dead",
+            "Apex",
+            "Pardon"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 601,
+        "question": "Culmination",
+        "options": [
+            "Abyss",
+            "Cultivation",
+            "Conclusion",
+            "Climax"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 602,
+        "question": "Static",
+        "options": [
+            "Fancy",
+            "Firm",
+            "Distressing",
+            "Adjust"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 603,
+        "question": "Forerunner",
+        "options": [
+            "Debar",
+            "Loathe",
+            "Precursor",
+            "Prohibited"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 604,
+        "question": "Quick",
+        "options": [
+            "Alive",
+            "Block",
+            "Praise",
+            "Scheme"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 605,
+        "question": "ELASTIC",
+        "options": [
+            "broad",
+            "free",
+            "flexible",
+            "liberal"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 606,
+        "question": "Idea",
+        "options": [
+            "Emotion",
+            "Gist",
+            "Comprehension",
+            "Notion"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 607,
+        "question": "Deceptive",
+        "options": [
+            "Mistake",
+            "Debatable",
+            "Disagreeable",
+            "Misleading"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 608,
+        "question": "Caption",
+        "options": [
+            "Meaning",
+            "Title",
+            "Joke",
+            "Definition"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 609,
+        "question": "REDEEM",
+        "options": [
+            "recover",
+            "extend",
+            "reconsider",
+            "fulfil"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 610,
+        "question": "Aversion",
+        "options": [
+            "Dislike",
+            "Impudence",
+            "Aggression",
+            "Assertion"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 611,
+        "question": "Lament",
+        "options": [
+            "Foundling",
+            "Sorrow",
+            "Reconcile",
+            "Tolerant"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 612,
+        "question": "Vehemence",
+        "options": [
+            "Confidant",
+            "Force",
+            "Silly",
+            "Affliction"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 613,
+        "question": "Flimsy",
+        "options": [
+            "Justified",
+            "Impulsive",
+            "Weak",
+            "Strong"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 614,
+        "question": "Humility",
+        "options": [
+            "Reconcile",
+            "Ostentatious",
+            "Uncertainty",
+            "Politeness"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 615,
+        "question": "Weary",
+        "options": [
+            "Developed",
+            "Renowned",
+            "Exhausted",
+            "Agile"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 616,
+        "question": "Maiden speech",
+        "options": [
+            "First speech",
+            "Speech about women",
+            "Farewell speech",
+            "Short speech"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 617,
+        "question": "Obstinate",
+        "options": [
+            "Unreasonable",
+            "Mischievous",
+            "Foolish",
+            "Unyielding"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 618,
+        "question": "Indifferent",
+        "options": [
+            "Interference",
+            "Unconcerned",
+            "Dissimilar",
+            "Various"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 619,
+        "question": "ADVERSITY",
+        "options": [
+            "helplessness",
+            "crisis",
+            "failure",
+            "misfortune"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 620,
+        "question": "Collusion",
+        "options": [
+            "Consultation",
+            "Misunderstanding",
+            "Conflict",
+            "Secret agreement"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 621,
+        "question": "Pacify",
+        "options": [
+            "Rouse",
+            "Rejoice",
+            "Calm down",
+            "Satisfy"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 622,
+        "question": "INEVITABLE",
+        "options": [
+            "fixed",
+            "unavoidable",
+            "expected",
+            "probable"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 623,
+        "question": "GREGARIOUS",
+        "options": [
+            "clumsy",
+            "sociable",
+            "pugnacious",
+            "turbulent"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 624,
+        "question": "DILATE",
+        "options": [
+            "spin\r\n",
+            "weaken\r\n",
+            "widen\r\n",
+            "push\r\n"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 625,
+        "question": "COMMAND",
+        "options": [
+            "lead\r\n",
+            "instruc\r\n",
+            "manage\r\n",
+            "supervise\r\n"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 626,
+        "question": "Qualm",
+        "options": [
+            "Solicit",
+            "Enjoyment",
+            "Scruple",
+            "Slender"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 627,
+        "question": "Extravagant",
+        "options": [
+            "Sadness",
+            "Prodigal",
+            "Appreciative",
+            "Diligent"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 628,
+        "question": "Loyal",
+        "options": [
+            "Devoted",
+            "Resentful",
+            "Inadequate",
+            "Hidden"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 629,
+        "question": "Wreck",
+        "options": [
+            "Destroy",
+            "Valiant",
+            "Validate",
+            "Downfall"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 630,
+        "question": "ACCOST",
+        "options": [
+            "address",
+            "hesitate",
+            "insult",
+            "speculate"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 631,
+        "question": "Takes after",
+        "options": [
+            "Resembles",
+            "Imitates",
+            "Follows",
+            "Comes after"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 632,
+        "question": "PERNICIOUS",
+        "options": [
+            "expensive",
+            "deadly",
+            "gorgeous",
+            "curious"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 633,
+        "question": "Effete",
+        "options": [
+            "Exhausted",
+            "deserved",
+            "Kind",
+            "Diligent"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 634,
+        "question": "SOLILOQUY",
+        "options": [
+            "monologue",
+            "figure of speech",
+            "historical incident",
+            "isolated position"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 635,
+        "question": "IMPERATIVE",
+        "options": [
+            "necessity",
+            "order",
+            "suggestion",
+            "command"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 636,
+        "question": "Executioner",
+        "options": [
+            "Experimenter",
+            "One who inflict capital punishment",
+            "Executive engineer",
+            "Explorer"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 637,
+        "question": "Barren",
+        "options": [
+            "Unproductive",
+            "Profitable",
+            "Good",
+            "Wholesome"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 638,
+        "question": "DISTINCTION",
+        "options": [
+            "disagreement",
+            "degree",
+            "diffusion",
+            "difference"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 639,
+        "question": "Spirited",
+        "options": [
+            "Enthusiastic",
+            "Possessed",
+            "Heated",
+            "Drunk"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 640,
+        "question": "Resentment",
+        "options": [
+            "Disagreement",
+            "Dismissal",
+            "Annoyance",
+            "Dispatch"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 641,
+        "question": "DISMAL",
+        "options": [
+            "watery",
+            "deformed",
+            "bleak",
+            "impolite"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 642,
+        "question": "SCORN",
+        "options": [
+            "fierce",
+            "concise",
+            "bias",
+            "despise"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 643,
+        "question": "WHIMPER",
+        "options": [
+            "pacify",
+            "prevent",
+            "instigate",
+            "cry"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 644,
+        "question": "Anticipate",
+        "options": [
+            "Accept",
+            "Hope",
+            "Antagonise",
+            "Expect"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 645,
+        "question": "ZENITH",
+        "options": [
+            "summit",
+            "lowest point",
+            "compass",
+            "middle"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 646,
+        "question": "REITERATE",
+        "options": [
+            "stutter",
+            "reassess",
+            "repeat",
+            "rewrite"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 647,
+        "question": "Soporific",
+        "options": [
+            "Supreme",
+            "Sleep-inducing",
+            "Soothing",
+            "Terrific"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 648,
+        "question": "Flippant",
+        "options": [
+            "Caution",
+            "Humiliate",
+            "Pert",
+            "Deceitful"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 649,
+        "question": "Renown",
+        "options": [
+            "Unusual",
+            "Accede",
+            "Illusion",
+            "Reputation"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 650,
+        "question": "ACCLAIM",
+        "options": [
+            "applaud",
+            "discharge",
+            "excel",
+            "divide"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 651,
+        "question": "Furbish",
+        "options": [
+            "Exemption",
+            "Compress",
+            "Polish",
+            "Imaginative"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 652,
+        "question": "Cajole",
+        "options": [
+            "Wandering",
+            "Generous",
+            "Persuade",
+            "Inform"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 653,
+        "question": "Embrace",
+        "options": [
+            "Embarrass",
+            "Accept",
+            "Impress",
+            "Except"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 654,
+        "question": "Perilous",
+        "options": [
+            "Resilient",
+            "Requisite",
+            "Hazardous",
+            "Rigorous"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 655,
+        "question": "Crass",
+        "options": [
+            "Unrefined",
+            "Sterile",
+            "Casual",
+            "Formal"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 656,
+        "question": "Ulterior",
+        "options": [
+            "Sluggishness",
+            "Reflect",
+            "Concealed",
+            "Charitable"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 657,
+        "question": "VOGUE",
+        "options": [
+            "satisfaction",
+            "fashion",
+            "order",
+            "rejection"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 658,
+        "question": "PREVARICATE",
+        "options": [
+            "authentiacate",
+            "anticipate",
+            "delay",
+            "lie"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 659,
+        "question": "VOCATION",
+        "options": [
+            "examination\r\n",
+            "seminar\r\n",
+            "occupation\r\n",
+            "holiday\r\n"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 660,
+        "question": "APPOSITE",
+        "options": [
+            "none of these",
+            "appropriate",
+            "paiuful",
+            "foolish"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 661,
+        "question": "1)</span> &nbsp; Trit",
+        "options": [
+            "Clever",
+            "Brief",
+            "Impudent",
+            "Commonplace"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 662,
+        "question": "IRASCIBLE",
+        "options": [
+            "temperamental",
+            "envious",
+            "angry",
+            "irritable"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 663,
+        "question": "DELIIBERATELY",
+        "options": [
+            "spontaneously",
+            "inadvertently",
+            "intentionally",
+            "naturally"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 664,
+        "question": "4)</span> &nbsp; Coddl",
+        "options": [
+            "Huddle",
+            "Satisfy",
+            "Protect",
+            "Cheat"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 665,
+        "question": "Concealed",
+        "options": [
+            "Sealed",
+            "Hidden",
+            "Covered",
+            "Closed"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 666,
+        "question": "Forebode",
+        "options": [
+            "Failure",
+            "Forefront",
+            "Alarm",
+            "Foretell"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 667,
+        "question": "Emulate",
+        "options": [
+            "Forsake",
+            "Enthusiastic",
+            "Renounce",
+            "Imitate"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 668,
+        "question": "Exceptional",
+        "options": [
+            "Abridge",
+            "Distress",
+            "Reverse",
+            "Anomalous"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 669,
+        "question": "PESTER",
+        "options": [
+            "torture",
+            "console",
+            "gratify",
+            "disturb"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 670,
+        "question": "Prohibit",
+        "options": [
+            "Surfeit",
+            "Forbid",
+            "Firmness",
+            "Rest"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 671,
+        "question": "BLAND",
+        "options": [
+            "tasteless",
+            "unpleasant",
+            "affable",
+            "irritating"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 672,
+        "question": "MENAGE",
+        "options": [
+            "household",
+            "suffocation",
+            "law",
+            "system"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 673,
+        "question": "Irresolute",
+        "options": [
+            "Undecided",
+            "Canny",
+            "Succor",
+            "Cheerful"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 674,
+        "question": "Vivacious",
+        "options": [
+            "Ambiguity",
+            "Sprightly",
+            "Good",
+            "View"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 675,
+        "question": "Delirious",
+        "options": [
+            "Desperate",
+            "Excited",
+            "Delicious",
+            "Pleasing"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 676,
+        "question": "Extravagant",
+        "options": [
+            "Extraordinary",
+            "Spendthrift",
+            "Hardworking",
+            "Good"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 677,
+        "question": "VINDICTIVE",
+        "options": [
+            "demonstrative",
+            "revengeful",
+            "strategic",
+            "triumphant"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 678,
+        "question": "Radiant",
+        "options": [
+            "Insignificant",
+            "Rage",
+            "Brilliant",
+            "Fleshy"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 679,
+        "question": "DEFAMATION",
+        "options": [
+            "deterioration",
+            "slander",
+            "infeciton",
+            "debt"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 680,
+        "question": "BLITHE",
+        "options": [
+            "other worldly",
+            "graceful",
+            "giddy",
+            "joyous"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 681,
+        "question": "ERUDITE",
+        "options": [
+            "settle",
+            "execute",
+            "academic",
+            "expanse"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 682,
+        "question": "HAUGHTY",
+        "options": [
+            "empire",
+            "imperial",
+            "adamant",
+            "arrogant"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 683,
+        "question": "DEVOID",
+        "options": [
+            "stupid",
+            "evasive",
+            "lacking",
+            "hopeless"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 684,
+        "question": "Reciprocal",
+        "options": [
+            "Mutual",
+            "Sustainable",
+            "Formal",
+            "Favorable"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 685,
+        "question": "Sufficient",
+        "options": [
+            "Enough",
+            "Less",
+            "Full",
+            "Complete"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 686,
+        "question": "Sundry",
+        "options": [
+            "Certain",
+            "Several",
+            "Countless",
+            "Various"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 687,
+        "question": "Adorn",
+        "options": [
+            "Suspect",
+            "Beautify",
+            "Trust",
+            "Writer"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 688,
+        "question": "FEIGN",
+        "options": [
+            "condone",
+            "pretend",
+            "condemn",
+            "attend"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 689,
+        "question": "TAINT",
+        "options": [
+            "corrupt",
+            "soil",
+            "dirty",
+            "stain"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 690,
+        "question": "Zealous",
+        "options": [
+            "Furious",
+            "Impatient",
+            "Ardent",
+            "Jealous"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 691,
+        "question": "Conversant",
+        "options": [
+            "Merciless",
+            "Detest",
+            "Familiar",
+            "Inadequate"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 692,
+        "question": "FASCINATE",
+        "options": [
+            "impulsive",
+            "captivate",
+            "fashionable",
+            "irritating"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 693,
+        "question": "EGRESSION",
+        "options": [
+            "hostility",
+            "digression",
+            "departure",
+            "effusion"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 694,
+        "question": "Quarantined",
+        "options": [
+            "Separated",
+            "Loquacious",
+            "Rebuke",
+            "Nostalgic"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 695,
+        "question": "Imbecility",
+        "options": [
+            "Verbosity",
+            "Incoherence",
+            "Stupidity",
+            "Rusticity"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 696,
+        "question": "Condign",
+        "options": [
+            "Compassionate",
+            "Due",
+            "Merciless",
+            "Furious"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 697,
+        "question": "Zenith",
+        "options": [
+            "Perspicacious",
+            "Peak",
+            "Reflect",
+            "Helper"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 698,
+        "question": "Contingent",
+        "options": [
+            "Proportionate",
+            "Liable",
+            "Confidant",
+            "Trustworthy"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 699,
+        "question": "APPRAISAL",
+        "options": [
+            "investigation",
+            "estimation",
+            "approval",
+            "praise"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 700,
+        "question": "Cordial",
+        "options": [
+            "Sophisticated",
+            "Reserved",
+            "Smooth",
+            "Friendly"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 701,
+        "question": "GERMINATE",
+        "options": [
+            "sprout",
+            "decay",
+            "produce",
+            "breed"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 702,
+        "question": "Lively",
+        "options": [
+            "Active",
+            "Foreboding",
+            "Trustworthy",
+            "Attentiveness"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 703,
+        "question": "Cease",
+        "options": [
+            "Create",
+            "Dull",
+            "Begin",
+            "Stop"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 704,
+        "question": "Remorse",
+        "options": [
+            "Barren",
+            "Contention",
+            "Repentance",
+            "Orphan"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 705,
+        "question": "Vindictive",
+        "options": [
+            "Rebuke",
+            "Sorrow",
+            "Suffering",
+            "Revengeful"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 706,
+        "question": "Provisional",
+        "options": [
+            "Visible",
+            "Temporary",
+            "Casual",
+            "Lucky"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 707,
+        "question": "INTELLECT",
+        "options": [
+            "reverie",
+            "rationality",
+            "insanity",
+            "imbecility"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 708,
+        "question": "TEDIOUS",
+        "options": [
+            "lengthy",
+            "tiresome",
+            "troublesome",
+            "painful"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 709,
+        "question": "Wile",
+        "options": [
+            "Delight",
+            "Trickery",
+            "Improve",
+            "Decree"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 710,
+        "question": "ABIDE",
+        "options": [
+            "comment",
+            "hold",
+            "accept",
+            "encourage"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 711,
+        "question": "Aberration",
+        "options": [
+            "Reconcile",
+            "Difficult",
+            "Merry",
+            "Deviation"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 712,
+        "question": "Jealous",
+        "options": [
+            "Regretful",
+            "Remorse",
+            "Envious",
+            "Unhappy"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 713,
+        "question": "INFREQUENT",
+        "options": [
+            "sometimes",
+            "never",
+            "rare",
+            "usual"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 714,
+        "question": "JEALOUS",
+        "options": [
+            "ferocious",
+            "obvious",
+            "envious",
+            "atrocious"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 715,
+        "question": "Dubious",
+        "options": [
+            "Duplicate",
+            "Dangerous",
+            "Doubtful",
+            "Disputable"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 716,
+        "question": "PHENOMENAL",
+        "options": [
+            "extraordinary",
+            "incidental",
+            "natural",
+            "eventful"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 717,
+        "question": "CONCERT",
+        "options": [
+            "none of these",
+            "beauty",
+            "agreement",
+            "power"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 718,
+        "question": "Innuendoes",
+        "options": [
+            "Witty remarks",
+            "Insinuations",
+            "Indications",
+            "Inspiring quotes"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 719,
+        "question": "Fastidious",
+        "options": [
+            "Old-fashioned",
+            "Cheer",
+            "Dainty",
+            "Industrious"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 720,
+        "question": "Rural",
+        "options": [
+            "Contemplative",
+            "Isolated",
+            "Nullify",
+            "Suburban"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 721,
+        "question": "Predominantly",
+        "options": [
+            "Mostly",
+            "Profoundly",
+            "Emphatically",
+            "Forcefully"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 722,
+        "question": "Appalled",
+        "options": [
+            "Scared",
+            "Alarmed",
+            "Shocked",
+            "Saddened"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 723,
+        "question": "Ostracise",
+        "options": [
+            "Banish",
+            "Berate",
+            "Censure",
+            "Sentence"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 724,
+        "question": "Emulate",
+        "options": [
+            "Follow",
+            "Assess",
+            "Praise",
+            "Find out"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 725,
+        "question": "Blister",
+        "options": [
+            "Attack",
+            "Wound",
+            "Chatter",
+            "Travel"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 726,
+        "question": "BIZARRE",
+        "options": [
+            "comical",
+            "colourful",
+            "exotic",
+            "strange"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 727,
+        "question": "Dishonour",
+        "options": [
+            "Uncouth",
+            "Wicked",
+            "Infamy",
+            "Glory"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 728,
+        "question": "Obscene",
+        "options": [
+            "Indecent",
+            "Unwanted",
+            "Dirty",
+            "Unhealthy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 729,
+        "question": "ASSIMILATE",
+        "options": [
+            "assemble",
+            "absorb",
+            "receive",
+            "arrange"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 730,
+        "question": "INDIGENCE",
+        "options": [
+            "scarcity",
+            "poverty",
+            "suffering",
+            "prosperity"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 731,
+        "question": "Portray",
+        "options": [
+            "Frivolous",
+            "Rustic",
+            "Delineate",
+            "Impotent"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 732,
+        "question": "Sporadic",
+        "options": [
+            "Irregular",
+            "Persistent",
+            "Surviving",
+            "Sweeping"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 733,
+        "question": "HARMONY",
+        "options": [
+            "hierarchy",
+            "cemetery",
+            "symmetry",
+            "ceremony"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 734,
+        "question": "Reparation",
+        "options": [
+            "Aspersion",
+            "Delegation",
+            "Compensation",
+            "Co-relation"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 735,
+        "question": "EFFICACY",
+        "options": [
+            "solemnity",
+            "delicacy",
+            "efficiency",
+            "ruthlessness"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 736,
+        "question": "Anonymity",
+        "options": [
+            "Being unknown",
+            "Wrong address",
+            "Reputation",
+            "Publicity"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 737,
+        "question": "Redundant",
+        "options": [
+            "Introspective",
+            "Knowledgeable",
+            "Superfluous",
+            "Uninterested"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 738,
+        "question": "OVERSTRUNG",
+        "options": [
+            "too sensitive",
+            "active",
+            "concerned",
+            "energetic"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 739,
+        "question": "CORDON",
+        "options": [
+            "none of these",
+            "pile of logs",
+            "line of people placed as guard",
+            "heavy cloak"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 740,
+        "question": "Abstemious",
+        "options": [
+            "Superstitions",
+            "Careful",
+            "Resistant",
+            "Temperate"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 741,
+        "question": "Knave",
+        "options": [
+            "Grieve",
+            "Fraud",
+            "Obscured",
+            "Unyielding"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 742,
+        "question": "Blessing",
+        "options": [
+            "Spruce",
+            "Vacillating",
+            "Benediction",
+            "Reconcile"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 743,
+        "question": "Latent",
+        "options": [
+            "Potent",
+            "Talented",
+            "Primitive",
+            "Hidden"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 744,
+        "question": "CATASTROPHE",
+        "options": [
+            "hatred",
+            "tragedy",
+            "violence",
+            "anger"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 745,
+        "question": "Pompous",
+        "options": [
+            "Modest",
+            "Skilled",
+            "Grandiose",
+            "Polished"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 746,
+        "question": "Pensive",
+        "options": [
+            "Penitent",
+            "Unattached",
+            "Careless",
+            "Thoughtful"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 747,
+        "question": "INTREPID",
+        "options": [
+            "fearless",
+            "moist",
+            "tolerant",
+            "rude"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 748,
+        "question": "JEREMAI",
+        "options": [
+            "accident",
+            "friction",
+            "trouble",
+            "incident"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 749,
+        "question": "TRIVIAL",
+        "options": [
+            "ordinary",
+            "crucial",
+            "vital",
+            "significant"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 750,
+        "question": "Electrifying",
+        "options": [
+            "Exciting",
+            "Disturbing",
+            "Attractive",
+            "Fearsome"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 751,
+        "question": "Homage",
+        "options": [
+            "Obedience",
+            "Allegiance",
+            "Humility",
+            "Tribute"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 752,
+        "question": "Melancholy",
+        "options": [
+            "Energetic",
+            "Gloomy",
+            "Hindrance",
+            "Strong"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 753,
+        "question": "BEQUEST",
+        "options": [
+            "patrimony",
+            "parsimony",
+            "heritage",
+            "matrimony"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 754,
+        "question": "Tentative",
+        "options": [
+            "Temporary",
+            "Heart-rending",
+            "Cheerful",
+            "Avoid"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 755,
+        "question": "Exigency",
+        "options": [
+            "Emergency",
+            "Assist",
+            "Sorrow",
+            "Obscured"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 756,
+        "question": "BUOYANT",
+        "options": [
+            "light-hearted",
+            "childlike",
+            "brisk",
+            "sturdy"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 757,
+        "question": "Indict",
+        "options": [
+            "Indoctrination",
+            "Inducement",
+            "To accuse",
+            "Entrapment"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 758,
+        "question": "Horrendous",
+        "options": [
+            "Mildly sincere",
+            "Most pleasant",
+            "Very huge",
+            "Greatly unpleasant"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 759,
+        "question": "Ill-favoured",
+        "options": [
+            "Short-tempered",
+            "Ugly",
+            "Unlucky",
+            "Weak in health"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 760,
+        "question": "DELEGATE",
+        "options": [
+            "representative",
+            "officer",
+            "member",
+            "participant"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 761,
+        "question": "SUFFICE",
+        "options": [
+            "eat up",
+            "endure",
+            "annex",
+            "be adeqaute"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 762,
+        "question": "Tyro",
+        "options": [
+            "Speech",
+            "Compassionate",
+            "Amateur",
+            "Indifferent"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 763,
+        "question": "Abet",
+        "options": [
+            "Zenith",
+            "Triumphant",
+            "Aid",
+            "Gratuity"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 764,
+        "question": "KITTY",
+        "options": [
+            "drowsy",
+            "romantic",
+            "pooled fund",
+            "cheap"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 765,
+        "question": "AMNESTY",
+        "options": [
+            "pardon",
+            "revolt",
+            "farewell",
+            "privilege"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 766,
+        "question": "RETRIBUTION",
+        "options": [
+            "discount",
+            "contempt",
+            "punishment",
+            "revenge"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 767,
+        "question": "7)</span> &nbsp; Flims",
+        "options": [
+            "Partisan",
+            "Weak",
+            "Irrational",
+            "Funny"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 768,
+        "question": "Familiar",
+        "options": [
+            "Relative",
+            "Common",
+            "Well-known",
+            "Familial"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 769,
+        "question": "MANIA",
+        "options": [
+            "illusion",
+            "fame",
+            "fear",
+            "greatness"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 770,
+        "question": "10)</span> &nbsp; Genia",
+        "options": [
+            "Specific",
+            "Careful",
+            "Unselfish",
+            "Cordial"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 771,
+        "question": "Jolly",
+        "options": [
+            "Developed",
+            "Jovial",
+            "Brief",
+            "Coax"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 772,
+        "question": "Intrepid",
+        "options": [
+            "Extrovert",
+            "Familiarity",
+            "Hesitant",
+            "Fearless"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 773,
+        "question": "TERMINATE",
+        "options": [
+            "interrupt",
+            "suspend",
+            "end",
+            "dismiss"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 774,
+        "question": "Insolent",
+        "options": [
+            "Insulting",
+            "Frivolous",
+            "Violent",
+            "Polite"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 775,
+        "question": "VITUPERATE",
+        "options": [
+            "encourage",
+            "appreciate",
+            "appraise",
+            "abuse"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 776,
+        "question": "APLOMB",
+        "options": [
+            "self-assurance",
+            "caution",
+            "timidity",
+            "shortsightedness"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 777,
+        "question": "ABNEGATION",
+        "options": [
+            "self-criticism",
+            "self-denial",
+            "self-praise",
+            "self-sacrifice"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 778,
+        "question": "EMULATE",
+        "options": [
+            "inspite to win",
+            "trying to do as well",
+            "likely to be late",
+            "enable"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 779,
+        "question": "Solecism",
+        "options": [
+            "Clever argument",
+            "Grammatical error",
+            "Abuse",
+            "Witty quip"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 780,
+        "question": "Impetus",
+        "options": [
+            "Retarded growth",
+            "Driving force",
+            "Financial support",
+            "Accelerated growth"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 781,
+        "question": "Poignant",
+        "options": [
+            "Mortal",
+            "Preclude",
+            "Hollow",
+            "Touching"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 782,
+        "question": "Interfere",
+        "options": [
+            "Object",
+            "Copy",
+            "Meddle",
+            "Help"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 783,
+        "question": "Statute",
+        "options": [
+            "Remark",
+            "Oppressor",
+            "Law",
+            "Devout"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 784,
+        "question": "Avert",
+        "options": [
+            "Excuse",
+            "Avoid",
+            "Hide",
+            "Obey"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 785,
+        "question": "Cajole",
+        "options": [
+            "Direct",
+            "Recommend",
+            "Insist",
+            "Persuade"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 786,
+        "question": "Candid",
+        "options": [
+            "Arrogant",
+            "Careless",
+            "Overconfident",
+            "Frank"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 787,
+        "question": "7)</span> &nbsp; Prodiga",
+        "options": [
+            "Carefree",
+            "Lavish",
+            "Productive",
+            "Productive"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 788,
+        "question": "8)</span> &nbsp; Intrepi",
+        "options": [
+            "Hesitant",
+            "Extrovert",
+            "Fearless",
+            "Rash"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 789,
+        "question": "MAGNATE",
+        "options": [
+            "symbolic",
+            "tycoon",
+            "non-magnetic",
+            "senior executive"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 790,
+        "question": "WEAN",
+        "options": [
+            "alienate",
+            "introduce",
+            "detach",
+            "withdraw"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 791,
+        "question": "Infamy",
+        "options": [
+            "Integrity",
+            "Familiarity",
+            "Notoriety",
+            "Glory"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 792,
+        "question": "Prerogative",
+        "options": [
+            "Privilege",
+            "Difficult",
+            "Silly",
+            "Erring"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 793,
+        "question": "Fallible",
+        "options": [
+            "Imperfect",
+            "Mammoth",
+            "Adjust",
+            "Remarkable"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 794,
+        "question": "Accentuated",
+        "options": [
+            "Mitigated",
+            "Sharpened",
+            "Accent",
+            "Devalued"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 795,
+        "question": "Impeccable",
+        "options": [
+            "Faultless",
+            "Criminal",
+            "Perfect",
+            "Fair"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 796,
+        "question": " ANCESTORS",
+        "options": [
+            "extinct tribes\r\n",
+            "relatives\r\n",
+            "forefathers\r\n",
+            "old people\r\n"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question_id": 797,
+        "question": "Warranty",
+        "options": [
+            "Order for arrest",
+            "Issue",
+            "Threat",
+            "Guarantee"
+        ],
+        "correct_option": 4
+    },
+    {
+        "question_id": 798,
+        "question": "ANNOTATION",
+        "options": [
+            "explanatory note",
+            "translation",
+            "quip",
+            "prologue"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question_id": 799,
+        "question": "Reticent",
+        "options": [
+            "Not feeling well",
+            "Not saying much",
+            "Sensitive",
+            "Secretive"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question_id": 800,
+        "question": "Trauma",
+        "options": [
+            "Type of medicine",
+            "Emotional shock",
+            "Accident",
+            "Art form"
+        ],
+        "correct_option": 2
+    }
+]
